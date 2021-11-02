@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+
+# Environments
+envs/.env.default
+venv/
+.env
+.venv
+.vscode/
+
+
+# Distributions
+.Python
+.eggs/
+*.egg-info/
+var/
+wheels/
+sdist/
+dist/
+pip-wheel-metadata/
+MANIFEST/
+
+# Testing
+cov.xml
+coverage.xml
+.coverage
+.hypothesis/
+.pytest_cache
+
+# Sonarcloud
+.scannerwork/
+
+# Creds
+config.yml
+
+

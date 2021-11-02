@@ -1,0 +1,674 @@
+,Id,StartDate,CategoryCode,Venue,Date,CompetitionId,CompetitionName,ClassCode,EventId
+0,65898.0,2018-02-24 23:00:00,Women Elite,Oostmalle,25 Feb 2018,40869,Internationale Sluitingsprijs Oostmalle,C1,73923
+1,65821.0,2018-02-17 23:00:00,Women Elite,Hulst,18 Feb 2018,41037,Vestingcross Hulst,C2,73827
+2,65738.0,2018-02-16 23:00:00,Women Elite,Middelkerke,17 Feb 2018,40912,Telenet Superprestige Noordzeecross Middelkerke,C1,73984
+3,65801.0,2018-02-10 23:00:00,Women Elite,Hoogstraten,11 Feb 2018,40876,Telenet Superprestige Hoogstraten,C1,73826
+4,66154.0,2018-02-09 23:00:00,Women Elite,Lille,10 Feb 2018,40899,DVV verzekeringen trofee - Krawatencross,C1,74197
+5,66152.0,2018-02-06 23:00:00,Women Elite,Maldegem,07 Feb 2018,40971,Parkcross Maldegem,C2,74059
+6,66127.0,2018-02-02 23:00:00,Women Elite,Valkenburg Province Limburg,03 Feb 2018,40930,"UCI Cyclo-cross World Championships, Valkenburg",CM,73961
+7,65865.0,2018-01-27 23:00:00,Women Elite,Hoogerheide,28 Jan 2018,40925,"2017-2018 Telenet UCI Cyclo-cross World Cup, Hoogerheide Provincie Noord-Brabant",CDM,74139
+8,66108.0,2018-01-26 23:00:00,Women Elite,Rucphen,27 Jan 2018,40990,Internationale Cyclocross Rucphen,C2,73955
+9,65669.0,2018-01-20 23:00:00,Women Elite,Leudelange,21 Jan 2018,40906,Grand Prix Möbel Alvisse,C2,74083
+10,66208.0,2018-01-20 23:00:00,Women Elite,Nommay,21 Jan 2018,40926,"2017-2018 Telenet UCI Cyclo-cross World Cup, Nommay Pays de Montbeliard",CDM,74264
+11,66177.0,2018-01-20 23:00:00,Women Elite,Vittorio Veneto TV,21 Jan 2018,41049,Gran Premio Città di Vittorio Veneto,C2,74279
+12,65920.0,2018-01-20 23:00:00,Women Elite,Valongo,21 Jan 2018,41067,Ciclocrosse Internacional de Valongo,C2,74299
+13,66093.0,2018-01-19 23:00:00,Women Elite,Zonnebeke,20 Jan 2018,40873,Kasteelcross Zonnebeke,C2,74036
+14,65981.0,2018-01-14 23:00:00,Women Elite,Otegem,15 Jan 2018,40989,Cyclocross Otegem,C2,74010
+15,65933.0,2018-01-13 23:00:00,Women Elite,"Reno, NV",14 Jan 2018,40887,USA National Championships,CN,74301
+16,66011.0,2018-01-13 23:00:00,Women Elite,Leinster,14 Jan 2018,40893,Irish National Championships,CN,74236
+17,65617.0,2018-01-13 23:00:00,Women Elite,Pula,14 Jan 2018,40896,Croatian National Championships,CN,74300
+18,65624.0,2018-01-13 23:00:00,Women Elite,,14 Jan 2018,40897,Hungarian National Championships,CN,73926
+19,66175.0,2018-01-13 23:00:00,Women Elite,Melgaço,14 Jan 2018,40999,Portugese National Championships,CN,73871
+20,65810.0,2018-01-12 23:00:00,Women Elite,Bensheim,13 Jan 2018,40882,German National Championships,CN,74097
+21,66168.0,2018-01-12 23:00:00,Women Elite,Legazpi (Gipukoa),14 Jan 2018,40883,Spanish National Championships,CN,73857
+22,124990.0,2018-01-12 23:00:00,Women Elite,Koksijde,14 Jan 2018,40884,Belgian National Championships,CN,163507
+23,66042.0,2018-01-12 23:00:00,Women Elite,Surhuisterveen,14 Jan 2018,40886,Dutch National Championships,CN,74049
+24,66074.0,2018-01-12 23:00:00,Women Elite,Holbaek,13 Jan 2018,40890,Danish National Championships,CN,74181
+25,65951.0,2018-01-12 23:00:00,Women Elite,Kayl,13 Jan 2018,40891,Luxembourg National Championships,CN,74233
+26,66099.0,2018-01-12 23:00:00,Women Elite,"Hetton Lyons Country Park, Houghton-Le-Spring",13 Jan 2018,40911,British National Championships,CN,74256
+27,65868.0,2018-01-12 23:00:00,Women Elite,Kozieglowy,13 Jan 2018,40970,Polish National Championships,CN,74135
+28,65924.0,2018-01-12 23:00:00,Women Elite,Steinmaur,13 Jan 2018,41003,Swiss National Championships,CN,74211
+29,65655.0,2018-01-12 23:00:00,Women Elite,Quelneuc,13 Jan 2018,41052,French National Championships,CN,73933
+30,65974.0,2018-01-12 23:00:00,Women Elite,Mlada Boleslav,13 Jan 2018,41060,"Czech National Championships - ME, WE",CN,74375
+31,124094.0,2018-01-12 23:00:00,Women Elite,Göteborg,13 Jan 2018,52489,Swedish National Championships,CN,162587
+32,65799.0,2018-01-06 23:00:00,Women Elite,Leuven,07 Jan 2018,40879,GP Leuven,C1,73942
+33,65906.0,2018-01-06 23:00:00,Women Elite,Ipswich,07 Jan 2018,40995,National Trophy Series - Ipswich,C2,74210
+34,65677.0,2018-01-05 23:00:00,Women Elite,Roma,06 Jan 2018,40888,Italian National Championships,CN,74365
+35,77332.0,2018-01-05 23:00:00,Women Elite,St. Pölten,06 Jan 2018,41372,Austrian National Championships,CN,80444
+36,117231.0,2018-01-05 23:00:00,Women Elite,Abadino,06 Jan 2018,50436,Abadinoko Udala Saria Ziklokrosa,C2,147302
+37,65762.0,2018-01-01 23:00:00,Women Elite,Meilen,02 Jan 2018,41006,EKZ CrossTour,C1,74199
+38,65733.0,2017-12-31 23:00:00,Women Elite,Baal,01 Jan 2018,40892,DVV verzekeringen trofee - GP Sven Nys,C1,74354
+39,65918.0,2017-12-31 23:00:00,Women Elite,Pétange,01 Jan 2018,40931,Grand Prix G.I.L. Immobilière,C2,74138
+40,65646.0,2017-12-29 23:00:00,Women Elite,Diegem,30 Dec 2017,40877,Telenet Superprestige Diegem,C1,74078
+41,66036.0,2017-12-29 23:00:00,Women Elite,Flamanville,30 Dec 2017,40943,4ème manche de la Coupe de France,C1,74406
+42,65645.0,2017-12-28 23:00:00,Women Elite,Bredene,29 Dec 2017,40904,Cyclocross Bredene,C2,74316
+43,65893.0,2017-12-27 23:00:00,Women Elite,Loenhout,28 Dec 2017,40905,DVV verzekeringen trofee - Azencross,C1,74302
+44,65954.0,2017-12-25 23:00:00,Women Elite,Dagmersellen,26 Dec 2017,40880,Internationales Radquer Dagmersellen,C2,73937
+45,65864.0,2017-12-25 23:00:00,Women Elite,Heusden-Zolder,26 Dec 2017,40924,"2017-2018 Telenet UCI Cyclo-cross World Cup, Heusden-Zolder",CDM,74130
+46,66148.0,2017-12-22 23:00:00,Women Elite,Sint-Niklaas,23 Dec 2017,40908,Waaslandcross,C2,74271
+47,66165.0,2017-12-16 23:00:00,Women Elite,Valencia,17 Dec 2017,40900,Cyclo-Cross Internacional Ciudad de Valencia,C2,74418
+48,66123.0,2017-12-16 23:00:00,Women Elite,Namur,17 Dec 2017,40923,"2017-2018 Telenet UCI Cyclo-cross World Cup, Namur",CDM,74257
+49,124919.0,2017-12-16 23:00:00,Women Elite,Sibiu,17 Dec 2017,52593,Romania National Championships,CN,163379
+50,66026.0,2017-12-15 23:00:00,Women Elite,Antwerpen,16 Dec 2017,40951,DVV verzekeringen trofee - Scheldecross,C1,74107
+51,66145.0,2017-12-09 23:00:00,Women Elite,Overijse,10 Dec 2017,40875,Vlaamse Druivencross,C1,74195
+52,66185.0,2017-12-09 23:00:00,Women Elite,"Hendersonville, NC",10 Dec 2017,40919,North Carolina Grand Prix - Race 2,C2,74281
+53,65904.0,2017-12-09 23:00:00,Women Elite,Igorre,10 Dec 2017,40921,Ziklo kross Igorre,C2,74213
+54,65652.0,2017-12-09 23:00:00,Women Elite,Bradford,10 Dec 2017,41001,National Trophy Series - Bradford,C2,74152
+55,65823.0,2017-12-09 23:00:00,Women Elite,Eschenbach,10 Dec 2017,41005,EKZ CrossTour,C1,73946
+56,120289.0,2017-12-09 23:00:00,Women Elite,"Garland (Dallas), TX",10 Dec 2017,51722,Resolution 'Cross Cup,C2,159037
+57,,2017-12-08 23:00:00,,,,40885,Czech National Championships - MJ,CN,159037
+58,65979.0,2017-12-08 23:00:00,Women Elite,Essen,09 Dec 2017,40910,DVV verzekeringen trofee - IKO cyclocross - Essen,C1,74159
+59,65931.0,2017-12-08 23:00:00,Women Elite,"Hendersonville, NC",09 Dec 2017,40918,North Carolina Grand Prix - Race 1,C2,74212
+60,66140.0,2017-12-08 23:00:00,Women Elite,Kolín,09 Dec 2017,40957,Toi Toi Cup,C1,73892
+61,65917.0,2017-12-08 23:00:00,Women Elite,"Minamimaki Villge, Nagano",10 Dec 2017,41026,Japan National Championships,CN,73988
+62,65629.0,2017-12-08 23:00:00,Women Elite,Gorizia,09 Dec 2017,41051,13° Trofeo di Gorizia,C2,73996
+63,120287.0,2017-12-08 23:00:00,Women Elite,"Garland (Dallas), TX",09 Dec 2017,51721,Resolution 'Cross Cup,C2,159036
+64,65756.0,2017-12-07 23:00:00,Women Elite,Fae' Di Oderzo - Treviso,08 Dec 2017,40953,Ciclocross del Ponte,C2,74350
+65,66034.0,2017-12-07 23:00:00,Women Elite,Les Franqueses del Valles,08 Dec 2017,41030,Gran Premi Les Franqueses del Valles,C2,74048
+66,66098.0,2017-12-07 23:00:00,Women Elite,Ametzaga de Zuia,08 Dec 2017,41043,XIII Trofeo San Andres,C2,74332
+67,65867.0,2017-12-05 23:00:00,Women Elite,Manlleu,06 Dec 2017,41044,Trofeo Joan Soler Copa Espana,C2,74359
+68,65614.0,2017-12-02 23:00:00,Women Elite,Sion,03 Dec 2017,40956,Cyclocross International Sion-Valais,C2,74370
+69,65676.0,2017-12-02 23:00:00,Women Elite,Warwick,03 Dec 2017,40965,NBX GP of Cross 2,C2,74144
+70,65892.0,2017-12-02 23:00:00,Women Elite,Mol,03 Dec 2017,41014,Zilvermeercross,C2,73897
+71,65829.0,2017-12-02 23:00:00,Women Elite,"Broken Arrow, OK",03 Dec 2017,41022,Ruts 'n' Guts Day 2,C2,74387
+72,65744.0,2017-12-02 23:00:00,Women Elite,Jablines,03 Dec 2017,41047,3ème manche de la Coupe de France,C1,73907
+73,65755.0,2017-12-02 23:00:00,Women Elite,"Utsunomiya city,Tochigi Prefecture",03 Dec 2017,41066,Utsunomiya cyclo cross series,C2,73904
+74,117543.0,2017-12-02 23:00:00,Women Elite,Banovce nad Bebravou,03 Dec 2017,50553,Slovakia National Championships,CN,147675
+75,65891.0,2017-12-01 23:00:00,Women Elite,Hasselt,02 Dec 2017,40932,GP Hasselt,C1,74218
+76,65719.0,2017-12-01 23:00:00,Women Elite,Milovice,02 Dec 2017,40959,Toi Toi Cup,C2,74208
+77,65929.0,2017-12-01 23:00:00,Women Elite,"Warwick, RI",02 Dec 2017,40964,NBX GP of Cross 1,C2,74209
+78,65930.0,2017-12-01 23:00:00,Women Elite,"Broken Arrow, OK",02 Dec 2017,41021,Ruts 'n' Guts Day 1,C1,74133
+79,66047.0,2017-12-01 23:00:00,Women Elite,Nyon,02 Dec 2017,41046,Cyclo-cross international de Nyon,C2,74189
+80,66144.0,2017-11-25 23:00:00,Women Elite,Hamme,26 Nov 2017,40903,DVV verzekeringen trofee - Flandriencross,C1,73974
+81,65814.0,2017-11-25 23:00:00,Women Elite,"Minamimaki Village, Nagano",26 Nov 2017,41017,Rapha Supercross Nobeyama -Day 2,C2,74246
+82,65631.0,2017-11-25 23:00:00,Women Elite,Brugherio,26 Nov 2017,41023,International Cyclocross Selle SMP -9° Trof.Cop.ed.Brugherio82,C2,74084
+83,66162.0,2017-11-25 23:00:00,Women Elite,"Cyclopark, Gravesend",26 Nov 2017,41061,National Trophy Series: Cyclopark,C2,74119
+84,65961.0,2017-11-24 23:00:00,Women Elite,Zeven,25 Nov 2017,40929,"2017-2018 Telenet UCI Cyclo-cross World Cup, Zeven",CDM,73875
+85,65665.0,2017-11-24 23:00:00,Women Elite,"Minamimaki Village, Nagano",25 Nov 2017,41016,Rapha Supercross Nobeyama -Day 1,C2,74149
+86,66059.0,2017-11-18 23:00:00,Women Elite,Bogense,19 Nov 2017,40928,"2017-2018 Telenet UCI Cyclo-cross World Cup, Bogense",CDM,74343
+87,65637.0,2017-11-18 23:00:00,Women Elite,Pferdezentrum Stadl-Paura,19 Nov 2017,40974,Int. Radquerfeldein GP Lambach/Stadl-Paura,C2,74227
+88,65957.0,2017-11-18 23:00:00,Women Elite,Moreno Valley,19 Nov 2017,40988,CXLA Weekend: Cyclocross Los Angeles,C2,73890
+89,65813.0,2017-11-18 23:00:00,Women Elite,Takashima City Shiga Prefecture,19 Nov 2017,41009,KANSAI Cyclo Cross Makino Round,C2,74098
+90,66053.0,2017-11-18 23:00:00,Women Elite,"Indianapolis, IN",19 Nov 2017,41045,Major Taylor 'Cross Cup Day 2,C2,73968
+91,66117.0,2017-11-18 23:00:00,Women Elite,"Suffern , NY",19 Nov 2017,41069,Supercross Day 2,C2,74335
+92,65764.0,2017-11-17 23:00:00,Women Elite,Moreno Valley,18 Nov 2017,40987,CXLA Weekend: Cyclocross Los Angeles,C2,74200
+93,65827.0,2017-11-17 23:00:00,Women Elite,"Indianapolis, IN",18 Nov 2017,41048,Major Taylor 'Cross Cup Day 1,C2,74171
+94,65956.0,2017-11-17 23:00:00,Women Elite,"Suffern , NY",18 Nov 2017,41068,Supercross Day 1,C2,74162
+95,66023.0,2017-11-11 23:00:00,Women Elite,Gavere,12 Nov 2017,40874,Telenet Superprestige Gavere,C1,74047
+96,65984.0,2017-11-11 23:00:00,Women Elite,Shrewsbury,12 Nov 2017,40895,National Trophy Series: Shrewsbury,C2,74376
+97,66130.0,2017-11-11 23:00:00,Women Elite,Arendal,12 Nov 2017,40898,Norwegian National Championships,CN,73977
+98,65826.0,2017-11-11 23:00:00,Women Elite,"Northampton, MA",12 Nov 2017,40914,The Northampton International,C2,74028
+99,65923.0,2017-11-11 23:00:00,Women Elite,Madiswil,12 Nov 2017,40993,Flückiger Cross Madiswil,C1,73847
+100,65626.0,2017-11-11 23:00:00,Women Elite,Elorrio,12 Nov 2017,41004,Elorrioko Ziklokrosa Basqueland,C1,74317
+101,65900.0,2017-11-11 23:00:00,Women Elite,La Meziere,12 Nov 2017,41012,2ème manche de la Coupe de France,C1,74304
+102,117460.0,2017-11-11 23:00:00,Women Elite,"Tulsa, OK",12 Nov 2017,50479,Cyntergy Hurtland,C2,147653
+103,117540.0,2017-11-11 23:00:00,Women Elite,Kosice,12 Nov 2017,50558,"Slovenský pohár v cyklokrose, GP Kosice",C2,147672
+104,65643.0,2017-11-10 23:00:00,Women Elite,Niel,11 Nov 2017,40872,Jaarmarktcross,C2,74002
+105,66050.0,2017-11-10 23:00:00,Women Elite,"Northampton, MA",11 Nov 2017,40913,The Northampton International,C2,73856
+106,65971.0,2017-11-10 23:00:00,Women Elite,Uničov,11 Nov 2017,40960,Toi Toi Cup,C1,74374
+107,,2017-11-10 23:00:00,,,,51558,Icelandic Cyclo-cross Championships,CN,74374
+108,66031.0,2017-11-04 23:00:00,Women Elite,Karrantza,05 Nov 2017,40984,Cyclo-cross de Karrantza,C2,74404
+109,65959.0,2017-11-04 23:00:00,Women Elite,Louisville,05 Nov 2017,41011,Pan-american Continental Championships,CC,74016
+110,66083.0,2017-11-04 23:00:00,Women Elite,Tábor,05 Nov 2017,41024,UEC Cyclo-Cross European Championships,CC,74178
+111,65925.0,2017-11-03 23:00:00,Women Elite,"Louisville, Kentucky",04 Nov 2017,40966,Derby City Cup,C2,73920
+112,65664.0,2017-11-02 23:00:00,Women Elite,Hibino Mihama-ku Chiba-city Chiba pref.,03 Nov 2017,41065,Starlight-cross,C2,73998
+113,66142.0,2017-10-31 23:00:00,Women Elite,Melden - Oudenaarde,01 Nov 2017,40917,DVV verzekeringen trofee - Koppenbergcross,C1,74114
+114,65834.0,2017-10-31 23:00:00,Women Elite,Milano,01 Nov 2017,40979,Gran Premio Mamma E Papa Guerciotti AM,C2,74173
+115,65977.0,2017-10-28 23:00:00,Women Elite,Oostkamp - Ruddervoorde,29 Oct 2017,40878,Telenet Superprestige Ruddervoorde,C1,74008
+116,65915.0,2017-10-28 23:00:00,Women Elite,Contern,29 Oct 2017,40907,Grand-Prix de la Commune de Contern,C2,74071
+117,65960.0,2017-10-28 23:00:00,Women Elite,"Cincinnati, Ohio, United States",29 Oct 2017,40967,Harbin Park International,C2,73938
+118,65670.0,2017-10-28 23:00:00,Women Elite,Hittnau,29 Oct 2017,40972,EKZ CrossTour,C1,74364
+119,65944.0,2017-10-28 23:00:00,Women Elite,"Sagae-shi,Yamagata Prefecture",29 Oct 2017,41018,TOHOKU CX Project SAGAE Round,C2,74378
+120,66161.0,2017-10-28 23:00:00,Women Elite,Abergavenny,29 Oct 2017,41040,National Trophy Series: Abergavenny,C1,74348
+121,117528.0,2017-10-28 23:00:00,Women Elite,Trnava,29 Oct 2017,50554,"Slovensky pohar v cyklokrose, GP Trnava",C2,147660
+122,117576.0,2017-10-28 23:00:00,Women Elite,"Jamesburg, NJ",29 Oct 2017,50560,HPCX 2,C2,147705
+123,120284.0,2017-10-28 23:00:00,Women Elite,Nokia,29 Oct 2017,51720,Finnish National Championships,CN,159033
+124,65850.0,2017-10-27 23:00:00,Women Elite,"Sherbrooke, QC",28 Oct 2017,40889,Canadian National Championships,CN,73825
+125,65881.0,2017-10-27 23:00:00,Women Elite,Holé Vrchy,28 Oct 2017,40958,Toi Toi Cup,C2,74131
+126,65662.0,2017-10-27 23:00:00,Women Elite,'s-Hertogenbosch,28 Oct 2017,40994,De Grote Prijs van Brabant,C1,74085
+127,65899.0,2017-10-27 23:00:00,Women Elite,Laudio-Llodio,28 Oct 2017,41041,Ziklokross Laudio,C1,73985
+128,65967.0,2017-10-27 23:00:00,Women Elite,"Covington, Kentucky, USA",28 Oct 2017,41071,Cincinnati Cyclocross @ Devou Park,C1,73891
+129,117531.0,2017-10-27 23:00:00,Women Elite,Dolná Krupa,28 Oct 2017,50555,"Slovenský pohár v cyklokrose, GP Dolná Krupa",C2,147663
+130,117574.0,2017-10-27 23:00:00,Women Elite,"Jamesburg, NJ",28 Oct 2017,50559,HPCX 1,C2,147706
+131,65749.0,2017-10-23 23:00:00,Women Elite,Woerden,24 Oct 2017,40954,Kiremko Nacht van Woerden,C2,74124
+132,65861.0,2017-10-21 23:00:00,Women Elite,Koksijde,22 Oct 2017,40922,"2017-2018 Telenet UCI Cyclo-cross World Cup, Koksijde",CDM,73919
+133,65848.0,2017-10-21 23:00:00,Women Elite,Ternitz,22 Oct 2017,40997,Tage des Querfeldeinsports (Day of Cyclocross),C2,74019
+134,65761.0,2017-10-21 23:00:00,Women Elite,Stockholm,22 Oct 2017,41015,Stockholm cyclocross,C2,73902
+135,120390.0,2017-10-21 23:00:00,Women Elite,"Washington, DC",22 Oct 2017,41020,DCCX,C2,159209
+136,66158.0,2017-10-21 23:00:00,Women Elite,Balan,22 Oct 2017,41050,Cyclo-cross de Balan Ardennes,C2,74118
+137,65718.0,2017-10-21 23:00:00,Women Elite,"Midland, Ontario",22 Oct 2017,41059,The Silver Goose,C2,74204
+138,65952.0,2017-10-20 23:00:00,Women Elite,Podbrezová,21 Oct 2017,40973,Cyclocross International Podbrezová,C2,74014
+139,120388.0,2017-10-20 23:00:00,Women Elite,"Washington, DC",21 Oct 2017,41019,DCCX,C2,159210
+140,65724.0,2017-10-20 23:00:00,Women Elite,Boom,21 Oct 2017,41027,Telenet Superprestige Niels Albert CX,C2,74126
+141,66014.0,2017-10-20 23:00:00,Women Elite,"Midland, Ontario",21 Oct 2017,41058,The Silver Goose,C2,74046
+142,65789.0,2017-10-18 23:00:00,Women Elite,Ardooie,19 Oct 2017,40902,Kermiscross,C2,74095
+143,118083.0,2017-10-14 23:00:00,Women Elite,"Gloucester, MA",15 Oct 2017,40915,CRAFT Sportswear Gran Prix of Gloucester,C2,148755
+144,118087.0,2017-10-14 23:00:00,Women Elite,"Boulder, CO",15 Oct 2017,40946,US Open of Cyclocross Day 2,C2,148758
+145,65887.0,2017-10-14 23:00:00,Women Elite,Zonhoven,15 Oct 2017,40950,Telenet Superprestige Zonhoven,C1,74136
+146,65804.0,2017-10-14 23:00:00,Women Elite,Besançon,15 Oct 2017,41029,1ère manche de la Coupe de France,C1,74385
+147,66178.0,2017-10-14 23:00:00,Women Elite,Aigle,15 Oct 2017,41035,EKZ CrossTour,C1,73888
+148,118081.0,2017-10-13 23:00:00,Women Elite,"Gloucester, MA",14 Oct 2017,40916,CRAFT Sportswear Gran Prix of Gloucester,C2,148754
+149,118085.0,2017-10-13 23:00:00,Women Elite,"Boulder, CO",14 Oct 2017,40945,US Open of Cyclocross Day 1,C2,148757
+150,66137.0,2017-10-13 23:00:00,Women Elite,Hlinsko,14 Oct 2017,40963,Toi Toi Cup,C2,74270
+151,65976.0,2017-10-13 23:00:00,Women Elite,Kruibeke,14 Oct 2017,41038,Polderscross,C2,74158
+152,66029.0,2017-10-13 23:00:00,Women Elite,Rapla,14 Oct 2017,41039,Estonian National Championships,CN,74108
+153,66103.0,2017-10-08 23:00:00,Women Elite,"Nakauchi, Toride-city, Ibaraki",09 Oct 2017,41064,Ibaraki Cyclo-cross Toride round,C2,74334
+154,65615.0,2017-10-07 23:00:00,Women Elite,Lutterbach,08 Oct 2017,40870,Cyclo-Cross International de la Solidarité de Lutterbach,C2,73916
+155,65802.0,2017-10-07 23:00:00,Women Elite,Derby,08 Oct 2017,40894,National Trophy Series - Derby,C2,74096
+156,118151.0,2017-10-07 23:00:00,Women Elite,"Baltimore, MD",08 Oct 2017,40976,Charm City Cross,C2,148822
+157,65884.0,2017-10-07 23:00:00,Women Elite,Ronse - Kluisbergen,08 Oct 2017,40991,DVV verzekeringen trofee - Hotondcross,C1,74312
+158,65628.0,2017-10-07 23:00:00,Women Elite,Helsingør,08 Oct 2017,41010,Kronborg Park Cross,C2,74225
+159,117534.0,2017-10-07 23:00:00,Women Elite,Rakova,08 Oct 2017,50556,"Slovenský pohár v cyklokrose, GP Rakova",C2,147666
+160,66080.0,2017-10-06 23:00:00,Women Elite,Jabkenice,07 Oct 2017,40962,Toi Toi Cup,C2,74177
+161,118149.0,2017-10-06 23:00:00,Women Elite,"Baltimore, MD",07 Oct 2017,40975,Charm City Cross,C1,148821
+162,65856.0,2017-10-06 23:00:00,Women Elite,Meulebeke,07 Oct 2017,41036,Berencross,C2,74244
+163,65913.0,2017-09-30 23:00:00,Women Elite,Gieten,01 Oct 2017,40871,Telenet Superprestige Gieten,C1,73924
+164,66040.0,2017-09-30 23:00:00,Women Elite,"West Sacramento, California",01 Oct 2017,41063,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,74188
+165,66202.0,2017-09-30 23:00:00,Women Elite,Bern,01 Oct 2017,41072,EKZ CrossTour,C2,74344
+166,117456.0,2017-09-30 23:00:00,Women Elite,"Thompson, Connecticut",01 Oct 2017,50477,KMC Cross Fest,C2,147649
+167,65975.0,2017-09-29 23:00:00,Women Elite,Neerpelt,30 Sep 2017,40920,GP Neerpelt,C2,73877
+168,65747.0,2017-09-29 23:00:00,Women Elite,"West Sacramento, California, USA",30 Sep 2017,41062,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,74067
+169,117537.0,2017-09-29 23:00:00,Women Elite,Poprad,30 Sep 2017,50557,"Slovenský pohár v cyklokrose, GP Poprad",C2,147669
+170,117453.0,2017-09-28 23:00:00,Women Elite,"Thompson, Connecticut",29 Sep 2017,50476,KMC Cross Fest,C1,147647
+171,65877.0,2017-09-27 23:00:00,Women Elite,Slaný,28 Sep 2017,40961,Toi Toi Cup,C1,73914
+172,65836.0,2017-09-23 23:00:00,Women Elite,Waterloo,24 Sep 2017,40927,"2017-2018 Telenet UCI Cyclo-cross World Cup, Waterloo",CDM,74388
+173,65912.0,2017-09-23 23:00:00,Women Elite,Illnau,24 Sep 2017,40996,Radcross Illnau,C2,73839
+174,65812.0,2017-09-21 23:00:00,Women Elite,Waterloo Wisconsin,22 Sep 2017,40968,Trek CXC Cup,C2,74170
+175,65659.0,2017-09-19 23:00:00,Women Elite,"Las Vegas, NV",20 Sep 2017,40955,Clif Bar Cross Vegas,C1,74226
+176,66131.0,2017-09-16 23:00:00,Women Elite,Jingle Cross Iowa City,17 Sep 2017,40949,"2017-2018 Telenet UCI Cyclo-cross World Cup, Jingle Cross Iowa City",CDM,74282
+177,65910.0,2017-09-16 23:00:00,Women Elite,Baden,17 Sep 2017,40992,EKZ CrossTour,C1,74075
+178,65658.0,2017-09-15 23:00:00,Women Elite,"Iowa City, Iowa",16 Sep 2017,40948,Jingle Cross 2,C2,74000
+179,66102.0,2017-09-14 23:00:00,Women Elite,"Iowa City, Iowa",15 Sep 2017,40947,Jingle Cross 1,C1,74333
+180,65721.0,2017-09-09 23:00:00,Women Elite,Eeklo,10 Sep 2017,40909,Cross Eeklo,C2,74129
+181,65843.0,2017-09-09 23:00:00,Women Elite,"Rochester, NY",10 Sep 2017,40980,Rochester Cyclocross,C2,74031
+182,65627.0,2017-09-08 23:00:00,Women Elite,"Rochester, NY",09 Sep 2017,40981,Rochester Cyclocross,C1,74220
+183,65717.0,2017-09-05 23:00:00,Women Elite,"Yanqing, Beijing",06 Sep 2017,41000,"""Qiansen trophy"" Yanqing",C1,74293
+184,65874.0,2017-09-02 23:00:00,Women Elite,"Changxindian Fengtai, Beijing",03 Sep 2017,41028,Qiansen trophy Fengtai Changxindian,C1,74303
+185,65844.0,2017-08-26 23:00:00,Women Elite,"Fields of Joy CX, Essendon Fields, Victoria",27 Aug 2017,41057,2017 Cyclo-Cross National Series Round 6,C2,74323
+186,65633.0,2017-08-25 23:00:00,Women Elite,"Fields of Joy CX, Essendon Fields, Victoria",26 Aug 2017,41056,2017 Cyclo-Cross National Series Round 5,C2,74371
+187,65632.0,2017-08-04 23:00:00,Women Elite,"Adelaide, South Australia",05 Aug 2017,41034,Australian National Championships,CN,73928
+188,127249.0,2019-02-23 23:00:00,Women Elite,Oostmalle,24 Feb 2019,52763,Internationale Sluitingsprijs Oostmalle,C1,165786
+189,127222.0,2019-02-22 23:00:00,Women Elite,Leuven,23 Feb 2019,52773,GP Leuven,C1,165759
+190,127436.0,2019-02-16 23:00:00,Women Elite,Hulst,17 Feb 2019,52937,Vestingcross Hulst,C2,165973
+191,127245.0,2019-02-15 23:00:00,Women Elite,Middelkerke,16 Feb 2019,52800,Telenet Superprestige Noordzeecross Middelkerke,C1,165782
+192,127241.0,2019-02-09 23:00:00,Women Elite,Hoogstraten,10 Feb 2019,52770,Telenet Superprestige Hoogstraten,C1,165778
+193,127237.0,2019-02-08 23:00:00,Women Elite,Lille,09 Feb 2019,52785,DVV verzekeringen trofee - Krawatencross,C1,165774
+194,127233.0,2019-02-05 23:00:00,Women Elite,Maldegem,06 Feb 2019,52858,Parkcross Maldegem,C2,165770
+195,125666.0,2019-02-01 23:00:00,Women Elite,Bogense,02 Feb 2019,52810,UCI Cyclo-cross World Championships,CM,167491
+196,125664.0,2019-01-26 23:00:00,Women Elite,Hoogerheide,27 Jan 2019,52816,"2018-2019 Telenet UCI Cyclo-cross World Cup, Hoogerheide Provincie Noord-Brabant",CDM,167489
+197,127231.0,2019-01-25 23:00:00,Women Elite,Zonnebeke,26 Jan 2019,52767,Kasteelcross Zonnebeke,C2,165768
+198,127432.0,2019-01-25 23:00:00,Women Elite,Rucphen,26 Jan 2019,52887,Internationale Cyclocross Rucphen,C2,165969
+199,127428.0,2019-01-19 23:00:00,Women Elite,Leudelange,20 Jan 2019,52794,Grand Prix Möbel Alvisse,C2,165965
+200,125662.0,2019-01-19 23:00:00,Women Elite,Pont-Château,20 Jan 2019,52821,"2018-2019 Telenet UCI Cyclo-cross World Cup, Pont-Château",CDM,167487
+201,127561.0,2019-01-19 23:00:00,Women Elite,Zao,20 Jan 2019,53000,ZAO-sama Cup Tohoku CX Series,C2,167572
+202,127228.0,2019-01-13 23:00:00,Women Elite,Otegem,14 Jan 2019,52886,Cyclocross Otegem,C2,165765
+203,133349.0,2019-01-12 23:00:00,Women Elite,Odense,13 Jan 2019,54674,Danish National Championships,CN,174290
+204,133429.0,2019-01-12 23:00:00,Women Elite,Sion,13 Jan 2019,54677,Swiss National Championships,CN,174370
+205,135495.0,2019-01-12 23:00:00,Women Elite,Lieto,13 Jan 2019,56522,Finnish National Championships,CN,175912
+206,135868.0,2019-01-12 23:00:00,Women Elite,Pula,13 Jan 2019,56523,Croatian national championships,CN,176262
+207,135871.0,2019-01-12 23:00:00,Women Elite,Miskolc,13 Jan 2019,56524,Hungarian national championships,CN,176265
+208,127377.0,2019-01-11 23:00:00,Women Elite,Kleinmachnow,12 Jan 2019,52775,German National Championships,CN,165914
+209,127226.0,2019-01-11 23:00:00,Women Elite,Kruibeke,12 Jan 2019,52776,Belgian National Championships,CN,165763
+210,127425.0,2019-01-11 23:00:00,Women Elite,Huijbergen,12 Jan 2019,52777,Dutch National Championships,CN,165962
+211,129512.0,2019-01-11 23:00:00,Women Elite,MILANO - IDROSCALO,12 Jan 2019,52778,Italian National Championships,CN,169779
+212,127421.0,2019-01-11 23:00:00,Women Elite,Brouch,12 Jan 2019,52780,Luxembourg National Championships,CN,165958
+213,135707.0,2019-01-11 23:00:00,Women Elite,"Cyclopark, Gravesend",12 Jan 2019,52799,British National Championships,CN,176124
+214,127293.0,2019-01-11 23:00:00,Women Elite,Hole Vrchy,12 Jan 2019,52971,"Czech National Championships - ME, WE",CN,165830
+215,128124.0,2019-01-11 23:00:00,Women Elite,Marrazes - Leiria,12 Jan 2019,53113,Portugese National Championships,CN,168299
+216,131369.0,2019-01-11 23:00:00,Women Elite,Besançon,12 Jan 2019,54443,French National Championships,CN,171901
+217,133238.0,2019-01-11 23:00:00,Women Elite,Wien,12 Jan 2019,54661,Austrian National Championships,CN,174145
+218,133354.0,2019-01-11 23:00:00,Women Elite,Munster,12 Jan 2019,54675,Irish National Championships,CN,174295
+219,133573.0,2019-01-11 23:00:00,Women Elite,Strzelce Krajenskie,12 Jan 2019,54689,Polish National Championships,CN,174527
+220,135488.0,2019-01-11 23:00:00,Women Elite,Varberg,13 Jan 2019,56518,Swedish National Championships,CN,175905
+221,127609.0,2019-01-10 23:00:00,Women Elite,Pontevedra,11 Jan 2019,53035,Spanish National Championships,CN,167620
+222,127370.0,2019-01-05 23:00:00,Women Elite,Shrewsbury,06 Jan 2019,52784,National Trophy Series Round 6: Shrewsbury,C2,165907
+223,127346.0,2019-01-05 23:00:00,Women Elite,La Meziere,06 Jan 2019,52915,Cyclo-cross La Meziere,C1,165883
+224,133343.0,2019-01-05 23:00:00,Women Elite,Brussels,06 Jan 2019,54672,DVV verzekeringen trofee - Brussels Universities Cyclocross,C2,174277
+225,127219.0,2019-01-04 23:00:00,Women Elite,Gullegem,05 Jan 2019,52983,Cyclocross Gullegem,C2,165756
+226,127480.0,2019-01-01 23:00:00,Women Elite,Meilen,02 Jan 2019,52903,EKZ CrossTour,C1,166017
+227,127215.0,2018-12-31 23:00:00,Women Elite,Baal,01 Jan 2019,52781,DVV verzekeringen trofee - GP Sven Nys,C1,165752
+228,127417.0,2018-12-31 23:00:00,Women Elite,Pétange,01 Jan 2019,52818,Grand Prix Garage Collé,C2,165954
+229,127211.0,2018-12-29 23:00:00,Women Elite,Diegem,30 Dec 2018,52771,Telenet Superprestige Diegem,C1,165748
+230,127339.0,2018-12-29 23:00:00,Women Elite,Flamanville,30 Dec 2018,52820,3ème Coupe de France Cyclo-cross,C2,165876
+231,127207.0,2018-12-28 23:00:00,Women Elite,Bredene,29 Dec 2018,52790,Cyclocross Bredene,C2,165744
+232,127204.0,2018-12-27 23:00:00,Women Elite,Loenhout,28 Dec 2018,52791,DVV verzekeringen trofee - Azencross,C1,165741
+233,125660.0,2018-12-25 23:00:00,Women Elite,Heusden-Zolder,26 Dec 2018,52815,"2018-2019 Telenet UCI Cyclo-cross World Cup, Heusden-Zolder",CDM,167485
+234,127478.0,2018-12-25 23:00:00,Women Elite,Pfaffnau,26 Dec 2018,52940,Cross-Race / Pfaffnau GP Luzern,C2,166015
+235,125658.0,2018-12-22 23:00:00,Women Elite,Namur,23 Dec 2018,52814,"2018-2019 Telenet UCI Cyclo-cross World Cup, Namur",CDM,167483
+236,127200.0,2018-12-21 23:00:00,Women Elite,Sint-Niklaas,22 Dec 2018,52796,Waaslandcross,C2,165737
+237,127483.0,2018-12-21 23:00:00,Women Elite,Sibiu,22 Dec 2018,52804,Romania National Championships,CN,166020
+238,127197.0,2018-12-15 23:00:00,Women Elite,Zonhoven,16 Dec 2018,52828,Telenet Superprestige Zonhoven,C1,165734
+239,127380.0,2018-12-15 23:00:00,Women Elite,Vittorio Veneto TV,16 Dec 2018,52952,Gran Premio Città di Vittorio Veneto,C2,165917
+240,127414.0,2018-12-15 23:00:00,Women Elite,"Utsunomiya city, Tochigi prefecture",16 Dec 2018,52969,Utsunomiya Cyclo Cross Day2,C2,165951
+241,127496.0,2018-12-15 23:00:00,Women Elite,"Louisville, KY, USA",16 Dec 2018,53008,USA National Championships,CN,167560
+242,128127.0,2018-12-15 23:00:00,Women Elite,Pferdezentrum Stadl-Paura,16 Dec 2018,53116,Int. Radquerfeldein GP Lambach/Stadl-Paura,C2,168302
+243,127193.0,2018-12-14 23:00:00,Women Elite,Antwerpen,15 Dec 2018,52832,DVV verzekeringen trofee - Scheldecross,C1,165730
+244,127291.0,2018-12-14 23:00:00,Women Elite,Mlada Boleslav,15 Dec 2018,52846,Toi Toi Cup,C1,165828
+245,127412.0,2018-12-14 23:00:00,Women Elite,"Utsunomiya city, Tochigi prefecture",15 Dec 2018,52968,Utsunomiya Cyclo Cross Day1,C2,165949
+246,,2018-12-14 23:00:00,,,,52990,Czech National Cyclo-Cross Championships - MJ,CN,165949
+247,131052.0,2018-12-14 23:00:00,Women Elite,Xativa,15 Dec 2018,53115,Ciclo-cross Ciudad de Xativa,C2,171496
+248,127189.0,2018-12-08 23:00:00,Women Elite,Overijse,09 Dec 2018,52769,Vlaamse Druivencross,C1,165726
+249,127368.0,2018-12-08 23:00:00,Women Elite,Ipswich,09 Dec 2018,52896,National Trophy Series Round 5: Ipswich,C2,165905
+250,127476.0,2018-12-08 23:00:00,Women Elite,Eschenbach,09 Dec 2018,52904,EKZ CrossTour,C1,166013
+251,127535.0,2018-12-08 23:00:00,Women Elite,"Broken Arrow,Oklahoma",09 Dec 2018,52926,Ruts 'n' Guts 2,C2,167533
+252,127410.0,2018-12-08 23:00:00,Women Elite,"Takashima City, Shiga Prefecture",09 Dec 2018,52930,Japanese National Championships,CN,165947
+253,128129.0,2018-12-08 23:00:00,Women Elite,Gorizia,09 Dec 2018,53117,13° Trofeo di Gorizia,C2,168304
+254,127185.0,2018-12-07 23:00:00,Women Elite,Essen,08 Dec 2018,52798,IKO cyclocross - Essen,C1,165722
+255,127533.0,2018-12-07 23:00:00,Women Elite,"Hendersonville, NC",08 Dec 2018,52807,North Carolina Grand Prix - Race 1,C2,167531
+256,127366.0,2018-12-07 23:00:00,Women Elite,Fae' Di Oderzo - Treviso,08 Dec 2018,52834,Ciclocross del Ponte,C2,165903
+257,127288.0,2018-12-07 23:00:00,Women Elite,Jabkenice,08 Dec 2018,52845,Toi Toi Cup,C2,165825
+258,127492.0,2018-12-07 23:00:00,Women Elite,"Broken Arrow, klahoma",08 Dec 2018,52925,Ruts 'n' Guts 1,C1,167556
+259,129176.0,2018-12-07 23:00:00,Women Elite,Troyes,08 Dec 2018,53234,Troyes Cyclocross International,C2,169362
+260,127181.0,2018-12-01 23:00:00,Women Elite,Mol,02 Dec 2018,52918,Lampiris Zilvermeercross,C2,165718
+261,127327.0,2018-12-01 23:00:00,Women Elite,Ametzaga-Zuia,02 Dec 2018,52943,Trofeo San Andrés,C2,165864
+262,127373.0,2018-12-01 23:00:00,Women Elite,Bensheim,02 Dec 2018,52998,Radcross Grandprix,C2,165910
+263,127471.0,2018-12-01 23:00:00,Women Elite,Banska Bystrica,02 Dec 2018,53006,Slovak national championships,CN,166008
+264,127594.0,2018-12-01 23:00:00,Women Elite,Garland (Dallas) Texas,02 Dec 2018,53031,Resolution 'Cross Cup,C2,167605
+265,131838.0,2018-12-01 23:00:00,Women Elite,warwick,02 Dec 2018,54503,NBX GP of Cross 2,C2,172397
+266,127177.0,2018-11-30 23:00:00,Women Elite,Hasselt,01 Dec 2018,52819,GP Hasselt,C2,165714
+267,127342.0,2018-11-30 23:00:00,Women Elite,Abadiano,01 Dec 2018,52979,Abadiñoko udala saria,C2,165879
+268,127592.0,2018-11-30 23:00:00,Women Elite,Garland (Dallas) Texas,01 Dec 2018,53032,Resolution 'Cross Cup,C2,167603
+269,131836.0,2018-11-30 23:00:00,Women Elite,warwick,01 Dec 2018,54502,NBX GP of Cross 1,C1,172395
+270,125656.0,2018-11-24 23:00:00,Women Elite,Koksijde,25 Nov 2018,52813,"2018-2019 Telenet UCI Cyclo-cross World Cup, Koksijde",CDM,167481
+271,127406.0,2018-11-24 23:00:00,Women Elite,Takashima City Shiga Prefecture,25 Nov 2018,52905,KANSAI Cyclo Cross Makino Round,C2,165943
+272,127363.0,2018-11-24 23:00:00,Women Elite,Brugherio,25 Nov 2018,52928,International Cyclocross Selle SMP -10° Trof.Cop.ed.Brugherio82,C2,165900
+273,127360.0,2018-11-24 23:00:00,Women Elite,York,25 Nov 2018,52997,National Trophy Series Round 4: York,C2,165897
+274,127174.0,2018-11-23 23:00:00,Women Elite,Wachtebeke (Provinciaal Domein Puyenbroeck),24 Nov 2018,52982,Ambiancecross,C2,165711
+275,127468.0,2018-11-23 23:00:00,Women Elite,Topolcianky,24 Nov 2018,53005,Grand Prix Topolcianky,C2,166005
+276,127557.0,2018-11-17 23:00:00,Women Elite,Hamme,18 Nov 2018,52789,DVV verzekeringen trofee - Flandriencross,C1,167568
+277,127565.0,2018-11-17 23:00:00,Women Elite,Hittnau,18 Nov 2018,52859,EKZ CrossTour,C1,167576
+278,127403.0,2018-11-17 23:00:00,Women Elite,"Minamimaki Village, Nagano",18 Nov 2018,52921,Rapha Supercross Nobeyama -Day 2,C1,165940
+279,127324.0,2018-11-17 23:00:00,Women Elite,Les Franqueses,18 Nov 2018,52932,Gran Premi Les Franqueses,C2,165861
+280,127529.0,2018-11-17 23:00:00,Women Elite,"Indy Cycloplex (Indianapolis, IND)",18 Nov 2018,52945,Major Taylor Cross Cup,C2,167527
+281,127531.0,2018-11-17 23:00:00,Women Elite,"Suffern , NY",18 Nov 2018,52973,Supercross Day 2,C2,167529
+282,135499.0,2018-11-17 23:00:00,Women Elite,Bergen,18 Nov 2018,56521,Norwegian National Championships,CN,175916
+283,125654.0,2018-11-16 23:00:00,Women Elite,Tabor,17 Nov 2018,52817,"2018-2019 Telenet UCI Cyclo-cross World Cup, Tabor",CDM,167479
+284,127401.0,2018-11-16 23:00:00,Women Elite,"Minamimaki Village, Nagano",17 Nov 2018,52920,Rapha Supercross Nobeyama -Day 1,C2,165938
+285,127524.0,2018-11-16 23:00:00,Women Elite,"Indy Cycloplex (Indianapolis, IND)",17 Nov 2018,52942,Major Taylor Cross Cup,C2,167522
+286,127526.0,2018-11-16 23:00:00,Women Elite,"Suffern , NY",17 Nov 2018,52972,Supercross Day 1,C2,167524
+287,127171.0,2018-11-10 23:00:00,Women Elite,Gavere,11 Nov 2018,52768,Telenet Superprestige Gavere,C1,165708
+288,127521.0,2018-11-10 23:00:00,Women Elite,"Northampton, MA",11 Nov 2018,52802,The Northampton International,C2,167519
+289,127317.0,2018-11-10 23:00:00,Women Elite,Karrantza,11 Nov 2018,52877,XXVI Cyclo-cross de Karrantza,C2,165854
+290,127563.0,2018-11-10 23:00:00,Women Elite,Madiswil,11 Nov 2018,52895,Flückiger Cross Madiswil,C2,167574
+291,127321.0,2018-11-10 23:00:00,Women Elite,Pierric,11 Nov 2018,52927,2ème Coupe de France Cyclo-cross,C2,165858
+292,127282.0,2018-11-10 23:00:00,Women Elite,Peterborough,11 Nov 2018,52989,PTBOCX - Lift Lock Cross,C2,165819
+293,127358.0,2018-11-10 23:00:00,Women Elite,"Ardingly, near Crawley",11 Nov 2018,52996,National Trophy Series Round 3: Crawley,C2,165895
+294,127465.0,2018-11-10 23:00:00,Women Elite,Kosice,11 Nov 2018,53004,Grand Prix Kosice,C2,166002
+295,127167.0,2018-11-09 23:00:00,Women Elite,Niel,10 Nov 2018,52766,DVV verzekeringen trofee - Jaarmarktcross,C1,165704
+296,127297.0,2018-11-09 23:00:00,Women Elite,"Peterborough, Ontario",10 Nov 2018,52779,Canadian National Championships,CN,165834
+297,127519.0,2018-11-09 23:00:00,Women Elite,"Northampton, MA",10 Nov 2018,52801,The Northampton International,C2,167517
+298,127279.0,2018-11-09 23:00:00,Women Elite,Kolin,10 Nov 2018,52843,Toi Toi Cup,C1,165816
+299,127399.0,2018-11-09 23:00:00,Women Elite,Hibino Mihama-ku Chiba-city Chiba pref.,10 Nov 2018,52967,Starlight-cross,C2,165936
+300,127314.0,2018-11-03 23:00:00,Women Elite,Vic,04 Nov 2018,52992,Gran Premi Internacional ciutat de Vic,C2,165851
+301,127517.0,2018-11-03 23:00:00,Women Elite,"Falmouth, Massachusetts, USA",04 Nov 2018,53011,Really Rad Festival of Cyclocross Day 2,C2,167515
+302,127311.0,2018-11-02 23:00:00,Women Elite,Manlleu,03 Nov 2018,52944,Ciclocross Manlleu,C2,165848
+303,127272.0,2018-11-02 23:00:00,Women Elite,Midland,03 Nov 2018,52970,Silver Goose Cyclocross Festival,C2,165809
+304,127276.0,2018-11-02 23:00:00,Women Elite,"Midland, ON",04 Nov 2018,52988,Pan-American Cyclo-cross Championships (master + elite),CC,165813
+305,127397.0,2018-11-02 23:00:00,Women Elite,Rosmalen,03 Nov 2018,52999,UEC Cyclo-cross European Championships,CC,165934
+306,127515.0,2018-11-02 23:00:00,Women Elite,"Falmouth, Massachusetts, USA",03 Nov 2018,53010,Really Rad Festival of Cyclocross Day 1,C2,167513
+307,127163.0,2018-10-31 23:00:00,Women Elite,Melden - Oudenaarde,01 Nov 2018,52805,DVV verzekeringen trofee - Koppenbergcross,C1,165700
+308,127159.0,2018-10-27 23:00:00,Women Elite,Oostkamp - Ruddervoorde,28 Oct 2018,52772,Telenet Superprestige Ruddervoorde,C1,165696
+309,127462.0,2018-10-27 23:00:00,Women Elite,Steinmaur,28 Oct 2018,52774,Internationales Radquer Steinmaur,C2,165999
+310,127393.0,2018-10-27 23:00:00,Women Elite,Contern,28 Oct 2018,52795,Grand-Prix de la Commune de Contern,C2,165930
+311,127307.0,2018-10-27 23:00:00,Women Elite,Elorrio,28 Oct 2018,52902,Elorrioko Basqueland Ziklokrosa,C1,165844
+312,127390.0,2018-10-27 23:00:00,Women Elite,"Sagae-shi,Yamagata Prefecture",28 Oct 2018,52922,Sagae Round Tohoku CX Series ,C2,165927
+313,127350.0,2018-10-27 23:00:00,Women Elite,Irvine,28 Oct 2018,52994,National Trophy Series Round 2: Irvine,C2,165887
+314,127352.0,2018-10-27 23:00:00,Women Elite,München,28 Oct 2018,52995,Munich Super Cross,C2,165889
+315,127460.0,2018-10-27 23:00:00,Women Elite,Trnava,28 Oct 2018,53003,Grand Prix Trnava,C2,165997
+316,127513.0,2018-10-27 23:00:00,Women Elite,"Kings Mills, Ohio",28 Oct 2018,53009,Cincinnati UCI Cyclocross,C2,167511
+317,129179.0,2018-10-27 23:00:00,Women Elite,Jablines,28 Oct 2018,53233,Cyclo-cross de Jablines,C2,169365
+318,131614.0,2018-10-27 23:00:00,Women Elite,"Jamesburg, NJ",28 Oct 2018,54469,HPCX 2,C2,172164
+319,127155.0,2018-10-26 23:00:00,Women Elite,Neerpelt,27 Oct 2018,52809,GP Neerpelt,C2,165692
+320,127270.0,2018-10-26 23:00:00,Women Elite,Slany,27 Oct 2018,52842,Toi Toi Cup,C1,165807
+321,127303.0,2018-10-26 23:00:00,Women Elite,Laudio-Llodio,27 Oct 2018,52939,Ziklokross Laudio,C1,165840
+322,127490.0,2018-10-26 23:00:00,Women Elite,"Kings Mills, Ohio",27 Oct 2018,52974,Cincinnati UCI Cyclocross,C1,167554
+323,131612.0,2018-10-26 23:00:00,Women Elite,"Jamesburg, NJ",27 Oct 2018,54468,HPCX 1,C2,172162
+324,133569.0,2018-10-26 23:00:00,Women Elite,Reykjavik,27 Oct 2018,54673,Icelandic Cyclo-cross Championships,CN,174523
+325,127388.0,2018-10-22 23:00:00,Women Elite,Woerden,23 Oct 2018,52835,Kiremko Nacht van Woerden,C2,165925
+326,127152.0,2018-10-20 23:00:00,Women Elite,Ternitz,21 Oct 2018,52898,Tage des Querfeldeinsports (Day of Cyclocross),C2,165689
+327,127454.0,2018-10-20 23:00:00,Women Elite,Stockholm,21 Oct 2018,52919,Stockholm cyclocross,C2,165991
+328,127510.0,2018-10-20 23:00:00,Women Elite,"Washington, DC",21 Oct 2018,52924,DCCX,C2,167508
+329,125652.0,2018-10-20 23:00:00,Women Elite,Bern,21 Oct 2018,52978,"2018-2019 Telenet UCI Cyclo-cross World Cup, Bern",CDM,167477
+330,127267.0,2018-10-20 23:00:00,Women Elite,Sherbrooke,21 Oct 2018,52987,Sherbrooke CX,C2,165804
+331,132939.0,2018-10-20 23:00:00,Women Elite,Cles (TN),21 Oct 2018,54627,Trofeo Nuovi Investimenti,C2,173721
+332,127451.0,2018-10-19 23:00:00,Women Elite,Podbrezová,20 Oct 2018,52864,Grand Prix Podbrezová,C2,165988
+333,127508.0,2018-10-19 23:00:00,Women Elite,"Washington, DC",20 Oct 2018,52923,DCCX,C2,167506
+334,127150.0,2018-10-19 23:00:00,Women Elite,Boom,20 Oct 2018,52931,Telenet Superprestige De Schorre Boom,C2,165687
+335,127264.0,2018-10-19 23:00:00,Women Elite,Sherbrooke,20 Oct 2018,52986,Sherbrooke CX,C2,165801
+336,127146.0,2018-10-17 23:00:00,Women Elite,Ardooie,18 Oct 2018,52788,Kermiscross,C2,165683
+337,127386.0,2018-10-13 23:00:00,Women Elite,Gieten,14 Oct 2018,52765,Telenet Superprestige Cyclocross Gieten,C1,165923
+338,127506.0,2018-10-13 23:00:00,Women Elite,"Boulder, CO",14 Oct 2018,52824,US Open of Cyclocross Day 2,C2,167504
+339,127301.0,2018-10-13 23:00:00,Women Elite,Razès - Lac de Saint Pardoux,14 Oct 2018,52991,1ère Coupe de France Cyclo-cross,C2,165838
+340,128117.0,2018-10-13 23:00:00,Women Elite,"Gloucester, MA USA",14 Oct 2018,53111,CRAFT Sportsware Gran Prix of Gloucester,C2,168292
+341,132942.0,2018-10-13 23:00:00,Women Elite,Marin-Pontevedra,14 Oct 2018,54628,Ciclocross International Xaxancx,C2,173724
+342,127503.0,2018-10-12 23:00:00,Women Elite,"Boulder, CO",13 Oct 2018,52823,US Open of Cyclocross Day 1,C2,167501
+343,127285.0,2018-10-12 23:00:00,Women Elite,Jicin,13 Oct 2018,52844,Toi Toi Cup,C2,165822
+344,128115.0,2018-10-12 23:00:00,Women Elite,"Gloucester, MA USA",13 Oct 2018,53112,CRAFT Sportsware Gran Prix of Gloucester,C2,168290
+345,131833.0,2018-10-12 23:00:00,Women Elite,Lokeren,13 Oct 2018,54501,Lokeren,C2,172392
+346,135483.0,2018-10-12 23:00:00,Women Elite,Saue,13 Oct 2018,56519,Estonian National Championships,CN,175900
+347,127382.0,2018-10-07 23:00:00,Women Elite,"Nakauchi, Toride-city, Ibaraki",08 Oct 2018,52966,Ibaraki Cyclocross Toride Stage supported by TREK,C2,165919
+348,127348.0,2018-10-06 23:00:00,Women Elite,Derby,07 Oct 2018,52783,National Trophy Series Round 1: Derby,C2,165885
+349,127140.0,2018-10-06 23:00:00,Women Elite,Ronse - Kluisbergen,07 Oct 2018,52888,Hotondcross,C1,165677
+350,127445.0,2018-10-06 23:00:00,Women Elite,Aigle,07 Oct 2018,52935,EKZ CrossTour,C1,165982
+351,127500.0,2018-10-06 23:00:00,Women Elite,"West Sacramento, California",07 Oct 2018,52965,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,167498
+352,127448.0,2018-10-06 23:00:00,Women Elite,Rakova,07 Oct 2018,53001,Grand Prix Rakova,C2,165985
+353,127590.0,2018-10-06 23:00:00,Women Elite,"Baltimore, MD",07 Oct 2018,53030,Charm City Cross,C2,167601
+354,128120.0,2018-10-06 23:00:00,Women Elite,Helsingør,07 Oct 2018,53114,Kronborg Park Cross,C2,168295
+355,128795.0,2018-10-06 23:00:00,Women Elite,Belfast,07 Oct 2018,53188,Bioracer International Cyclo-cross,C2,168977
+356,127559.0,2018-10-05 23:00:00,Women Elite,Lutterbach-Pfastatt,06 Oct 2018,52764,Cyclo-cross International de la Solidarité,C2,167570
+357,127261.0,2018-10-05 23:00:00,Women Elite,Hlinsko,06 Oct 2018,52841,Toi Toi Cup,C2,165798
+358,127136.0,2018-10-05 23:00:00,Women Elite,Meulebeke,06 Oct 2018,52936,Berencross,C2,165673
+359,127498.0,2018-10-05 23:00:00,Women Elite,"West Sacramento, California",06 Oct 2018,52964,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,167496
+360,127588.0,2018-10-05 23:00:00,Women Elite,"Baltimore, MD",06 Oct 2018,53029,Charm City Cross,C1,167599
+361,127487.0,2018-09-29 23:00:00,Women Elite,"Iowa City, Iowa",30 Sep 2018,52825,Jingle Cross,C1,167551
+362,132996.0,2018-09-29 23:00:00,Women Elite,"Thompson,CT",30 Sep 2018,54632,KMC CrossFest,C2,173814
+363,125650.0,2018-09-28 23:00:00,Women Elite,Jingle Cross Iowa City,29 Sep 2018,52827,"2018-2019 Telenet UCI Cyclo-cross World Cup, Iowa City",CDM,167475
+364,127443.0,2018-09-28 23:00:00,Women Elite,Poprad,29 Sep 2018,52981,Grand Prix Poprad,C1,165980
+365,127549.0,2018-09-27 23:00:00,Women Elite,"Iowa City, Iowa",28 Sep 2018,52826,Jingle Cross,C2,167547
+366,127258.0,2018-09-27 23:00:00,Women Elite,Unicov,28 Sep 2018,52840,Toi Toi Cup,C1,165795
+367,125648.0,2018-09-22 23:00:00,Women Elite,Waterloo,23 Sep 2018,52812,"2018-2019 Telenet UCI Cyclo-cross World Cup, Waterloo",CDM,167473
+368,127440.0,2018-09-22 23:00:00,Women Elite,Illnau,23 Sep 2018,52897,Radcross Illnau,C2,165977
+369,127547.0,2018-09-20 23:00:00,Women Elite,Waterloo Wisconsin,21 Sep 2018,52857,Trek Cup,C2,167545
+370,127485.0,2018-09-18 23:00:00,Women Elite,"Reno, NV",19 Sep 2018,52836,RenoCross,C1,167549
+371,127133.0,2018-09-15 23:00:00,Women Elite,Geraardsbergen / Eeklo,16 Sep 2018,52797,Geraardsbergen,C2,165670
+372,127541.0,2018-09-15 23:00:00,Women Elite,"Breinigsville , PA",16 Sep 2018,52876,Nittany Lion Cross,C2,167539
+373,127438.0,2018-09-15 23:00:00,Women Elite,Baden,16 Sep 2018,52894,EKZ CrossTour,C1,165975
+374,127539.0,2018-09-14 23:00:00,Women Elite,"Breinigsville , PA",15 Sep 2018,52875,Nittany Lion Cross,C2,167537
+375,129558.0,2018-09-08 23:00:00,Women Elite,"Rochester, NY",09 Sep 2018,53327,Rochester Cyclocross,C2,169839
+376,129556.0,2018-09-07 23:00:00,Women Elite,"Rochester, NY",08 Sep 2018,53326,Rochester Cyclocross,C1,169837
+377,127545.0,2018-09-01 23:00:00,Women Elite,"Roanoke, VA, USA",02 Sep 2018,53013,Deschutes Brewery's GO Cross,C2,167543
+378,129197.0,2018-09-01 23:00:00,Women Elite,Aohan County,02 Sep 2018,53261,Qiansen trophy Aohan Station,C1,169383
+379,127543.0,2018-08-31 23:00:00,Women Elite,"Roanoke, VA, USA",01 Sep 2018,53012,Deschutes Brewery's GO Cross,C2,167541
+380,127130.0,2018-08-25 23:00:00,Women Elite,"Fields of Joy CX, Essendon Fields, Victoria",26 Aug 2018,52963,2018 Cyclo-Cross National Series (Round #9),C2,165667
+381,127128.0,2018-08-24 23:00:00,Women Elite,"Fields of Joy CX, Essendon Fields, Victoria",25 Aug 2018,52962,2018 Cyclo-Cross National Series (Round #8),C2,165665
+382,127124.0,2018-08-10 23:00:00,Women Elite,"Sam Miranda, King Valley Victoria",11 Aug 2018,52934,Australian National Championships,CN,165661
+383,127126.0,2018-08-04 23:00:00,Women Elite,Santiago de Chile,05 Aug 2018,52938,Chilean National Championships,CN,165663
+384,152679.0,2020-02-22 23:00:00,Women Elite,Oostmalle,23 Feb 2020,57835,Internationale Sluitingsprijs Oostmalle,C1,207665
+385,152676.0,2020-02-21 23:00:00,Women Elite,Leuven,22 Feb 2020,57834,GP Leuven,C1,208029
+386,152909.0,2020-02-15 23:00:00,Women Elite,Hulst,16 Feb 2020,57918,Vestingcross Hulst,C1,207896
+387,152673.0,2020-02-14 23:00:00,Women Elite,Middelkerke,15 Feb 2020,57833,Telenet Superprestige Middelkerke,C1,207853
+388,152667.0,2020-02-07 23:00:00,Women Elite,Lille,08 Feb 2020,57831,DVV Verzekeringen trofee Krawatencross,C1,207925
+389,152664.0,2020-02-04 23:00:00,Women Elite,Maldegem,05 Feb 2020,57830,Parkcross Maldegem,C2,207907
+390,141438.0,2020-01-31 23:00:00,Women Elite,Dübendorf,01 Feb 2020,57738,UCI Cyclo-cross World Championships,CM,190746
+391,141436.0,2020-01-25 23:00:00,Women Elite,Hoogerheide,26 Jan 2020,57747,"2019-2020 Telenet UCI Cyclo-cross World Cup, Hoogerheide Provincie Noord-Brabant",CDM,190707
+392,152662.0,2020-01-24 23:00:00,Women Elite,Zonnebeke,25 Jan 2020,57829,Kasteelcross Zonnebeke,C2,207752
+393,141434.0,2020-01-18 23:00:00,Women Elite,Nommay,19 Jan 2020,57748,"2019-2020 Telenet UCI Cyclo-cross World Cup, Nommay Pays de Montbeliard",CDM,190847
+394,152862.0,2020-01-18 23:00:00,Women Elite,"Zao-Town,Miyagi Prefecture",19 Jan 2020,57904,ZAO-sama Cup Tohoku CX Series,C2,207920
+395,152868.0,2020-01-18 23:00:00,Women Elite,Leudelange,19 Jan 2020,57906,Grand Prix Möbel Alvisse,C2,207684
+396,152659.0,2020-01-12 23:00:00,Women Elite,Otegem,13 Jan 2020,57828,Cyclocross Otegem,C2,208026
+397,141495.0,2020-01-11 23:00:00,Women Elite,Jicin,12 Jan 2020,57915,"Czech National Championships - ME, WE",CN,190684
+398,141531.0,2020-01-11 23:00:00,Women Elite,Slagelse,12 Jan 2020,57939,Danish National Championships,CN,190807
+399,141535.0,2020-01-11 23:00:00,Women Elite,Baden,12 Jan 2020,57940,Swiss National Championships,CN,190903
+400,151841.0,2020-01-11 23:00:00,Women Elite,"Castlefield, Enniscrone, Sligo",12 Jan 2020,58577,Irish National Championships,CN,206740
+401,154742.0,2020-01-11 23:00:00,Women Elite,Kecskemét,12 Jan 2020,59095,Hungarian national championships,CN,209924
+402,157139.0,2020-01-11 23:00:00,Women Elite,Donja Voca,12 Jan 2020,59770,Croatian national championships,CN,219894
+403,141524.0,2020-01-10 23:00:00,Women Elite,Schio - Vicenza,12 Jan 2020,57846,Italian National Championships,CN,190844
+404,141527.0,2020-01-10 23:00:00,Women Elite,TBC,12 Jan 2020,57855,Swedish National Championships,CN,190657
+405,141500.0,2020-01-10 23:00:00,Women Elite,Shrewsbury,12 Jan 2020,57936,British National Championships,CN,190787
+406,141516.0,2020-01-10 23:00:00,Women Elite,Rucphen,12 Jan 2020,57937,Dutch National Championships,CN,190863
+407,141520.0,2020-01-10 23:00:00,Women Elite,Flamanville,12 Jan 2020,57938,French National Championships,CN,190703
+408,141536.0,2020-01-10 23:00:00,Women Elite,Albstadt,12 Jan 2020,57942,German National Championships,CN,190741
+409,150109.0,2020-01-10 23:00:00,Women Elite,Antwerpen,11 Jan 2020,58426,Belgian National Championships,CN,204570
+410,151687.0,2020-01-10 23:00:00,Women Elite,"Weiz, Steiermark",11 Jan 2020,58568,Austrian National Championships,CN,206589
+411,151698.0,2020-01-10 23:00:00,Women Elite,Dippach,11 Jan 2020,58570,Luxembourg National Championships,CN,206586
+412,160396.0,2020-01-10 23:00:00,Women Elite,Vila Real,12 Jan 2020,58698,Portugese National Championships,CN,223189
+413,154985.0,2020-01-10 23:00:00,Women Elite,Szczekociny,11 Jan 2020,59155,Polish National Championships,CN,210200
+414,153148.0,2020-01-09 23:00:00,Women Elite,Pontevedra,10 Jan 2020,58699,Spanish National Championships,CN,208307
+415,152657.0,2020-01-04 23:00:00,Women Elite,Brussels,05 Jan 2020,57827,DVV Verzekeringen trofee Brussels Universities Cyclocross,C1,207692
+416,152654.0,2020-01-03 23:00:00,Women Elite,Gullegem,04 Jan 2020,57826,Cyclocross Gullegem,C2,207914
+417,152906.0,2020-01-03 23:00:00,Women Elite,Troyes,04 Jan 2020,57917,Troyes Cyclocross International,C2,207816
+418,152739.0,2020-01-01 23:00:00,Women Elite,Meilen,02 Jan 2020,57854,EKZ Cross Tour Meilen,C1,207975
+419,152651.0,2019-12-31 23:00:00,Women Elite,Baal,01 Jan 2020,57825,DVV Verzekeringen trofee GP Sven Nys,C1,207677
+420,152865.0,2019-12-31 23:00:00,Women Elite,Pétange,01 Jan 2020,57905,Grand Prix Garage Collé,C2,207935
+421,152648.0,2019-12-29 23:00:00,Women Elite,Bredene,30 Dec 2019,57884,Cyclocross Bredene,C2,207659
+422,152645.0,2019-12-28 23:00:00,Women Elite,Diegem,29 Dec 2019,57824,Telenet Superprestige Diegem,C1,207882
+423,152903.0,2019-12-28 23:00:00,Women Elite,Coulounieix - Chamiers,29 Dec 2019,57922,Cyclo-cross des Crouchaux,C2,207647
+424,152642.0,2019-12-26 23:00:00,Women Elite,Loenhout,27 Dec 2019,57823,DVV Verzekeringen trofee Azencross,C1,207778
+425,141432.0,2019-12-25 23:00:00,Women Elite,Heusden-Zolder,26 Dec 2019,57746,"2019-2020 Telenet UCI Cyclo-cross World Cup, Heusden-Zolder",CDM,190756
+426,152736.0,2019-12-25 23:00:00,Women Elite,Pfaffnau,26 Dec 2019,57853,Cross-Race GP Luzern/Pfaffnau,C2,207883
+427,141430.0,2019-12-21 23:00:00,Women Elite,Namur,22 Dec 2019,57745,"2019-2020 Telenet UCI Cyclo-cross World Cup, Namur",CDM,190877
+428,152639.0,2019-12-20 23:00:00,Women Elite,Sint-Niklaas,21 Dec 2019,57822,Waaslandcross,C2,207804
+429,152636.0,2019-12-14 23:00:00,Women Elite,Overijse,15 Dec 2019,57821,Vlaamse Druivencross,C1,207924
+430,152715.0,2019-12-14 23:00:00,Women Elite,York,15 Dec 2019,57845,National Trophy Series Round 6: York,C2,207821
+431,152859.0,2019-12-14 23:00:00,Women Elite,"Utsunomiya city, Tochigi prefecture",15 Dec 2019,57903,Utsunomiya Cyclo Cross Day2,C2,207952
+432,152889.0,2019-12-14 23:00:00,Women Elite,Valencia,15 Dec 2019,57912,Cyclo-Cross Internacional Ciudad de Valencia,C2,207641
+433,152953.0,2019-12-14 23:00:00,Women Elite,Vittorio Veneto TV,15 Dec 2019,57935,Gran Premio Città di Vittorio Veneto,C2,207704
+434,152900.0,2019-12-14 23:00:00,Women Elite,Bagnoles de l'Orne,15 Dec 2019,57978,3eme manche de Coupe de France Cyclo-cross,C2,207815
+435,151650.0,2019-12-14 23:00:00,Women Elite,"Tacoma, WA",15 Dec 2019,58564,USA National Championships,CN,206543
+436,152589.0,2019-12-13 23:00:00,Women Elite,Ronse - Kluisbergen,14 Dec 2019,57805,DVV Verzekeringen trofee Hotondcross,C1,207670
+437,152856.0,2019-12-13 23:00:00,Women Elite,"Utsunomiya city, Tochigi prefecture",14 Dec 2019,57902,Utsunomiya Cyclo Cross Day1,C2,207758
+438,152886.0,2019-12-13 23:00:00,Women Elite,Xativa,14 Dec 2019,57911,Ciclo-cross Ciudad de Xativa,C2,207736
+439,152914.0,2019-12-13 23:00:00,Women Elite,Unicov,14 Dec 2019,57920,Toi Toi Cup,C1,207877
+440,,2019-12-13 23:00:00,,,,57921,Czech National Championships - MJ,CN,207877
+441,151692.0,2019-12-13 23:00:00,Women Elite,"Micasasa, Sibiu",14 Dec 2019,58569,Romania National Championships,CN,206587
+442,152595.0,2019-12-07 23:00:00,Women Elite,Zonhoven,08 Dec 2019,57807,Telenet Superprestige Zonhoven,C1,207856
+443,152712.0,2019-12-07 23:00:00,Women Elite,Fae' Di Oderzo - Treviso,08 Dec 2019,57844,Ciclocross del Ponte,C2,207782
+444,152811.0,2019-12-07 23:00:00,Women Elite,Garland (Dallas) Texas,08 Dec 2019,57874,Resolution 'Cross Cup,C2,207755
+445,141492.0,2019-12-07 23:00:00,Women Elite,"Uchiko Town, Ehime Prefecture",08 Dec 2019,57900,Japanese National Championships,CN,190843
+446,152883.0,2019-12-07 23:00:00,Women Elite,Igorre,08 Dec 2019,57910,Ziklo kross Igorre,C2,207779
+447,141548.0,2019-12-07 23:00:00,Women Elite,Pferdezentrum Stadl-Paura,08 Dec 2019,57961,Int. Radquerfeldein GP Lambach/Stadl-Paura,C2,190685
+448,152808.0,2019-12-07 23:00:00,Women Elite,warwick,08 Dec 2019,58279,NBX GP of Cross 2,C2,207845
+449,152630.0,2019-12-06 23:00:00,Women Elite,Essen,07 Dec 2019,57819,IKO cyclocross - Essen,C1,207637
+450,152805.0,2019-12-06 23:00:00,Women Elite,Garland (Dallas) Texas,07 Dec 2019,57873,Resolution 'Cross Cup,C2,207990
+451,152912.0,2019-12-06 23:00:00,Women Elite,Jabkenice,07 Dec 2019,57919,Toi Toi Cup,C2,207840
+452,152880.0,2019-12-06 23:00:00,Women Elite,Ametzaga-Zuia,07 Dec 2019,58045,Trofeo San Andres,C2,207762
+453,152802.0,2019-12-06 23:00:00,Women Elite,warwick,07 Dec 2019,58278,NBX GP of Cross 1,C2,208009
+454,152627.0,2019-11-30 23:00:00,Women Elite,Mol,01 Dec 2019,57818,Lampiris Zilvermeercross,C1,207981
+455,152709.0,2019-11-30 23:00:00,Women Elite,Brugherio (MB),01 Dec 2019,57878,International Ciclocross selle SMP-11°Trof.Cop.ed.Brugherio82,C2,208007
+456,152920.0,2019-11-30 23:00:00,Women Elite,Lanarvily,01 Dec 2019,57924,Cyclo cross du Mingant Lanarvily,C2,207666
+457,152947.0,2019-11-30 23:00:00,Women Elite,"Broken Arrow,Oklahoma",01 Dec 2019,57933,Ruts 'n' Guts 2,C2,207745
+458,152950.0,2019-11-30 23:00:00,Women Elite,Madiswil,01 Dec 2019,57934,Flückiger Cross Madiswil,C2,207863
+459,142055.0,2019-11-30 23:00:00,Women Elite,Trencin,01 Dec 2019,58044,Slovak national championships,CN,190904
+460,153138.0,2019-11-30 23:00:00,Women Elite,Pontevedra,01 Dec 2019,58695,Gran Premio Ciudad de Pontevedra,C2,208297
+461,157991.0,2019-11-30 23:00:00,Women Elite,Espoo,01 Dec 2019,59979,Finnish National Championships,CN,220789
+462,152826.0,2019-11-29 23:00:00,Women Elite,Kolin,30 Nov 2019,57888,Toi Toi Cup,C2,207793
+463,152897.0,2019-11-29 23:00:00,Women Elite,"Broken Arrow, klahoma",30 Nov 2019,57914,Ruts 'n' Guts 1,C2,207696
+464,152366.0,2019-11-29 23:00:00,Women Elite,Milano,30 Nov 2019,58658,GRAN PREMIO GUERCIOTTI,C2,207364
+465,153141.0,2019-11-29 23:00:00,Women Elite,Abadiano,30 Nov 2019,58696,Abadiñoko udala saria,C2,208303
+466,154905.0,2019-11-29 23:00:00,Women Elite,Kortrijk,30 Nov 2019,59129,DVV Verzekeringen trofee Kortrijk,C2,210088
+467,141428.0,2019-11-23 23:00:00,Women Elite,Koksijde,24 Nov 2019,57744,"2019-2020 Telenet UCI Cyclo-cross World Cup, Koksijde",CDM,190875
+468,152706.0,2019-11-23 23:00:00,Women Elite,Pembrey Country Park,24 Nov 2019,57877,National Trophy Series Round 5: Pembrey,C2,207915
+469,152917.0,2019-11-23 23:00:00,Women Elite,Gościęcin,24 Nov 2019,57923,Bryksy Cross Gościęcin,C2,207638
+470,152944.0,2019-11-23 23:00:00,Women Elite,"Hendersonville, NC",24 Nov 2019,57932,North Carolina Grand Prix - Race 2,C2,207676
+471,152621.0,2019-11-22 23:00:00,Women Elite,Wachtebeke (Provinciaal Domein Puyenbroeck),23 Nov 2019,57816,Ambiancecross,C1,207658
+472,152853.0,2019-11-22 23:00:00,Women Elite,"Minamimaki Village, Nagano",23 Nov 2019,57899,Rapha Supercross Nobeyama,C1,207860
+473,152941.0,2019-11-22 23:00:00,Women Elite,"Hendersonville, NC",23 Nov 2019,57931,North Carolina Grand Prix - Race 1,C2,207771
+474,142052.0,2019-11-22 23:00:00,Women Elite,Kosice,23 Nov 2019,58042,Grand Prix Kosice,C2,190841
+475,152618.0,2019-11-16 23:00:00,Women Elite,Hamme,17 Nov 2019,57815,DVV Verzekeringen trofee Flandriencross,C1,208013
+476,152733.0,2019-11-16 23:00:00,Women Elite,Hittnau,17 Nov 2019,57851,EKZ CrossTour,C1,207868
+477,152796.0,2019-11-16 23:00:00,Women Elite,"Indy Cycloplex (Indianapolis, IND)",17 Nov 2019,57871,Major Taylor Cross Cup,C2,207734
+478,152799.0,2019-11-16 23:00:00,Women Elite,"Suffern , NY",17 Nov 2019,57872,Supercross Day 2,C2,207913
+479,152703.0,2019-11-16 23:00:00,Women Elite,Saccolongo PD,17 Nov 2019,57876,40th anniversary of the World memorial ciclocross Saccolongo,C2,207630
+480,152850.0,2019-11-16 23:00:00,Women Elite,Takashima City Shiga Prefecture,17 Nov 2019,57898,KANSAI Cyclo Cross Makino Round,C2,207841
+481,151425.0,2019-11-16 23:00:00,Women Elite,Spikkestad,17 Nov 2019,58537,Norwegian National Championships,CN,206258
+482,141411.0,2019-11-15 23:00:00,Women Elite,Tabor,16 Nov 2019,57743,"2019-2020 Telenet UCI Cyclo-cross World Cup, Tabor",CDM,190761
+483,152790.0,2019-11-15 23:00:00,Women Elite,"Suffern , NY",16 Nov 2019,57869,Supercross Day 1,C2,207739
+484,152793.0,2019-11-15 23:00:00,Women Elite,"Indy Cycloplex (Indianapolis, IND)",16 Nov 2019,57870,Major Taylor Cross Cup,C2,207897
+485,152615.0,2019-11-10 23:00:00,Women Elite,Niel,11 Nov 2019,57814,Jaarmarktcross,C1,207646
+486,152700.0,2019-11-09 23:00:00,Women Elite,"Ardingly, near Crawley",10 Nov 2019,57843,National Trophy Series Round 4: Crawley,C2,207709
+487,152877.0,2019-11-09 23:00:00,Women Elite,Karrantza,10 Nov 2019,57909,Cyclo-cross de Karrantza,C2,208014
+488,152938.0,2019-11-09 23:00:00,Women Elite,"Northampton, MA",10 Nov 2019,57930,The Northampton International,C2,207886
+489,152891.0,2019-11-08 23:00:00,Women Elite,"Midland, Ontario",10 Nov 2019,57913,Pan-American Championships,CC,207702
+490,152932.0,2019-11-08 23:00:00,Women Elite,"Midland, Ontario",09 Nov 2019,57928,Silver Goose Cyclocross Festival,C2,208024
+491,152935.0,2019-11-08 23:00:00,Women Elite,"Northampton, MA",09 Nov 2019,57929,The Northampton International,C2,207648
+492,141538.0,2019-11-08 23:00:00,Women Elite,Silvelle,10 Nov 2019,57957,UEC Cyclo-cross European Championships,CC,190842
+493,152787.0,2019-11-02 23:00:00,Women Elite,"Falmouth, Massachusetts, USA",03 Nov 2019,57868,Really Rad Festival of Cyclocross Day 2,C2,208034
+494,152730.0,2019-11-02 23:00:00,Women Elite,Micasasa,03 Nov 2019,57881,November Cross,C2,207979
+495,152847.0,2019-11-02 23:00:00,Women Elite,"Makuhari, Chiba",03 Nov 2019,57897,Yowamushi-Pedal Makuhari Cross p/b Champion System,C2,207944
+496,152874.0,2019-11-02 23:00:00,Women Elite,Vic,03 Nov 2019,57908,Gran Premi Internacional Ciutat de Vic,C2,207806
+497,152923.0,2019-11-02 23:00:00,Women Elite,Oostkamp - Ruddervoorde,03 Nov 2019,57925,Telenet Superprestige Ruddervoorde,C1,208019
+498,152929.0,2019-11-02 23:00:00,Women Elite,"Peterborough, Ontario",03 Nov 2019,57927,PTBOCX,C2,207854
+499,152829.0,2019-11-02 23:00:00,Women Elite,Andrezieux-Boutheon,03 Nov 2019,57977,2eme manche de Coupe de France Cyclo-cross,C2,207873
+500,141511.0,2019-11-01 23:00:00,Women Elite,"Peterborough, Ontario",02 Nov 2019,57839,Canadian National Championships,CN,190696
+501,152784.0,2019-11-01 23:00:00,Women Elite,"Falmouth, Massachusetts, USA",02 Nov 2019,57867,Really Rad Festival of Cyclocross Day 1,C2,207805
+502,152926.0,2019-11-01 23:00:00,Women Elite,Manlleu,02 Nov 2019,57926,Ciclocross Manlleu,C2,207879
+503,152609.0,2019-10-31 23:00:00,Women Elite,Melden - Oudenaarde,01 Nov 2019,57812,DVV Verzekeringen trofee Koppenbergcross,C1,207776
+504,152871.0,2019-10-31 23:00:00,Women Elite,Les Franqueses,01 Nov 2019,57907,Gran Premi Les Franqueses,C2,207850
+505,150603.0,2019-10-31 23:00:00,Women Elite,Jesolo,01 Nov 2019,58461,GP Citta Di Jesolo,C2,205133
+506,152688.0,2019-10-27 23:00:00,Women Elite,Slany,28 Oct 2019,57838,Toi Toi Cup,C1,207817
+507,152612.0,2019-10-26 23:00:00,Women Elite,Gavere,27 Oct 2019,57813,Telenet Superprestige Gavere,C1,207652
+508,152697.0,2019-10-26 23:00:00,Women Elite,Irvine,27 Oct 2019,57841,National Trophy Series Round 3: Irvine,C2,207738
+509,152781.0,2019-10-26 23:00:00,Women Elite,"Mason, Ohio USA",27 Oct 2019,57866,Cincinnati UCI Cyclocross - Kingswood Park,C2,207939
+510,152721.0,2019-10-26 23:00:00,Women Elite,Panevezys,27 Oct 2019,57880,Lithuanian National Championships,CN,207932
+511,152820.0,2019-10-26 23:00:00,Women Elite,Contern,27 Oct 2019,57886,Grand-Prix de la Commune de Contern,C2,207994
+512,152823.0,2019-10-26 23:00:00,Women Elite,Elorrio,27 Oct 2019,57887,Elorrioko Basqueland Ziklokrosa,C1,207848
+513,152835.0,2019-10-26 23:00:00,Women Elite,München,27 Oct 2019,57893,Munich Super Cross,C1,207759
+514,142049.0,2019-10-26 23:00:00,Women Elite,Topolcianky,27 Oct 2019,58043,Grand Prix Topolcianky,C1,190813
+515,152844.0,2019-10-26 23:00:00,Women Elite,"Sagae-shi,Yamagata Prefecture",27 Oct 2019,58076,Sagae Round Tohoku CX Series,C2,208000
+516,152778.0,2019-10-26 23:00:00,Women Elite,"Jamesburg, NJ",27 Oct 2019,58315,HPCX,C2,207796
+517,152633.0,2019-10-25 23:00:00,Women Elite,Beringen,26 Oct 2019,57820,Beringen,C2,207708
+518,152772.0,2019-10-25 23:00:00,Women Elite,"Mason, Ohio, USA",26 Oct 2019,57865,Cincinnati UCI Cyclocross - Kingswood Park,C1,207731
+519,152817.0,2019-10-25 23:00:00,Women Elite,Laudio-Llodio,26 Oct 2019,57885,Ziklokross Laudio,C1,207800
+520,142046.0,2019-10-25 23:00:00,Women Elite,Podbrezová,26 Oct 2019,58040,Grand Prix Podbrezová,C1,190792
+521,151704.0,2019-10-25 23:00:00,Women Elite,Izhevsk,26 Oct 2019,58572,Russian National Championships,CN,206603
+522,152718.0,2019-10-21 23:00:00,Women Elite,Woerden,22 Oct 2019,57847,Kiremko Nacht van Woerden,C2,207761
+523,141409.0,2019-10-19 23:00:00,Women Elite,Bern,20 Oct 2019,57742,"2019-2020 Telenet UCI Cyclo-cross World Cup, Bern",CDM,190880
+524,152603.0,2019-10-19 23:00:00,Women Elite,Ternitz,20 Oct 2019,57810,Tage des Querfeldeinsports (Day of Cyclocross),C2,207803
+525,152727.0,2019-10-19 23:00:00,Women Elite,Stockholm,20 Oct 2019,57850,Stockholm cyclocross,C2,207787
+526,152769.0,2019-10-19 23:00:00,Women Elite,"Washington, DC",20 Oct 2019,57864,DCCX,C2,207754
+527,153144.0,2019-10-19 23:00:00,Women Elite,Cles (TN),20 Oct 2019,58697,Il Melo Cup,C2,208298
+528,152600.0,2019-10-18 23:00:00,Women Elite,Boom,19 Oct 2019,57809,Telenet Superprestige De Schorre Boom,C2,207909
+529,152766.0,2019-10-18 23:00:00,Women Elite,"Washington, DC",19 Oct 2019,57861,DCCX,C2,207673
+530,152814.0,2019-10-18 23:00:00,Women Elite,Täby Park,19 Oct 2019,57889,CX Täby Park,C2,207878
+531,152597.0,2019-10-16 23:00:00,Women Elite,Ardooie,17 Oct 2019,57808,Kermiscross,C2,207823
+532,152760.0,2019-10-12 23:00:00,Women Elite,"Baltimore, MD",13 Oct 2019,57859,Charm City Cross,C2,207783
+533,152832.0,2019-10-12 23:00:00,Women Elite,Steinmaur,13 Oct 2019,57891,Internationales Radquer Steinmaur,C2,207801
+534,152838.0,2019-10-12 23:00:00,Women Elite,Gieten,13 Oct 2019,57895,Telenet Superprestige Gieten,C1,207900
+535,145088.0,2019-10-12 23:00:00,Women Elite,Trnava,13 Oct 2019,58041,Grand Prix Trnava,C2,193913
+536,142434.0,2019-10-12 23:00:00,Women Elite,La Meziere,13 Oct 2019,58092,1ere manche de Coupe de France Cyclo-cross,C2,190930
+537,152763.0,2019-10-12 23:00:00,Women Elite,"Boulder, CO",13 Oct 2019,58277,US Open of Cyclocross Day 2,C2,207691
+538,152592.0,2019-10-11 23:00:00,Women Elite,Kruibeke,12 Oct 2019,57806,Polderscross,C2,207737
+539,152685.0,2019-10-11 23:00:00,Women Elite,Holé Vrchy,12 Oct 2019,57837,Toi Toi Cup,C2,207697
+540,152691.0,2019-10-11 23:00:00,Women Elite,Suure-Jaani,12 Oct 2019,57840,Estonian National Championships,CN,207791
+541,152757.0,2019-10-11 23:00:00,Women Elite,"Baltimore, MD",12 Oct 2019,57858,Charm City Cross,C2,207986
+542,152754.0,2019-10-11 23:00:00,Women Elite,"Boulder, CO",12 Oct 2019,58276,US Open of Cyclocross Day 1,C2,207721
+543,152606.0,2019-10-05 23:00:00,Women Elite,Pelt,06 Oct 2019,57811,GP Pelt,C2,207957
+544,152724.0,2019-10-05 23:00:00,Women Elite,Aigle,06 Oct 2019,57849,EKZ CrossTour,C1,207724
+545,152694.0,2019-10-05 23:00:00,Women Elite,"Milnthorpe, Cumbria",06 Oct 2019,57875,National Trophy Series Round 2: Milnthorpe,C2,207809
+546,152751.0,2019-10-05 23:00:00,Women Elite,Fayetteville Arkansas,06 Oct 2019,57883,FayetteCross,C2,207949
+547,142043.0,2019-10-05 23:00:00,Women Elite,Rakova,06 Oct 2019,58039,Grand Prix Rakova,C2,190722
+548,152586.0,2019-10-04 23:00:00,Women Elite,Meulebeke,05 Oct 2019,57804,Berencross,C2,207635
+549,152682.0,2019-10-04 23:00:00,Women Elite,Hlinsko,05 Oct 2019,57836,Toi Toi Cup,C2,207831
+550,152742.0,2019-10-04 23:00:00,Women Elite,Fayetteville Arkansas,05 Oct 2019,57882,FayetteCross,C2,207880
+551,141489.0,2019-09-28 23:00:00,Women Elite,Campeonato Nacional CX,29 Sep 2019,57953,Chilean National Championships,CN,190814
+552,142040.0,2019-09-28 23:00:00,Women Elite,Poprad,29 Sep 2019,58036,Grand Prix Poprad,C1,190830
+553,149275.0,2019-09-28 23:00:00,Women Elite,Vittel,29 Sep 2019,58388,Canyon Cross Race,C2,202333
+554,152580.0,2019-09-27 23:00:00,Women Elite,Mlada Boleslav,28 Sep 2019,57951,Toi Toi Cup,C1,207760
+555,149211.0,2019-09-27 23:00:00,Women Elite,Vittel,28 Sep 2019,58387,Chazal Cup Vittel,C2,202140
+556,141407.0,2019-09-21 23:00:00,Women Elite,Waterloo,22 Sep 2019,57740,"2019-2020 Telenet UCI Cyclo-cross World Cup, Waterloo",CDM,190719
+557,152574.0,2019-09-21 23:00:00,Women Elite,Boulzicourt,22 Sep 2019,57949,Cyclo-cross de Boulzicourt Ardennes,C2,207730
+558,152577.0,2019-09-21 23:00:00,Women Elite,Derby,22 Sep 2019,57950,National Trophy Series Round 1: Derby,C2,208018
+559,152956.0,2019-09-21 23:00:00,Women Elite,Illnau,22 Sep 2019,57962,Radcross Illnau,C2,207871
+560,152571.0,2019-09-19 23:00:00,Women Elite,Waterloo Wisconsin,20 Sep 2019,57948,Trek Cup,C2,207974
+561,152568.0,2019-09-14 23:00:00,Women Elite,"Iowa City, Iowa",15 Sep 2019,57946,Jingle Cross,C1,207660
+562,141405.0,2019-09-13 23:00:00,Women Elite,Iowa City,14 Sep 2019,57741,"2019-2020 Telenet UCI Cyclo-cross World Cup, Iowa City",CDM,190829
+563,152565.0,2019-09-12 23:00:00,Women Elite,"Iowa City, Iowa",13 Sep 2019,57945,Jingle Cross,C2,207837
+564,152563.0,2019-09-07 23:00:00,Women Elite,Eeklo,08 Sep 2019,57944,cross Eeklo,C2,207785
+565,152560.0,2019-09-07 23:00:00,Women Elite,"Rochester, NY",08 Sep 2019,58038,Rochester Cyclocross,C2,207716
+566,152557.0,2019-09-06 23:00:00,Women Elite,"Rochester, NY",07 Sep 2019,58037,Rochester Cyclocross,C1,207961
+567,145114.0,2019-09-06 23:00:00,Women Elite,Fengfeng Station,07 Sep 2019,58291,Qiansen Trophy Fengfeng Station,C1,193938
+568,152554.0,2019-08-31 23:00:00,Women Elite,"Roanoke, VA, USA",01 Sep 2019,57943,Virginia's Blue Ridge GO Cross,C2,207766
+569,145112.0,2019-08-31 23:00:00,Women Elite,Aohan County,01 Sep 2019,58290,Qiansen trophy Aohan Station,C1,193937
+570,152551.0,2019-08-30 23:00:00,Women Elite,"Roanoke, VA, USA",31 Aug 2019,57941,Virginia's Blue Ridge GO Cross,C2,207655
+571,141505.0,2019-08-17 23:00:00,Women Elite,"Melbourne, Victoria",18 Aug 2019,57956,Melbourne Grand Prix of Cyclo-Cross,C2,190862
+572,141502.0,2019-08-16 23:00:00,Women Elite,"Melbourne, Victoria",17 Aug 2019,57955,Melbourne Grand Prix of Cyclo-Cross,C2,190858
+573,145366.0,2019-08-10 23:00:00,Women Elite,Christchurch,11 Aug 2019,58318,New Zealand National Championships,CN,194184
+574,141508.0,2019-08-09 23:00:00,Women Elite,"Sam Miranda, King Valley Victoria",11 Aug 2019,57954,Australian National Championships,CN,190711
+575,162281.0,2021-02-20 23:00:00,Women Elite,Oostmalle,21 Feb 2021,60603,Internationale Sluitingsprijs Ostmalle,C1,225893
+576,169038.0,2021-02-20 23:00:00,Women Elite,Santo Tirso,21 Feb 2021,62785,Portugese National Championships,CN,234552
+577,,2021-02-20 23:00:00,,,,64735,Championnats de France de Cyclo-cross - catégories Juniors,CN,234552
+578,162437.0,2021-02-19 23:00:00,Women Elite,Sint-Niklaas,20 Feb 2021,60602,Waaslandcross,C2,226287
+579,162266.0,2021-02-13 23:00:00,Women Elite,Brussels,14 Feb 2021,60595,X²0 badkamers Trofee - Brussels Universities Cyclocross,C1,225964
+580,161923.0,2021-02-12 23:00:00,Women Elite,Eeklo,13 Feb 2021,60478,cross Eeklo,C2,225864
+581,162276.0,2021-02-06 23:00:00,Women Elite,Lille,07 Feb 2021,60599,X²0 badkamers Trofee - Krawatencross,C1,225904
+582,162308.0,2021-02-05 23:00:00,Women Elite,Middelkerke,06 Feb 2021,60598,Telenet Superprestige - Middelkerke,C1,226154
+583,164674.0,2021-01-29 23:00:00,Women Elite,Ostende,30 Jan 2021,60615,UCI Cyclo-cross World Championships,CM,228627
+584,161771.0,2021-01-23 23:00:00,Women Elite,Overijse,24 Jan 2021,60468,"2020-2021 UCI Cyclo-cross World Cup, Overijse",CDM,225629
+585,161830.0,2021-01-22 23:00:00,Women Elite,Hamme,23 Jan 2021,60601,X²0 badkamers Trofee - Flandriencross,C1,225627
+586,175907.0,2021-01-22 23:00:00,Women Elite,Włoszakowice,23 Jan 2021,64488,Polish National Championships,CN,248607
+587,162257.0,2021-01-15 23:00:00,Women Elite,Mol,16 Jan 2021,60592,Lampiris Zilvermeercross,C1,225797
+588,161828.0,2021-01-09 23:00:00,Women Elite,Hittnau,10 Jan 2021,60590,Crossquer,CN,225653
+589,177072.0,2021-01-09 23:00:00,Women Elite,Aarhus,10 Jan 2021,60614,Danish National Championships,CN,249766
+590,162241.0,2021-01-08 23:00:00,Women Elite,Jabkenice,09 Jan 2021,60586,Championnat National de la Rep. Tcheque ME,CN,225936
+591,162245.0,2021-01-08 23:00:00,Women Elite,Pontchâteau - Région Pays de la Loire,09 Jan 2021,60587,Championnats de France de Cyclo-cross,CN,226078
+592,161856.0,2021-01-08 23:00:00,Women Elite,Meulebeke,09 Jan 2021,60607,Belgian National Championships,CN,225693
+593,168373.0,2021-01-08 23:00:00,Women Elite,Lecce,09 Jan 2021,62710,Italian National Championships,CN,233847
+594,175855.0,2021-01-08 23:00:00,Women Elite,Pernitz,09 Jan 2021,64474,Austrian National Championships,CN,248511
+595,176364.0,2021-01-08 23:00:00,Women Elite,Miskolc,09 Jan 2021,64532,Hungarian national championships,CN,249059
+596,176359.0,2021-01-07 23:00:00,Women Elite,Torrelavega,08 Jan 2021,64531,Spanish National Championships,CN,249055
+597,161796.0,2021-01-02 23:00:00,Women Elite,Hulst,03 Jan 2021,60466,"2020-2021 UCI Cyclo-cross World Cup, Hulst",CDM,225742
+598,162297.0,2021-01-01 23:00:00,Women Elite,Gullegem,02 Jan 2021,60584,Cyclocross Gullegem,C2,226148
+599,162239.0,2021-01-01 23:00:00,Women Elite,Hittnau,02 Jan 2021,60585,EKZ CrossTour Hittnau,C1,226084
+600,161852.0,2021-01-01 23:00:00,Women Elite,Troyes,02 Jan 2021,60613,Troyes Cyclocross International,C1,225644
+601,162232.0,2020-12-31 23:00:00,Women Elite,Baal,01 Jan 2021,60582,X²0 badkamers Trofee - GP Sven Nys,C1,226106
+602,162230.0,2020-12-29 23:00:00,Women Elite,Bredene,30 Dec 2020,60581,Cyclocross Bredene,C2,225989
+603,161782.0,2020-12-26 23:00:00,Women Elite,Dendermonde,27 Dec 2020,60469,"2020-2021 UCI Cyclo-cross World Cup, Dendermonde",CDM,225706
+604,161846.0,2020-12-25 23:00:00,Women Elite,Heusden-Zolder,26 Dec 2020,60605,Telenet Superprestige - Heusden-Zolder,C1,225617
+605,162226.0,2020-12-22 23:00:00,Women Elite,Herentals,23 Dec 2020,60580,X²0 badkamers Trofee - Azencross,C2,225845
+606,162311.0,2020-12-21 23:00:00,Women Elite,Essen,22 Dec 2020,60600,Robotland Cyclocross Essen,C2,226158
+607,161788.0,2020-12-19 23:00:00,Women Elite,Namur,20 Dec 2020,60460,"2020-2021 UCI Cyclo-cross World Cup, Namur",CDM,225619
+608,162210.0,2020-12-12 23:00:00,Women Elite,Valencia,13 Dec 2020,60574,Cyclocross Internacional ciudad Valencia,C2,225836
+609,162294.0,2020-12-12 23:00:00,Women Elite,Gavere,13 Dec 2020,60578,Telenet Superprestige - Gavere,C1,226151
+610,,2020-12-11 23:00:00,,,,60570,Championnat National de la Rep. Tcheque ME,CN,226151
+611,162201.0,2020-12-11 23:00:00,Women Elite,Xátiva (Valencia),12 Dec 2020,60571,Ciclo-cross Ciudad de Xàtiva,C2,225883
+612,162203.0,2020-12-11 23:00:00,Women Elite,Kolín,12 Dec 2020,60572,Toi Toi Cup,C2,225868
+613,167579.0,2020-12-11 23:00:00,Women Elite,Antwerpen,12 Dec 2020,62481,X²0 badkamers Trofee - Scheldecross,C1,232965
+614,162011.0,2020-12-05 23:00:00,Women Elite,Grand Prix Topolcianky,06 Dec 2020,60509,Topolcianky,C2,225865
+615,162181.0,2020-12-05 23:00:00,Women Elite,Boom,06 Dec 2020,60563,Telenet Superprestige - De Schorre Boom,C2,225875
+616,162165.0,2020-12-04 23:00:00,Women Elite,Topolcianky,05 Dec 2020,60558,Championnat National de Slovaquie ME,CN,226006
+617,161775.0,2020-11-28 23:00:00,Women Elite,Tabor,29 Nov 2020,60458,"2020-2021 UCI Cyclo-cross World Cup, Tabor",CDM,225690
+618,161813.0,2020-11-28 23:00:00,Women Elite,Grand Prix Podbrezova,29 Nov 2020,60526,Podbrezova,C2,225677
+619,161998.0,2020-11-27 23:00:00,Women Elite,Trnava,28 Nov 2020,60504,Grand Prix Trnava,C2,225888
+620,162159.0,2020-11-27 23:00:00,Women Elite,Kortrijk,28 Nov 2020,60556,X²0 badkamers Trofee - Urban Cross,C2,226010
+621,161817.0,2020-11-27 23:00:00,Women Elite,"Nagamine-Sports Park,Iiyama City, Nagano Pref.",28 Nov 2020,60564,Japanese National Championships,CN,225685
+622,162066.0,2020-11-21 23:00:00,Women Elite,Jičín,22 Nov 2020,60527,Toi Toi Cup,C2,225884
+623,162434.0,2020-11-21 23:00:00,Women Elite,Merksplas,22 Nov 2020,60550,Telenet Superprestige - Cyclocross Merksplas,C2,226280
+624,162147.0,2020-11-21 23:00:00,Women Elite,Gościęcin,22 Nov 2020,60552,Bryksy Cross Gościęcin,C2,225764
+625,162156.0,2020-11-21 23:00:00,Women Elite,Takashima City Shiga Prefecture,22 Nov 2020,60555,Kansai Cyclo Cross Makino Round,C2,225820
+626,162139.0,2020-11-16 23:00:00,Women Elite,Rýmařov,17 Nov 2020,60549,Toi Toi Cup,C2,225807
+627,162314.0,2020-11-13 23:00:00,Women Elite,Leuven,14 Nov 2020,60483,GP Leuven,C1,226163
+628,162112.0,2020-11-10 23:00:00,Women Elite,Niel,11 Nov 2020,60541,Telenet Superprestige - Jaarmarktcross,C1,225772
+629,162105.0,2020-11-07 23:00:00,Women Elite,’S-Hertogenbosch,08 Nov 2020,60539,2020 UEC Cyclo-cross European Championships,CC,225877
+630,162069.0,2020-10-30 23:00:00,Women Elite,Oudenaarde,31 Oct 2020,60528,X²0 badkamers Trofee - Koppenbergcross,C1,226024
+631,171669.0,2020-10-30 23:00:00,Women Elite,Vantaa,31 Oct 2020,63866,Finnish National Championships,CN,237384
+632,170388.0,2020-10-24 23:00:00,Women Elite,Panevezys,25 Oct 2020,63730,Lithuanian Cyclo-cross National Championships,CN,236105
+633,162305.0,2020-10-23 23:00:00,Women Elite,Oostkamp - Ruddervoorde,24 Oct 2020,60518,Telenet Superprestige - Ruddervoorde,C1,226155
+634,162048.0,2020-10-23 23:00:00,Women Elite,Elva,24 Oct 2020,60521,Estonian National Championships,CN,226096
+635,162388.0,2020-10-23 23:00:00,Women Elite,Izhevsk (Republic of Udmurtia),24 Oct 2020,60647,Russian Cyclo-cross National Championships,CN,226235
+636,168270.0,2020-10-17 23:00:00,Women Elite,Bern,18 Oct 2020,62691,EKZ CrossTour Bern,C1,233740
+637,162431.0,2020-10-16 23:00:00,Women Elite,Beringen,17 Oct 2020,60507,Beringen,C2,226279
+638,161992.0,2020-10-10 23:00:00,Women Elite,Sueca,11 Oct 2020,60502,Trofeu de Ciclocross Sueca,C2,225886
+639,161995.0,2020-10-10 23:00:00,Women Elite,Gieten,11 Oct 2020,60503,Telenet Superprestige - Gieten,C1,225900
+640,162001.0,2020-10-10 23:00:00,Women Elite,Steinmaur,11 Oct 2020,60505,Internationales Radquer Steinmaur,C2,225919
+641,162031.0,2020-10-10 23:00:00,Women Elite,Stockholm,11 Oct 2020,60515,Stockholm cyclocross,C2,225873
+642,162008.0,2020-10-09 23:00:00,Women Elite,Täby Park,10 Oct 2020,60508,CX Täby Park,C2,225827
+643,161989.0,2020-10-02 23:00:00,Women Elite,Kruibeke,03 Oct 2020,60501,Polderscross,C2,225821
+644,161964.0,2020-09-26 23:00:00,Women Elite,Holé Vrchy,27 Sep 2020,60493,Toi Toi Cup,C2,226081
+645,161958.0,2020-09-25 23:00:00,Women Elite,Mladá Boleslav,26 Sep 2020,60491,Toi Toi Cup,C2,226002
+646,168910.0,2020-09-25 23:00:00,Women Elite,Lokeren,26 Sep 2020,62769,Rapencross,C2,234408
+647,161919.0,2020-09-12 23:00:00,Women Elite,Baden,13 Sep 2020,60477,EKZ CrossTour Baden,C1,226102
+648,180656.0,2021-10-02 23:00:00,Women Elite,Gieten,03 Oct 2021,65023,Telenet Superprestige Gieten,C1,253654
+649,180770.0,2021-10-02 23:00:00,Women Elite,"Baltimore, MD",03 Oct 2021,65055,USCX Cyclocross - Charm City Cross,C2,254024
+650,180774.0,2021-10-02 23:00:00,Women Elite,Asker,03 Oct 2021,65056,Føyka KROSS,C2,253760
+651,180778.0,2021-10-02 23:00:00,Women Elite,Pierric - Région Pays de la Loire,03 Oct 2021,65057,2eme Manche Coupe de France Cyclo-cross,C2,253934
+652,180781.0,2021-10-02 23:00:00,Women Elite,Jesolo (VE),03 Oct 2021,65058,Gran Premio Internazionale CX Città di Jesolo - Cyclo-Cross European Cup,C2,253956
+653,180652.0,2021-10-01 23:00:00,Women Elite,"Baltimore, MD",02 Oct 2021,65022,USCX Cyclocross - Charm City Cross,C1,253932
+654,180759.0,2021-10-01 23:00:00,Women Elite,Pierric - Région Pays de la Loire,02 Oct 2021,65052,1ere Manche Coupe de France Cyclo-cross,C2,253647
+655,180763.0,2021-10-01 23:00:00,Women Elite,Meulebeke,02 Oct 2021,65053,Berencross,C2,253888
+656,180767.0,2021-10-01 23:00:00,Women Elite,Asker,02 Oct 2021,65054,Føyka KROSS,C2,254030
+657,179564.0,2021-10-01 23:00:00,Women Elite,Hlinsko,02 Oct 2021,65129,Toi Toi Cup,C2,253436
+658,179568.0,2021-09-27 23:00:00,Women Elite,Mladá Boleslav,28 Sep 2021,65127,Toi Toi Cup,C2,253367
+659,180745.0,2021-09-25 23:00:00,Women Elite,"Rochester, NY",26 Sep 2021,65048,USCX Cyclocross - Rochester Cyclocross,C2,253728
+660,180753.0,2021-09-25 23:00:00,Women Elite,Illnau,26 Sep 2021,65050,Radcross Illnau,C2,253667
+661,180756.0,2021-09-25 23:00:00,Women Elite,Boulzicourt,26 Sep 2021,65051,Cyclo-cross international de Boulzicourt Ardennes,C2,253673
+662,180648.0,2021-09-24 23:00:00,Women Elite,"Rochester, NY",25 Sep 2021,65021,USCX Cyclocross - Rochester Cyclocross,C1,253771
+663,180972.0,2021-09-24 23:00:00,Women Elite,Bredene,25 Sep 2021,65113,Cyclocross Bredene,C2,253863
+664,180738.0,2021-09-18 23:00:00,Women Elite,"Roanoke, VA, USA",19 Sep 2021,65046,GO Cross presented by Deschutes Brewery day 2,C2,253951
+665,180749.0,2021-09-18 23:00:00,Women Elite,Derby,19 Sep 2021,65049,National Trophy Series Round 1: Derby,C2,253867
+666,180883.0,2021-09-18 23:00:00,Women Elite,Les Franqueses,19 Sep 2021,65088,Gran Premi Les Franqueses,C2,253816
+667,180732.0,2021-09-17 23:00:00,Women Elite,Île de Loisirs de Jablines-Annet,18 Sep 2021,65044,Le Grand CX,C2,253916
+668,180810.0,2021-09-17 23:00:00,Women Elite,Beringen,18 Sep 2021,65067,Beringen,C2,254036
+669,183274.0,2021-09-17 23:00:00,Women Elite,"Roanoke, VA, USA",18 Sep 2021,65518,GO Cross presented by Deschutes Brewery day 1,C2,257581
+670,180735.0,2021-09-10 23:00:00,Women Elite,Lokeren,11 Sep 2021,65045,Rapencross,C2,253945
+671,179638.0,2021-09-10 23:00:00,Women Elite,Lützelbach,11 Sep 2021,65152,4 Bikes Festival Cyclocross Race,C2,253349
+672,180596.0,2021-08-14 23:00:00,Women Elite,"Lower Hutt, Wellington",15 Aug 2021,65009,New Zealand National Championships,CN,253658

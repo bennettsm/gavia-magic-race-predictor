@@ -1,0 +1,674 @@
+,Id,StartDate,CategoryCode,Venue,Date,CompetitionId,CompetitionName,ClassCode,EventId
+0,66094.0,2018-02-24 23:00:00,Men Elite,Oostmalle,25 Feb 2018,40869,Internationale Sluitingsprijs Oostmalle,C1,73952
+1,66109.0,2018-02-17 23:00:00,Men Elite,Hulst,18 Feb 2018,41037,Vestingcross Hulst,C2,73956
+2,65736.0,2018-02-16 23:00:00,Men Elite,Middelkerke,17 Feb 2018,40912,Telenet Superprestige Noordzeecross Middelkerke,C1,74355
+3,66028.0,2018-02-10 23:00:00,Men Elite,Hoogstraten,11 Feb 2018,40876,Telenet Superprestige Hoogstraten,C1,74340
+4,65735.0,2018-02-09 23:00:00,Men Elite,Lille,10 Feb 2018,40899,DVV verzekeringen trofee - Krawatencross,C1,74064
+5,66151.0,2018-02-06 23:00:00,Men Elite,Maldegem,07 Feb 2018,40971,Parkcross Maldegem,C2,74115
+6,65712.0,2018-02-02 23:00:00,Men Elite,Valkenburg Province Limburg,03 Feb 2018,40930,"UCI Cyclo-cross World Championships, Valkenburg",CM,73981
+7,66210.0,2018-01-27 23:00:00,Men Elite,Hoogerheide,28 Jan 2018,40925,"2017-2018 Telenet UCI Cyclo-cross World Cup, Hoogerheide Provincie Noord-Brabant",CDM,74413
+8,65668.0,2018-01-26 23:00:00,Men Elite,Rucphen,27 Jan 2018,40990,Internationale Cyclocross Rucphen,C2,73932
+9,66044.0,2018-01-20 23:00:00,Men Elite,Leudelange,21 Jan 2018,40906,Grand Prix Möbel Alvisse,C2,74262
+10,65962.0,2018-01-20 23:00:00,Men Elite,Nommay,21 Jan 2018,40926,"2017-2018 Telenet UCI Cyclo-cross World Cup, Nommay Pays de Montbeliard",CDM,74322
+11,66176.0,2018-01-20 23:00:00,Men Elite,Vittorio Veneto TV,21 Jan 2018,41049,Gran Premio Città di Vittorio Veneto,C2,74278
+12,66045.0,2018-01-20 23:00:00,Men Elite,Valongo,21 Jan 2018,41067,Ciclocrosse Internacional de Valongo,C2,73896
+13,65647.0,2018-01-19 23:00:00,Men Elite,Zonnebeke,20 Jan 2018,40873,Kasteelcross Zonnebeke,C2,74363
+14,65734.0,2018-01-14 23:00:00,Men Elite,Otegem,15 Jan 2018,40989,Cyclocross Otegem,C2,74349
+15,65767.0,2018-01-13 23:00:00,Men Elite,"Reno, NV",14 Jan 2018,40887,USA National Championships,CN,74286
+16,65621.0,2018-01-13 23:00:00,Men Elite,Leinster,14 Jan 2018,40893,Irish National Championships,CN,73995
+17,66012.0,2018-01-13 23:00:00,Men Elite,Pula,14 Jan 2018,40896,Croatian National Championships,CN,73940
+18,66204.0,2018-01-13 23:00:00,Men Elite,,14 Jan 2018,40897,Hungarian National Championships,CN,74192
+19,66106.0,2018-01-13 23:00:00,Men Elite,Melgaço,14 Jan 2018,40999,Portugese National Championships,CN,73954
+20,66039.0,2018-01-12 23:00:00,Men Elite,Bensheim,13 Jan 2018,40882,German National Championships,CN,74341
+21,66167.0,2018-01-12 23:00:00,Men Elite,Legazpi (Gipukoa),14 Jan 2018,40883,Spanish National Championships,CN,74060
+22,124989.0,2018-01-12 23:00:00,Men Elite,Koksijde,14 Jan 2018,40884,Belgian National Championships,CN,163506
+23,65950.0,2018-01-12 23:00:00,Men Elite,Surhuisterveen,14 Jan 2018,40886,Dutch National Championships,CN,74013
+24,65787.0,2018-01-12 23:00:00,Men Elite,Holbaek,13 Jan 2018,40890,Danish National Championships,CN,74174
+25,66043.0,2018-01-12 23:00:00,Men Elite,Kayl,13 Jan 2018,40891,Luxembourg National Championships,CN,74407
+26,66166.0,2018-01-12 23:00:00,Men Elite,"Hetton Lyons Country Park, Houghton-Le-Spring",13 Jan 2018,40911,British National Championships,CN,74120
+27,66134.0,2018-01-12 23:00:00,Men Elite,Kozieglowy,13 Jan 2018,40970,Polish National Championships,CN,74274
+28,65825.0,2018-01-12 23:00:00,Men Elite,Steinmaur,13 Jan 2018,41003,Swiss National Championships,CN,74327
+29,66037.0,2018-01-12 23:00:00,Men Elite,Quelneuc,13 Jan 2018,41052,French National Championships,CN,74261
+30,66020.0,2018-01-12 23:00:00,Men Elite,Mlada Boleslav,13 Jan 2018,41060,"Czech National Championships - ME, WE",CN,74402
+31,124091.0,2018-01-12 23:00:00,Men Elite,Göteborg,13 Jan 2018,52489,Swedish National Championships,CN,162584
+32,66150.0,2018-01-06 23:00:00,Men Elite,Leuven,07 Jan 2018,40879,GP Leuven,C1,74416
+33,65905.0,2018-01-06 23:00:00,Men Elite,Ipswich,07 Jan 2018,40995,National Trophy Series - Ipswich,C2,74074
+34,65768.0,2018-01-05 23:00:00,Men Elite,Roma,06 Jan 2018,40888,Italian National Championships,CN,74287
+35,77333.0,2018-01-05 23:00:00,Men Elite,St. Pölten,06 Jan 2018,41372,Austrian National Championships,CN,80445
+36,117228.0,2018-01-05 23:00:00,Men Elite,Abadino,06 Jan 2018,50436,Abadinoko Udala Saria Ziklokrosa,C2,147299
+37,65671.0,2018-01-01 23:00:00,Men Elite,Meilen,02 Jan 2018,41006,EKZ CrossTour,C1,74003
+38,65895.0,2017-12-31 23:00:00,Men Elite,Baal,01 Jan 2018,40892,DVV verzekeringen trofee - GP Sven Nys,C1,74140
+39,65949.0,2017-12-31 23:00:00,Men Elite,Pétange,01 Jan 2018,40931,Grand Prix G.I.L. Immobilière,C2,74161
+40,65980.0,2017-12-29 23:00:00,Men Elite,Diegem,30 Dec 2017,40877,Telenet Superprestige Diegem,C1,74009
+41,65809.0,2017-12-29 23:00:00,Men Elite,Flamanville,30 Dec 2017,40943,4ème manche de la Coupe de France,C1,74326
+42,65731.0,2017-12-28 23:00:00,Men Elite,Bredene,29 Dec 2017,40904,Cyclocross Bredene,C2,74122
+43,65798.0,2017-12-27 23:00:00,Men Elite,Loenhout,28 Dec 2017,40905,DVV verzekeringen trofee - Azencross,C1,74167
+44,65824.0,2017-12-25 23:00:00,Men Elite,Dagmersellen,26 Dec 2017,40880,Internationales Radquer Dagmersellen,C2,74027
+45,66062.0,2017-12-25 23:00:00,Men Elite,Heusden-Zolder,26 Dec 2017,40924,"2017-2018 Telenet UCI Cyclo-cross World Cup, Heusden-Zolder",CDM,74411
+46,66091.0,2017-12-22 23:00:00,Men Elite,Sint-Niklaas,23 Dec 2017,40908,Waaslandcross,C2,74253
+47,65653.0,2017-12-16 23:00:00,Men Elite,Valencia,17 Dec 2017,40900,Cyclo-Cross Internacional Ciudad de Valencia,C2,73993
+48,65683.0,2017-12-16 23:00:00,Men Elite,Namur,17 Dec 2017,40923,"2017-2018 Telenet UCI Cyclo-cross World Cup, Namur",CDM,73852
+49,124918.0,2017-12-16 23:00:00,Men Elite,Sibiu,17 Dec 2017,52593,Romania National Championships,CN,163378
+50,66146.0,2017-12-15 23:00:00,Men Elite,Antwerpen,16 Dec 2017,40951,DVV verzekeringen trofee - Scheldecross,C1,74196
+51,65728.0,2017-12-09 23:00:00,Men Elite,Overijse,10 Dec 2017,40875,Vlaamse Druivencross,C1,73834
+52,66054.0,2017-12-09 23:00:00,Men Elite,"Hendersonville, NC",10 Dec 2017,40919,North Carolina Grand Prix - Race 2,C2,74190
+53,66164.0,2017-12-09 23:00:00,Men Elite,Igorre,10 Dec 2017,40921,Ziklo kross Igorre,C2,73975
+54,66035.0,2017-12-09 23:00:00,Men Elite,Bradford,10 Dec 2017,41001,National Trophy Series - Bradford,C2,74260
+55,66180.0,2017-12-09 23:00:00,Men Elite,Eschenbach,10 Dec 2017,41005,EKZ CrossTour,C1,73830
+56,120288.0,2017-12-09 23:00:00,Men Elite,"Garland (Dallas), TX",10 Dec 2017,51722,Resolution 'Cross Cup,C2,159038
+57,,2017-12-08 23:00:00,,,,40885,Czech National Championships - MJ,CN,159038
+58,66025.0,2017-12-08 23:00:00,Men Elite,Essen,09 Dec 2017,40910,DVV verzekeringen trofee - IKO cyclocross - Essen,C1,73887
+59,66184.0,2017-12-08 23:00:00,Men Elite,"Hendersonville, NC",09 Dec 2017,40918,North Carolina Grand Prix - Race 1,C2,74280
+60,66019.0,2017-12-08 23:00:00,Men Elite,Kolín,09 Dec 2017,40957,Toi Toi Cup,C1,74185
+61,65948.0,2017-12-08 23:00:00,Men Elite,"Minamimaki Villge, Nagano",10 Dec 2017,41026,Japan National Championships,CN,74379
+62,65870.0,2017-12-08 23:00:00,Men Elite,Gorizia,09 Dec 2017,41051,13° Trofeo di Gorizia,C2,74070
+63,120286.0,2017-12-08 23:00:00,Men Elite,"Garland (Dallas), TX",09 Dec 2017,51721,Resolution 'Cross Cup,C2,159035
+64,65815.0,2017-12-07 23:00:00,Men Elite,Fae' Di Oderzo - Treviso,08 Dec 2017,40953,Ciclocross del Ponte,C2,74247
+65,65807.0,2017-12-07 23:00:00,Men Elite,Les Franqueses del Valles,08 Dec 2017,41030,Gran Premi Les Franqueses del Valles,C2,74169
+66,65901.0,2017-12-07 23:00:00,Men Elite,Ametzaga de Zuia,08 Dec 2017,41043,XIII Trofeo San Andres,C2,74308
+67,65965.0,2017-12-05 23:00:00,Men Elite,Manlleu,06 Dec 2017,41044,Trofeo Joan Soler Copa Espana,C2,74017
+68,66129.0,2017-12-02 23:00:00,Men Elite,Sion,03 Dec 2017,40956,Cyclocross International Sion-Valais,C2,73842
+69,66118.0,2017-12-02 23:00:00,Men Elite,Warwick,03 Dec 2017,40965,NBX GP of Cross 2,C2,74399
+70,65793.0,2017-12-02 23:00:00,Men Elite,Mol,03 Dec 2017,41014,Zilvermeercross,C2,74021
+71,65958.0,2017-12-02 23:00:00,Men Elite,"Broken Arrow, OK",03 Dec 2017,41022,Ruts 'n' Guts Day 2,C2,74163
+72,66163.0,2017-12-02 23:00:00,Men Elite,Jablines,03 Dec 2017,41047,3ème manche de la Coupe de France,C1,74417
+73,66105.0,2017-12-02 23:00:00,Men Elite,"Utsunomiya city,Tochigi Prefecture",03 Dec 2017,41066,Utsunomiya cyclo cross series,C2,73953
+74,117542.0,2017-12-02 23:00:00,Men Elite,Banovce nad Bebravou,03 Dec 2017,50553,Slovakia National Championships,CN,147674
+75,65978.0,2017-12-01 23:00:00,Men Elite,Hasselt,02 Dec 2017,40932,GP Hasselt,C1,74087
+76,65972.0,2017-12-01 23:00:00,Men Elite,Milovice,02 Dec 2017,40959,Toi Toi Cup,C2,74230
+77,65766.0,2017-12-01 23:00:00,Men Elite,"Warwick, RI",02 Dec 2017,40964,NBX GP of Cross 1,C2,73903
+78,66183.0,2017-12-01 23:00:00,Men Elite,"Broken Arrow, OK",02 Dec 2017,41021,Ruts 'n' Guts Day 1,C1,73976
+79,65822.0,2017-12-01 23:00:00,Men Elite,Nyon,02 Dec 2017,41046,Cyclo-cross international de Nyon,C2,74386
+80,65727.0,2017-11-25 23:00:00,Men Elite,Hamme,26 Nov 2017,40903,DVV verzekeringen trofee - Flandriencross,C1,73882
+81,65754.0,2017-11-25 23:00:00,Men Elite,"Minamimaki Village, Nagano",26 Nov 2017,41017,Rapha Supercross Nobeyama -Day 2,C2,74283
+82,65630.0,2017-11-25 23:00:00,Men Elite,Brugherio,26 Nov 2017,41023,International Cyclocross Selle SMP -9° Trof.Cop.ed.Brugherio82,C2,74146
+83,66033.0,2017-11-25 23:00:00,Men Elite,"Cyclopark, Gravesend",26 Nov 2017,41061,National Trophy Series: Cyclopark,C2,74405
+84,66060.0,2017-11-24 23:00:00,Men Elite,Zeven,25 Nov 2017,40929,"2017-2018 Telenet UCI Cyclo-cross World Cup, Zeven",CDM,74410
+85,65946.0,2017-11-24 23:00:00,Men Elite,"Minamimaki Village, Nagano",25 Nov 2017,41016,Rapha Supercross Nobeyama -Day 1,C2,74090
+86,65863.0,2017-11-18 23:00:00,Men Elite,Bogense,19 Nov 2017,40928,"2017-2018 Telenet UCI Cyclo-cross World Cup, Bogense",CDM,74360
+87,66017.0,2017-11-18 23:00:00,Men Elite,Pferdezentrum Stadl-Paura,19 Nov 2017,40974,Int. Radquerfeldein GP Lambach/Stadl-Paura,C2,73880
+88,65765.0,2017-11-18 23:00:00,Men Elite,Moreno Valley,19 Nov 2017,40988,CXLA Weekend: Cyclocross Los Angeles,C2,73982
+89,66104.0,2017-11-18 23:00:00,Men Elite,Takashima City Shiga Prefecture,19 Nov 2017,41009,KANSAI Cyclo Cross Makino Round,C2,74396
+90,66182.0,2017-11-18 23:00:00,Men Elite,"Indianapolis, IN",19 Nov 2017,41045,Major Taylor 'Cross Cup Day 2,C2,74121
+91,65828.0,2017-11-18 23:00:00,Men Elite,"Suffern , NY",19 Nov 2017,41069,Supercross Day 2,C2,74328
+92,66051.0,2017-11-17 23:00:00,Men Elite,Moreno Valley,18 Nov 2017,40987,CXLA Weekend: Cyclocross Los Angeles,C2,74342
+93,65927.0,2017-11-17 23:00:00,Men Elite,"Indianapolis, IN",18 Nov 2017,41048,Major Taylor 'Cross Cup Day 1,C2,74309
+94,65926.0,2017-11-17 23:00:00,Men Elite,"Suffern , NY",18 Nov 2017,41068,Supercross Day 1,C2,74132
+95,66087.0,2017-11-11 23:00:00,Men Elite,Gavere,12 Nov 2017,40874,Telenet Superprestige Gavere,C1,74104
+96,65983.0,2017-11-11 23:00:00,Men Elite,Shrewsbury,12 Nov 2017,40895,National Trophy Series: Shrewsbury,C2,74012
+97,65619.0,2017-11-11 23:00:00,Men Elite,Arendal,12 Nov 2017,40898,Norwegian National Championships,CN,74137
+98,66115.0,2017-11-11 23:00:00,Men Elite,"Northampton, MA",12 Nov 2017,40914,The Northampton International,C2,74398
+99,66179.0,2017-11-11 23:00:00,Men Elite,Madiswil,12 Nov 2017,40993,Flückiger Cross Madiswil,C1,74420
+100,65702.0,2017-11-11 23:00:00,Men Elite,Elorrio,12 Nov 2017,41004,Elorrioko Ziklokrosa Basqueland,C1,73900
+101,66032.0,2017-11-11 23:00:00,Men Elite,La Meziere,12 Nov 2017,41012,2ème manche de la Coupe de France,C1,74187
+102,117459.0,2017-11-11 23:00:00,Men Elite,"Tulsa, OK",12 Nov 2017,50479,Cyntergy Hurtland,C2,147654
+103,117539.0,2017-11-11 23:00:00,Men Elite,Kosice,12 Nov 2017,50558,"Slovenský pohár v cyklokrose, GP Kosice",C2,147671
+104,65792.0,2017-11-10 23:00:00,Men Elite,Niel,11 Nov 2017,40872,Jaarmarktcross,C2,73849
+105,66049.0,2017-11-10 23:00:00,Men Elite,"Northampton, MA",11 Nov 2017,40913,The Northampton International,C2,74408
+106,66139.0,2017-11-10 23:00:00,Men Elite,Uničov,11 Nov 2017,40960,Toi Toi Cup,C1,74055
+107,118075.0,2017-11-10 23:00:00,Men Elite,Reykjavik,11 Nov 2017,51558,Icelandic Cyclo-cross Championships,CN,148747
+108,65805.0,2017-11-04 23:00:00,Men Elite,Karrantza,05 Nov 2017,40984,Cyclo-cross de Karrantza,C2,73944
+109,65679.0,2017-11-04 23:00:00,Men Elite,Louisville,05 Nov 2017,41011,Pan-american Continental Championships,CC,74368
+110,65851.0,2017-11-04 23:00:00,Men Elite,Tábor,05 Nov 2017,41024,UEC Cyclo-Cross European Championships,CC,74382
+111,66114.0,2017-11-03 23:00:00,Men Elite,"Louisville, Kentucky",04 Nov 2017,40966,Derby City Cup,C2,74397
+112,65945.0,2017-11-02 23:00:00,Men Elite,Hibino Mihama-ku Chiba-city Chiba pref.,03 Nov 2017,41065,Starlight-cross,C2,74232
+113,65642.0,2017-10-31 23:00:00,Men Elite,Melden - Oudenaarde,01 Nov 2017,40917,DVV verzekeringen trofee - Koppenbergcross,C1,73886
+114,65618.0,2017-10-31 23:00:00,Men Elite,Milano,01 Nov 2017,40979,Gran Premio Mamma E Papa Guerciotti AM,C2,73898
+115,66086.0,2017-10-28 23:00:00,Men Elite,Oostkamp - Ruddervoorde,29 Oct 2017,40878,Telenet Superprestige Ruddervoorde,C1,74103
+116,65663.0,2017-10-28 23:00:00,Men Elite,Contern,29 Oct 2017,40907,Grand-Prix de la Commune de Contern,C2,73994
+117,66128.0,2017-10-28 23:00:00,Men Elite,"Cincinnati, Ohio, United States",29 Oct 2017,40967,Harbin Park International,C2,74105
+118,65953.0,2017-10-28 23:00:00,Men Elite,Hittnau,29 Oct 2017,40972,EKZ CrossTour,C1,74015
+119,65751.0,2017-10-28 23:00:00,Men Elite,"Sagae-shi,Yamagata Prefecture",29 Oct 2017,41018,TOHOKU CX Project SAGAE Round,C2,73828
+120,65649.0,2017-10-28 23:00:00,Men Elite,Abergavenny,29 Oct 2017,41040,National Trophy Series: Abergavenny,C1,74155
+121,117527.0,2017-10-28 23:00:00,Men Elite,Trnava,29 Oct 2017,50554,"Slovensky pohar v cyklokrose, GP Trnava",C2,147659
+122,117575.0,2017-10-28 23:00:00,Men Elite,"Jamesburg, NJ",29 Oct 2017,50560,HPCX 2,C2,147708
+123,120283.0,2017-10-28 23:00:00,Men Elite,Nokia,29 Oct 2017,51720,Finnish National Championships,CN,159032
+124,65636.0,2017-10-27 23:00:00,Men Elite,"Sherbrooke, QC",28 Oct 2017,40889,Canadian National Championships,CN,73929
+125,65880.0,2017-10-27 23:00:00,Men Elite,Holé Vrchy,28 Oct 2017,40958,Toi Toi Cup,C2,74307
+126,65750.0,2017-10-27 23:00:00,Men Elite,'s-Hertogenbosch,28 Oct 2017,40994,De Grote Prijs van Brabant,C1,73873
+127,65741.0,2017-10-27 23:00:00,Men Elite,Laudio-Llodio,28 Oct 2017,41041,Ziklokross Laudio,C1,74206
+128,65869.0,2017-10-27 23:00:00,Men Elite,"Covington, Kentucky, USA",28 Oct 2017,41071,Cincinnati Cyclocross @ Devou Park,C1,74214
+129,117530.0,2017-10-27 23:00:00,Men Elite,Dolná Krupa,28 Oct 2017,50555,"Slovenský pohár v cyklokrose, GP Dolná Krupa",C2,147662
+130,117573.0,2017-10-27 23:00:00,Men Elite,"Jamesburg, NJ",28 Oct 2017,50559,HPCX 1,C2,147707
+131,66170.0,2017-10-23 23:00:00,Men Elite,Woerden,24 Oct 2017,40954,Kiremko Nacht van Woerden,C2,74275
+132,65860.0,2017-10-21 23:00:00,Men Elite,Koksijde,22 Oct 2017,40922,"2017-2018 Telenet UCI Cyclo-cross World Cup, Koksijde",CDM,73893
+133,65847.0,2017-10-21 23:00:00,Men Elite,Ternitz,22 Oct 2017,40997,Tage des Querfeldeinsports (Day of Cyclocross),C2,74018
+134,66046.0,2017-10-21 23:00:00,Men Elite,Stockholm,22 Oct 2017,41015,Stockholm cyclocross,C2,74109
+135,120389.0,2017-10-21 23:00:00,Men Elite,"Washington, DC",22 Oct 2017,41020,DCCX,C2,159208
+136,66097.0,2017-10-21 23:00:00,Men Elite,Balan,22 Oct 2017,41050,Cyclo-cross de Balan Ardennes,C2,74255
+137,65635.0,2017-10-21 23:00:00,Men Elite,"Midland, Ontario",22 Oct 2017,41059,The Silver Goose,C2,73997
+138,66111.0,2017-10-20 23:00:00,Men Elite,Podbrezová,21 Oct 2017,40973,Cyclocross International Podbrezová,C2,73957
+139,120387.0,2017-10-20 23:00:00,Men Elite,"Washington, DC",21 Oct 2017,41019,DCCX,C2,159211
+140,65888.0,2017-10-20 23:00:00,Men Elite,Boom,21 Oct 2017,41027,Telenet Superprestige Niels Albert CX,C2,73899
+141,66081.0,2017-10-20 23:00:00,Men Elite,"Midland, Ontario",21 Oct 2017,41058,The Silver Goose,C2,74393
+142,65788.0,2017-10-18 23:00:00,Men Elite,Ardooie,19 Oct 2017,40902,Kermiscross,C2,74324
+143,118082.0,2017-10-14 23:00:00,Men Elite,"Gloucester, MA",15 Oct 2017,40915,CRAFT Sportswear Gran Prix of Gloucester,C2,148753
+144,118086.0,2017-10-14 23:00:00,Men Elite,"Boulder, CO",15 Oct 2017,40946,US Open of Cyclocross Day 2,C2,148759
+145,65886.0,2017-10-14 23:00:00,Men Elite,Zonhoven,15 Oct 2017,40950,Telenet Superprestige Zonhoven,C1,73835
+146,66095.0,2017-10-14 23:00:00,Men Elite,Besançon,15 Oct 2017,41029,1ère manche de la Coupe de France,C1,74254
+147,65921.0,2017-10-14 23:00:00,Men Elite,Aigle,15 Oct 2017,41035,EKZ CrossTour,C1,73992
+148,118080.0,2017-10-13 23:00:00,Men Elite,"Gloucester, MA",14 Oct 2017,40916,CRAFT Sportswear Gran Prix of Gloucester,C2,148752
+149,118084.0,2017-10-13 23:00:00,Men Elite,"Boulder, CO",14 Oct 2017,40945,US Open of Cyclocross Day 1,C2,148756
+150,65846.0,2017-10-13 23:00:00,Men Elite,Hlinsko,14 Oct 2017,40963,Toi Toi Cup,C2,74240
+151,65723.0,2017-10-13 23:00:00,Men Elite,Kruibeke,14 Oct 2017,41038,Polderscross,C2,73978
+152,66156.0,2017-10-13 23:00:00,Men Elite,Rapla,14 Oct 2017,41039,Estonian National Championships,CN,74116
+153,65661.0,2017-10-08 23:00:00,Men Elite,"Nakauchi, Toride-city, Ibaraki",09 Oct 2017,41064,Ibaraki Cyclo-cross Toride round,C2,73843
+154,66203.0,2017-10-07 23:00:00,Men Elite,Lutterbach,08 Oct 2017,40870,Cyclo-Cross International de la Solidarité de Lutterbach,C2,74193
+155,65740.0,2017-10-07 23:00:00,Men Elite,Derby,08 Oct 2017,40894,National Trophy Series - Derby,C2,74288
+156,118150.0,2017-10-07 23:00:00,Men Elite,"Baltimore, MD",08 Oct 2017,40976,Charm City Cross,C2,148820
+157,66021.0,2017-10-07 23:00:00,Men Elite,Ronse - Kluisbergen,08 Oct 2017,40991,DVV verzekeringen trofee - Hotondcross,C1,73964
+158,66135.0,2017-10-07 23:00:00,Men Elite,Helsingør,08 Oct 2017,41010,Kronborg Park Cross,C2,74061
+159,117533.0,2017-10-07 23:00:00,Men Elite,Rakova,08 Oct 2017,50556,"Slovenský pohár v cyklokrose, GP Rakova",C2,147665
+160,65845.0,2017-10-06 23:00:00,Men Elite,Jabkenice,07 Oct 2017,40962,Toi Toi Cup,C2,74239
+161,118148.0,2017-10-06 23:00:00,Men Elite,"Baltimore, MD",07 Oct 2017,40975,Charm City Cross,C1,148819
+162,65855.0,2017-10-06 23:00:00,Men Elite,Meulebeke,07 Oct 2017,41036,Berencross,C2,74020
+163,65943.0,2017-09-30 23:00:00,Men Elite,Gieten,01 Oct 2017,40871,Telenet Superprestige Gieten,C1,74089
+164,65657.0,2017-09-30 23:00:00,Men Elite,"West Sacramento, California",01 Oct 2017,41063,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,74151
+165,65783.0,2017-09-30 23:00:00,Men Elite,Bern,01 Oct 2017,41072,EKZ CrossTour,C2,74390
+166,117454.0,2017-09-30 23:00:00,Men Elite,"Thompson, Connecticut",01 Oct 2017,50477,KMC Cross Fest,C2,147646
+167,65639.0,2017-09-29 23:00:00,Men Elite,Neerpelt,30 Sep 2017,40920,GP Neerpelt,C2,74222
+168,65909.0,2017-09-29 23:00:00,Men Elite,"West Sacramento, California, USA",30 Sep 2017,41062,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,73990
+169,117536.0,2017-09-29 23:00:00,Men Elite,Poprad,30 Sep 2017,50557,"Slovenský pohár v cyklokrose, GP Poprad",C2,147668
+170,117451.0,2017-09-28 23:00:00,Men Elite,"Thompson, Connecticut",29 Sep 2017,50476,KMC Cross Fest,C1,147645
+171,65876.0,2017-09-27 23:00:00,Men Elite,Slaný,28 Sep 2017,40961,Toi Toi Cup,C1,73841
+172,65711.0,2017-09-23 23:00:00,Men Elite,Waterloo,24 Sep 2017,40927,"2017-2018 Telenet UCI Cyclo-cross World Cup, Waterloo",CDM,73983
+173,65942.0,2017-09-23 23:00:00,Men Elite,Illnau,24 Sep 2017,40996,Radcross Illnau,C2,74088
+174,65911.0,2017-09-21 23:00:00,Men Elite,Waterloo Wisconsin,22 Sep 2017,40968,Trek CXC Cup,C2,73986
+175,65941.0,2017-09-19 23:00:00,Men Elite,"Las Vegas, NV",20 Sep 2017,40955,Clif Bar Cross Vegas,C1,74320
+176,66058.0,2017-09-16 23:00:00,Men Elite,Jingle Cross Iowa City,17 Sep 2017,40949,"2017-2018 Telenet UCI Cyclo-cross World Cup, Jingle Cross Iowa City",CDM,74111
+177,66041.0,2017-09-16 23:00:00,Men Elite,Baden,17 Sep 2017,40992,EKZ CrossTour,C1,73966
+178,66169.0,2017-09-15 23:00:00,Men Elite,"Iowa City, Iowa",16 Sep 2017,40948,Jingle Cross 2,C2,74273
+179,65811.0,2017-09-14 23:00:00,Men Elite,"Iowa City, Iowa",15 Sep 2017,40947,Jingle Cross 1,C1,74023
+180,65638.0,2017-09-09 23:00:00,Men Elite,Eeklo,10 Sep 2017,40909,Cross Eeklo,C2,73925
+181,65842.0,2017-09-09 23:00:00,Men Elite,"Rochester, NY",10 Sep 2017,40980,Rochester Cyclocross,C2,73948
+182,66211.0,2017-09-08 23:00:00,Men Elite,"Rochester, NY",09 Sep 2017,40981,Rochester Cyclocross,C1,74191
+183,65875.0,2017-09-05 23:00:00,Men Elite,"Yanqing, Beijing",06 Sep 2017,41000,"""Qiansen trophy"" Yanqing",C1,74311
+184,65716.0,2017-09-02 23:00:00,Men Elite,"Changxindian Fengtai, Beijing",03 Sep 2017,41028,Qiansen trophy Fengtai Changxindian,C1,74127
+185,65968.0,2017-08-26 23:00:00,Men Elite,"Fields of Joy CX, Essendon Fields, Victoria",27 Aug 2017,41057,2017 Cyclo-Cross National Series Round 6,C2,74373
+186,65873.0,2017-08-25 23:00:00,Men Elite,"Fields of Joy CX, Essendon Fields, Victoria",26 Aug 2017,41056,2017 Cyclo-Cross National Series Round 5,C2,74134
+187,65871.0,2017-08-04 23:00:00,Men Elite,"Adelaide, South Australia",05 Aug 2017,41034,Australian National Championships,CN,73915
+188,127246.0,2019-02-23 23:00:00,Men Elite,Oostmalle,24 Feb 2019,52763,Internationale Sluitingsprijs Oostmalle,C1,165783
+189,127220.0,2019-02-22 23:00:00,Men Elite,Leuven,23 Feb 2019,52773,GP Leuven,C1,165757
+190,127433.0,2019-02-16 23:00:00,Men Elite,Hulst,17 Feb 2019,52937,Vestingcross Hulst,C2,165970
+191,127242.0,2019-02-15 23:00:00,Men Elite,Middelkerke,16 Feb 2019,52800,Telenet Superprestige Noordzeecross Middelkerke,C1,165779
+192,127238.0,2019-02-09 23:00:00,Men Elite,Hoogstraten,10 Feb 2019,52770,Telenet Superprestige Hoogstraten,C1,165775
+193,127234.0,2019-02-08 23:00:00,Men Elite,Lille,09 Feb 2019,52785,DVV verzekeringen trofee - Krawatencross,C1,165771
+194,127232.0,2019-02-05 23:00:00,Men Elite,Maldegem,06 Feb 2019,52858,Parkcross Maldegem,C2,165769
+195,125665.0,2019-02-01 23:00:00,Men Elite,Bogense,02 Feb 2019,52810,UCI Cyclo-cross World Championships,CM,167490
+196,125663.0,2019-01-26 23:00:00,Men Elite,Hoogerheide,27 Jan 2019,52816,"2018-2019 Telenet UCI Cyclo-cross World Cup, Hoogerheide Provincie Noord-Brabant",CDM,167488
+197,127229.0,2019-01-25 23:00:00,Men Elite,Zonnebeke,26 Jan 2019,52767,Kasteelcross Zonnebeke,C2,165766
+198,127429.0,2019-01-25 23:00:00,Men Elite,Rucphen,26 Jan 2019,52887,Internationale Cyclocross Rucphen,C2,165966
+199,127426.0,2019-01-19 23:00:00,Men Elite,Leudelange,20 Jan 2019,52794,Grand Prix Möbel Alvisse,C2,165963
+200,125661.0,2019-01-19 23:00:00,Men Elite,Pont-Château,20 Jan 2019,52821,"2018-2019 Telenet UCI Cyclo-cross World Cup, Pont-Château",CDM,167486
+201,127560.0,2019-01-19 23:00:00,Men Elite,Zao,20 Jan 2019,53000,ZAO-sama Cup Tohoku CX Series,C2,167571
+202,127227.0,2019-01-13 23:00:00,Men Elite,Otegem,14 Jan 2019,52886,Cyclocross Otegem,C2,165764
+203,133348.0,2019-01-12 23:00:00,Men Elite,Odense,13 Jan 2019,54674,Danish National Championships,CN,174289
+204,133426.0,2019-01-12 23:00:00,Men Elite,Sion,13 Jan 2019,54677,Swiss National Championships,CN,174367
+205,135494.0,2019-01-12 23:00:00,Men Elite,Lieto,13 Jan 2019,56522,Finnish National Championships,CN,175911
+206,135867.0,2019-01-12 23:00:00,Men Elite,Pula,13 Jan 2019,56523,Croatian national championships,CN,176261
+207,135870.0,2019-01-12 23:00:00,Men Elite,Miskolc,13 Jan 2019,56524,Hungarian national championships,CN,176264
+208,127374.0,2019-01-11 23:00:00,Men Elite,Kleinmachnow,12 Jan 2019,52775,German National Championships,CN,165911
+209,127223.0,2019-01-11 23:00:00,Men Elite,Kruibeke,13 Jan 2019,52776,Belgian National Championships,CN,165760
+210,127422.0,2019-01-11 23:00:00,Men Elite,Huijbergen,12 Jan 2019,52777,Dutch National Championships,CN,165959
+211,129509.0,2019-01-11 23:00:00,Men Elite,MILANO - IDROSCALO,12 Jan 2019,52778,Italian National Championships,CN,169776
+212,127418.0,2019-01-11 23:00:00,Men Elite,Brouch,12 Jan 2019,52780,Luxembourg National Championships,CN,165955
+213,135704.0,2019-01-11 23:00:00,Men Elite,"Cyclopark, Gravesend",12 Jan 2019,52799,British National Championships,CN,176121
+214,127292.0,2019-01-11 23:00:00,Men Elite,Hole Vrchy,12 Jan 2019,52971,"Czech National Championships - ME, WE",CN,165829
+215,128121.0,2019-01-11 23:00:00,Men Elite,Marrazes - Leiria,12 Jan 2019,53113,Portugese National Championships,CN,168296
+216,131368.0,2019-01-11 23:00:00,Men Elite,Besançon,12 Jan 2019,54443,French National Championships,CN,171900
+217,133237.0,2019-01-11 23:00:00,Men Elite,Wien,12 Jan 2019,54661,Austrian National Championships,CN,174144
+218,133353.0,2019-01-11 23:00:00,Men Elite,Munster,12 Jan 2019,54675,Irish National Championships,CN,174294
+219,133572.0,2019-01-11 23:00:00,Men Elite,Strzelce Krajenskie,12 Jan 2019,54689,Polish National Championships,CN,174526
+220,135485.0,2019-01-11 23:00:00,Men Elite,Varberg,12 Jan 2019,56518,Swedish National Championships,CN,175902
+221,127603.0,2019-01-10 23:00:00,Men Elite,Pontevedra,11 Jan 2019,53035,Spanish National Championships,CN,167614
+222,127369.0,2019-01-05 23:00:00,Men Elite,Shrewsbury,06 Jan 2019,52784,National Trophy Series Round 6: Shrewsbury,C2,165906
+223,127343.0,2019-01-05 23:00:00,Men Elite,La Meziere,06 Jan 2019,52915,Cyclo-cross La Meziere,C1,165880
+224,133342.0,2019-01-05 23:00:00,Men Elite,Brussels,06 Jan 2019,54672,DVV verzekeringen trofee - Brussels Universities Cyclocross,C2,174276
+225,127216.0,2019-01-04 23:00:00,Men Elite,Gullegem,05 Jan 2019,52983,Cyclocross Gullegem,C2,165753
+226,127479.0,2019-01-01 23:00:00,Men Elite,Meilen,02 Jan 2019,52903,EKZ CrossTour,C1,166016
+227,127212.0,2018-12-31 23:00:00,Men Elite,Baal,01 Jan 2019,52781,DVV verzekeringen trofee - GP Sven Nys,C1,165749
+228,127415.0,2018-12-31 23:00:00,Men Elite,Pétange,01 Jan 2019,52818,Grand Prix Garage Collé,C2,165952
+229,127208.0,2018-12-29 23:00:00,Men Elite,Diegem,30 Dec 2018,52771,Telenet Superprestige Diegem,C1,165745
+230,127336.0,2018-12-29 23:00:00,Men Elite,Flamanville,30 Dec 2018,52820,3ème Coupe de France Cyclo-cross,C2,165873
+231,127205.0,2018-12-28 23:00:00,Men Elite,Bredene,29 Dec 2018,52790,Cyclocross Bredene,C2,165742
+232,127201.0,2018-12-27 23:00:00,Men Elite,Loenhout,28 Dec 2018,52791,DVV verzekeringen trofee - Azencross,C1,165738
+233,125659.0,2018-12-25 23:00:00,Men Elite,Heusden-Zolder,26 Dec 2018,52815,"2018-2019 Telenet UCI Cyclo-cross World Cup, Heusden-Zolder",CDM,167484
+234,127477.0,2018-12-25 23:00:00,Men Elite,Pfaffnau,26 Dec 2018,52940,Cross-Race / Pfaffnau GP Luzern,C2,166014
+235,125657.0,2018-12-22 23:00:00,Men Elite,Namur,23 Dec 2018,52814,"2018-2019 Telenet UCI Cyclo-cross World Cup, Namur",CDM,167482
+236,127198.0,2018-12-21 23:00:00,Men Elite,Sint-Niklaas,22 Dec 2018,52796,Waaslandcross,C2,165735
+237,127481.0,2018-12-21 23:00:00,Men Elite,Sibiu,22 Dec 2018,52804,Romania National Championships,CN,166018
+238,127194.0,2018-12-15 23:00:00,Men Elite,Zonhoven,16 Dec 2018,52828,Telenet Superprestige Zonhoven,C1,165731
+239,127378.0,2018-12-15 23:00:00,Men Elite,Vittorio Veneto TV,16 Dec 2018,52952,Gran Premio Città di Vittorio Veneto,C2,165915
+240,127413.0,2018-12-15 23:00:00,Men Elite,"Utsunomiya city, Tochigi prefecture",16 Dec 2018,52969,Utsunomiya Cyclo Cross Day2,C2,165950
+241,127493.0,2018-12-15 23:00:00,Men Elite,"Louisville, KY, USA",16 Dec 2018,53008,USA National Championships,CN,167557
+242,128126.0,2018-12-15 23:00:00,Men Elite,Pferdezentrum Stadl-Paura,16 Dec 2018,53116,Int. Radquerfeldein GP Lambach/Stadl-Paura,C2,168301
+243,127190.0,2018-12-14 23:00:00,Men Elite,Antwerpen,15 Dec 2018,52832,DVV verzekeringen trofee - Scheldecross,C1,165727
+244,127290.0,2018-12-14 23:00:00,Men Elite,Mlada Boleslav,15 Dec 2018,52846,Toi Toi Cup,C1,165827
+245,127411.0,2018-12-14 23:00:00,Men Elite,"Utsunomiya city, Tochigi prefecture",15 Dec 2018,52968,Utsunomiya Cyclo Cross Day1,C2,165948
+246,,2018-12-14 23:00:00,,,,52990,Czech National Cyclo-Cross Championships - MJ,CN,165948
+247,131051.0,2018-12-14 23:00:00,Men Elite,Xativa,15 Dec 2018,53115,Ciclo-cross Ciudad de Xativa,C2,171495
+248,127186.0,2018-12-08 23:00:00,Men Elite,Overijse,09 Dec 2018,52769,Vlaamse Druivencross,C1,165723
+249,127367.0,2018-12-08 23:00:00,Men Elite,Ipswich,09 Dec 2018,52896,National Trophy Series Round 5: Ipswich,C2,165904
+250,127475.0,2018-12-08 23:00:00,Men Elite,Eschenbach,09 Dec 2018,52904,EKZ CrossTour,C1,166012
+251,127534.0,2018-12-08 23:00:00,Men Elite,"Broken Arrow,Oklahoma",09 Dec 2018,52926,Ruts 'n' Guts 2,C2,167532
+252,127407.0,2018-12-08 23:00:00,Men Elite,"Takashima City, Shiga Prefecture",09 Dec 2018,52930,Japanese National Championships,CN,165944
+253,128128.0,2018-12-08 23:00:00,Men Elite,Gorizia,09 Dec 2018,53117,13° Trofeo di Gorizia,C2,168303
+254,127182.0,2018-12-07 23:00:00,Men Elite,Essen,08 Dec 2018,52798,IKO cyclocross - Essen,C1,165719
+255,127532.0,2018-12-07 23:00:00,Men Elite,"Hendersonville, NC",08 Dec 2018,52807,North Carolina Grand Prix - Race 1,C2,167530
+256,127364.0,2018-12-07 23:00:00,Men Elite,Fae' Di Oderzo - Treviso,08 Dec 2018,52834,Ciclocross del Ponte,C2,165901
+257,127286.0,2018-12-07 23:00:00,Men Elite,Jabkenice,08 Dec 2018,52845,Toi Toi Cup,C2,165823
+258,127491.0,2018-12-07 23:00:00,Men Elite,"Broken Arrow, klahoma",08 Dec 2018,52925,Ruts 'n' Guts 1,C1,167555
+259,129175.0,2018-12-07 23:00:00,Men Elite,Troyes,08 Dec 2018,53234,Troyes Cyclocross International,C2,169361
+260,127178.0,2018-12-01 23:00:00,Men Elite,Mol,02 Dec 2018,52918,Lampiris Zilvermeercross,C2,165715
+261,127325.0,2018-12-01 23:00:00,Men Elite,Ametzaga-Zuia,02 Dec 2018,52943,Trofeo San Andrés,C2,165862
+262,127371.0,2018-12-01 23:00:00,Men Elite,Bensheim,02 Dec 2018,52998,Radcross Grandprix,C2,165908
+263,127469.0,2018-12-01 23:00:00,Men Elite,Banska Bystrica,02 Dec 2018,53006,Slovak national championships,CN,166006
+264,127593.0,2018-12-01 23:00:00,Men Elite,Garland (Dallas) Texas,02 Dec 2018,53031,Resolution 'Cross Cup,C2,167604
+265,131837.0,2018-12-01 23:00:00,Men Elite,warwick,02 Dec 2018,54503,NBX GP of Cross 2,C2,172396
+266,127175.0,2018-11-30 23:00:00,Men Elite,Hasselt,01 Dec 2018,52819,GP Hasselt,C2,165712
+267,127340.0,2018-11-30 23:00:00,Men Elite,Abadiano,01 Dec 2018,52979,Abadiñoko udala saria,C2,165877
+268,127591.0,2018-11-30 23:00:00,Men Elite,Garland (Dallas) Texas,01 Dec 2018,53032,Resolution 'Cross Cup,C2,167602
+269,131835.0,2018-11-30 23:00:00,Men Elite,warwick,01 Dec 2018,54502,NBX GP of Cross 1,C1,172394
+270,125655.0,2018-11-24 23:00:00,Men Elite,Koksijde,25 Nov 2018,52813,"2018-2019 Telenet UCI Cyclo-cross World Cup, Koksijde",CDM,167480
+271,127404.0,2018-11-24 23:00:00,Men Elite,Takashima City Shiga Prefecture,25 Nov 2018,52905,KANSAI Cyclo Cross Makino Round,C2,165941
+272,127361.0,2018-11-24 23:00:00,Men Elite,Brugherio,25 Nov 2018,52928,International Cyclocross Selle SMP -10° Trof.Cop.ed.Brugherio82,C2,165898
+273,127359.0,2018-11-24 23:00:00,Men Elite,York,25 Nov 2018,52997,National Trophy Series Round 4: York,C2,165896
+274,127172.0,2018-11-23 23:00:00,Men Elite,Wachtebeke (Provinciaal Domein Puyenbroeck),24 Nov 2018,52982,Ambiancecross,C2,165709
+275,127466.0,2018-11-23 23:00:00,Men Elite,Topolcianky,24 Nov 2018,53005,Grand Prix Topolcianky,C2,166003
+276,127554.0,2018-11-17 23:00:00,Men Elite,Hamme,18 Nov 2018,52789,DVV verzekeringen trofee - Flandriencross,C1,167565
+277,127564.0,2018-11-17 23:00:00,Men Elite,Hittnau,18 Nov 2018,52859,EKZ CrossTour,C1,167575
+278,127402.0,2018-11-17 23:00:00,Men Elite,"Minamimaki Village, Nagano",18 Nov 2018,52921,Rapha Supercross Nobeyama -Day 2,C1,165939
+279,127322.0,2018-11-17 23:00:00,Men Elite,Les Franqueses,18 Nov 2018,52932,Gran Premi Les Franqueses,C2,165859
+280,127527.0,2018-11-17 23:00:00,Men Elite,"Indy Cycloplex (Indianapolis, IND)",18 Nov 2018,52945,Major Taylor Cross Cup,C2,167525
+281,127530.0,2018-11-17 23:00:00,Men Elite,"Suffern , NY",18 Nov 2018,52973,Supercross Day 2,C2,167528
+282,135497.0,2018-11-17 23:00:00,Men Elite,Bergen,18 Nov 2018,56521,Norwegian National Championships,CN,175914
+283,125653.0,2018-11-16 23:00:00,Men Elite,Tabor,17 Nov 2018,52817,"2018-2019 Telenet UCI Cyclo-cross World Cup, Tabor",CDM,167478
+284,127400.0,2018-11-16 23:00:00,Men Elite,"Minamimaki Village, Nagano",17 Nov 2018,52920,Rapha Supercross Nobeyama -Day 1,C2,165937
+285,127522.0,2018-11-16 23:00:00,Men Elite,"Indy Cycloplex (Indianapolis, IND)",17 Nov 2018,52942,Major Taylor Cross Cup,C2,167520
+286,127525.0,2018-11-16 23:00:00,Men Elite,"Suffern , NY",17 Nov 2018,52972,Supercross Day 1,C2,167523
+287,127168.0,2018-11-10 23:00:00,Men Elite,Gavere,11 Nov 2018,52768,Telenet Superprestige Gavere,C1,165705
+288,127520.0,2018-11-10 23:00:00,Men Elite,"Northampton, MA",11 Nov 2018,52802,The Northampton International,C2,167518
+289,127315.0,2018-11-10 23:00:00,Men Elite,Karrantza,11 Nov 2018,52877,XXVI Cyclo-cross de Karrantza,C2,165852
+290,127562.0,2018-11-10 23:00:00,Men Elite,Madiswil,11 Nov 2018,52895,Flückiger Cross Madiswil,C2,167573
+291,127318.0,2018-11-10 23:00:00,Men Elite,Pierric,11 Nov 2018,52927,2ème Coupe de France Cyclo-cross,C2,165855
+292,127280.0,2018-11-10 23:00:00,Men Elite,Peterborough,11 Nov 2018,52989,PTBOCX - Lift Lock Cross,C2,165817
+293,127357.0,2018-11-10 23:00:00,Men Elite,"Ardingly, near Crawley",11 Nov 2018,52996,National Trophy Series Round 3: Crawley,C2,165894
+294,127463.0,2018-11-10 23:00:00,Men Elite,Kosice,11 Nov 2018,53004,Grand Prix Kosice,C2,166000
+295,127164.0,2018-11-09 23:00:00,Men Elite,Niel,10 Nov 2018,52766,DVV verzekeringen trofee - Jaarmarktcross,C1,165701
+296,127294.0,2018-11-09 23:00:00,Men Elite,"Peterborough, Ontario",10 Nov 2018,52779,Canadian National Championships,CN,165831
+297,127518.0,2018-11-09 23:00:00,Men Elite,"Northampton, MA",10 Nov 2018,52801,The Northampton International,C2,167516
+298,127277.0,2018-11-09 23:00:00,Men Elite,Kolin,10 Nov 2018,52843,Toi Toi Cup,C1,165814
+299,127398.0,2018-11-09 23:00:00,Men Elite,Hibino Mihama-ku Chiba-city Chiba pref.,10 Nov 2018,52967,Starlight-cross,C2,165935
+300,127312.0,2018-11-03 23:00:00,Men Elite,Vic,04 Nov 2018,52992,Gran Premi Internacional ciutat de Vic,C2,165849
+301,127516.0,2018-11-03 23:00:00,Men Elite,"Falmouth, Massachusetts, USA",04 Nov 2018,53011,Really Rad Festival of Cyclocross Day 2,C2,167514
+302,127308.0,2018-11-02 23:00:00,Men Elite,Manlleu,03 Nov 2018,52944,Ciclocross Manlleu,C2,165845
+303,127271.0,2018-11-02 23:00:00,Men Elite,Midland,03 Nov 2018,52970,Silver Goose Cyclocross Festival,C2,165808
+304,127273.0,2018-11-02 23:00:00,Men Elite,"Midland, ON",04 Nov 2018,52988,Pan-American Cyclo-cross Championships (master + elite),CC,165810
+305,127394.0,2018-11-02 23:00:00,Men Elite,Rosmalen,03 Nov 2018,52999,UEC Cyclo-cross European Championships,CC,165931
+306,127514.0,2018-11-02 23:00:00,Men Elite,"Falmouth, Massachusetts, USA",03 Nov 2018,53010,Really Rad Festival of Cyclocross Day 1,C2,167512
+307,127160.0,2018-10-31 23:00:00,Men Elite,Melden - Oudenaarde,01 Nov 2018,52805,DVV verzekeringen trofee - Koppenbergcross,C1,165697
+308,127156.0,2018-10-27 23:00:00,Men Elite,Oostkamp - Ruddervoorde,28 Oct 2018,52772,Telenet Superprestige Ruddervoorde,C1,165693
+309,127461.0,2018-10-27 23:00:00,Men Elite,Steinmaur,28 Oct 2018,52774,Internationales Radquer Steinmaur,C2,165998
+310,127391.0,2018-10-27 23:00:00,Men Elite,Contern,28 Oct 2018,52795,Grand-Prix de la Commune de Contern,C2,165928
+311,127304.0,2018-10-27 23:00:00,Men Elite,Elorrio,28 Oct 2018,52902,Elorrioko Basqueland Ziklokrosa,C1,165841
+312,127389.0,2018-10-27 23:00:00,Men Elite,"Sagae-shi,Yamagata Prefecture",28 Oct 2018,52922,Sagae Round Tohoku CX Series ,C2,165926
+313,127349.0,2018-10-27 23:00:00,Men Elite,Irvine,28 Oct 2018,52994,National Trophy Series Round 2: Irvine,C2,165886
+314,127351.0,2018-10-27 23:00:00,Men Elite,München,28 Oct 2018,52995,Munich Super Cross,C2,165888
+315,127458.0,2018-10-27 23:00:00,Men Elite,Trnava,28 Oct 2018,53003,Grand Prix Trnava,C2,165995
+316,127511.0,2018-10-27 23:00:00,Men Elite,"Kings Mills, Ohio",28 Oct 2018,53009,Cincinnati UCI Cyclocross,C2,167509
+317,129178.0,2018-10-27 23:00:00,Men Elite,Jablines,28 Oct 2018,53233,Cyclo-cross de Jablines,C2,169364
+318,131613.0,2018-10-27 23:00:00,Men Elite,"Jamesburg, NJ",28 Oct 2018,54469,HPCX 2,C2,172163
+319,127153.0,2018-10-26 23:00:00,Men Elite,Neerpelt,27 Oct 2018,52809,GP Neerpelt,C2,165690
+320,127268.0,2018-10-26 23:00:00,Men Elite,Slany,27 Oct 2018,52842,Toi Toi Cup,C1,165805
+321,127302.0,2018-10-26 23:00:00,Men Elite,Laudio-Llodio,27 Oct 2018,52939,Ziklokross Laudio,C1,165839
+322,127488.0,2018-10-26 23:00:00,Men Elite,"Kings Mills, Ohio",27 Oct 2018,52974,Cincinnati UCI Cyclocross,C1,167552
+323,131611.0,2018-10-26 23:00:00,Men Elite,"Jamesburg, NJ",27 Oct 2018,54468,HPCX 1,C2,172161
+324,133347.0,2018-10-26 23:00:00,Men Elite,Reykjavik,27 Oct 2018,54673,Icelandic Cyclo-cross Championships,CN,174288
+325,127387.0,2018-10-22 23:00:00,Men Elite,Woerden,23 Oct 2018,52835,Kiremko Nacht van Woerden,C2,165924
+326,127151.0,2018-10-20 23:00:00,Men Elite,Ternitz,21 Oct 2018,52898,Tage des Querfeldeinsports (Day of Cyclocross),C2,165688
+327,127452.0,2018-10-20 23:00:00,Men Elite,Stockholm,21 Oct 2018,52919,Stockholm cyclocross,C2,165989
+328,127509.0,2018-10-20 23:00:00,Men Elite,"Washington, DC",21 Oct 2018,52924,DCCX,C2,167507
+329,125651.0,2018-10-20 23:00:00,Men Elite,Bern,21 Oct 2018,52978,"2018-2019 Telenet UCI Cyclo-cross World Cup, Bern",CDM,167476
+330,127265.0,2018-10-20 23:00:00,Men Elite,Sherbrooke,21 Oct 2018,52987,Sherbrooke CX,C2,165802
+331,132938.0,2018-10-20 23:00:00,Men Elite,Cles (TN),21 Oct 2018,54627,Trofeo Nuovi Investimenti,C2,173720
+332,127449.0,2018-10-19 23:00:00,Men Elite,Podbrezová,20 Oct 2018,52864,Grand Prix Podbrezová,C2,165986
+333,127507.0,2018-10-19 23:00:00,Men Elite,"Washington, DC",20 Oct 2018,52923,DCCX,C2,167505
+334,127147.0,2018-10-19 23:00:00,Men Elite,Boom,20 Oct 2018,52931,Telenet Superprestige De Schorre Boom,C2,165684
+335,127262.0,2018-10-19 23:00:00,Men Elite,Sherbrooke,20 Oct 2018,52986,Sherbrooke CX,C2,165799
+336,127145.0,2018-10-17 23:00:00,Men Elite,Ardooie,18 Oct 2018,52788,Kermiscross,C2,165682
+337,127383.0,2018-10-13 23:00:00,Men Elite,Gieten,14 Oct 2018,52765,Telenet Superprestige Cyclocross Gieten,C1,165920
+338,127504.0,2018-10-13 23:00:00,Men Elite,"Boulder, CO",14 Oct 2018,52824,US Open of Cyclocross Day 2,C2,167502
+339,127298.0,2018-10-13 23:00:00,Men Elite,Razès - Lac de Saint Pardoux,14 Oct 2018,52991,1ère Coupe de France Cyclo-cross,C2,165835
+340,128116.0,2018-10-13 23:00:00,Men Elite,"Gloucester, MA USA",14 Oct 2018,53111,CRAFT Sportsware Gran Prix of Gloucester,C2,168291
+341,132941.0,2018-10-13 23:00:00,Men Elite,Marin-Pontevedra,14 Oct 2018,54628,Ciclocross International Xaxancx,C2,173723
+342,127501.0,2018-10-12 23:00:00,Men Elite,"Boulder, CO",13 Oct 2018,52823,US Open of Cyclocross Day 1,C2,167499
+343,127283.0,2018-10-12 23:00:00,Men Elite,Jicin,13 Oct 2018,52844,Toi Toi Cup,C2,165820
+344,128114.0,2018-10-12 23:00:00,Men Elite,"Gloucester, MA USA",13 Oct 2018,53112,CRAFT Sportsware Gran Prix of Gloucester,C2,168289
+345,131831.0,2018-10-12 23:00:00,Men Elite,Lokeren,13 Oct 2018,54501,Lokeren,C2,172390
+346,135481.0,2018-10-12 23:00:00,Men Elite,Saue,13 Oct 2018,56519,Estonian National Championships,CN,175898
+347,127381.0,2018-10-07 23:00:00,Men Elite,"Nakauchi, Toride-city, Ibaraki",08 Oct 2018,52966,Ibaraki Cyclocross Toride Stage supported by TREK,C2,165918
+348,127347.0,2018-10-06 23:00:00,Men Elite,Derby,07 Oct 2018,52783,National Trophy Series Round 1: Derby,C2,165884
+349,127137.0,2018-10-06 23:00:00,Men Elite,Ronse - Kluisbergen,07 Oct 2018,52888,Hotondcross,C1,165674
+350,127444.0,2018-10-06 23:00:00,Men Elite,Aigle,07 Oct 2018,52935,EKZ CrossTour,C1,165981
+351,127499.0,2018-10-06 23:00:00,Men Elite,"West Sacramento, California",07 Oct 2018,52965,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,167497
+352,127446.0,2018-10-06 23:00:00,Men Elite,Rakova,07 Oct 2018,53001,Grand Prix Rakova,C2,165983
+353,127589.0,2018-10-06 23:00:00,Men Elite,"Baltimore, MD",07 Oct 2018,53030,Charm City Cross,C2,167600
+354,128119.0,2018-10-06 23:00:00,Men Elite,Helsingør,07 Oct 2018,53114,Kronborg Park Cross,C2,168294
+355,128794.0,2018-10-06 23:00:00,Men Elite,Belfast,07 Oct 2018,53188,Bioracer International Cyclo-cross,C2,168976
+356,127558.0,2018-10-05 23:00:00,Men Elite,Lutterbach-Pfastatt,06 Oct 2018,52764,Cyclo-cross International de la Solidarité,C2,167569
+357,127259.0,2018-10-05 23:00:00,Men Elite,Hlinsko,06 Oct 2018,52841,Toi Toi Cup,C2,165796
+358,127134.0,2018-10-05 23:00:00,Men Elite,Meulebeke,06 Oct 2018,52936,Berencross,C2,165671
+359,127497.0,2018-10-05 23:00:00,Men Elite,"West Sacramento, California",06 Oct 2018,52964,West Sacramento Cyclocross Grand Prix - WSCXGP,C2,167495
+360,127587.0,2018-10-05 23:00:00,Men Elite,"Baltimore, MD",06 Oct 2018,53029,Charm City Cross,C1,167598
+361,127486.0,2018-09-29 23:00:00,Men Elite,"Iowa City, Iowa",30 Sep 2018,52825,Jingle Cross,C1,167550
+362,132995.0,2018-09-29 23:00:00,Men Elite,"Thompson,CT",30 Sep 2018,54632,KMC CrossFest,C2,173813
+363,125649.0,2018-09-28 23:00:00,Men Elite,Jingle Cross Iowa City,29 Sep 2018,52827,"2018-2019 Telenet UCI Cyclo-cross World Cup, Iowa City",CDM,167474
+364,127441.0,2018-09-28 23:00:00,Men Elite,Poprad,29 Sep 2018,52981,Grand Prix Poprad,C1,165978
+365,127548.0,2018-09-27 23:00:00,Men Elite,"Iowa City, Iowa",28 Sep 2018,52826,Jingle Cross,C2,167546
+366,127256.0,2018-09-27 23:00:00,Men Elite,Unicov,28 Sep 2018,52840,Toi Toi Cup,C1,165793
+367,125647.0,2018-09-22 23:00:00,Men Elite,Waterloo,23 Sep 2018,52812,"2018-2019 Telenet UCI Cyclo-cross World Cup, Waterloo",CDM,167472
+368,127439.0,2018-09-22 23:00:00,Men Elite,Illnau,23 Sep 2018,52897,Radcross Illnau,C2,165976
+369,127546.0,2018-09-20 23:00:00,Men Elite,Waterloo Wisconsin,21 Sep 2018,52857,Trek Cup,C2,167544
+370,127484.0,2018-09-18 23:00:00,Men Elite,"Reno, NV",19 Sep 2018,52836,RenoCross,C1,167548
+371,127131.0,2018-09-15 23:00:00,Men Elite,Geraardsbergen / Eeklo,16 Sep 2018,52797,Geraardsbergen,C2,165668
+372,127540.0,2018-09-15 23:00:00,Men Elite,"Breinigsville , PA",16 Sep 2018,52876,Nittany Lion Cross,C2,167538
+373,127437.0,2018-09-15 23:00:00,Men Elite,Baden,16 Sep 2018,52894,EKZ CrossTour,C1,165974
+374,127538.0,2018-09-14 23:00:00,Men Elite,"Breinigsville , PA",15 Sep 2018,52875,Nittany Lion Cross,C2,167536
+375,129557.0,2018-09-08 23:00:00,Men Elite,"Rochester, NY",09 Sep 2018,53327,Rochester Cyclocross,C2,169838
+376,129555.0,2018-09-07 23:00:00,Men Elite,"Rochester, NY",08 Sep 2018,53326,Rochester Cyclocross,C1,169836
+377,127544.0,2018-09-01 23:00:00,Men Elite,"Roanoke, VA, USA",02 Sep 2018,53013,Deschutes Brewery's GO Cross,C2,167542
+378,129196.0,2018-09-01 23:00:00,Men Elite,Aohan County,02 Sep 2018,53261,Qiansen trophy Aohan Station,C1,169382
+379,127542.0,2018-08-31 23:00:00,Men Elite,"Roanoke, VA, USA",01 Sep 2018,53012,Deschutes Brewery's GO Cross,C2,167540
+380,127129.0,2018-08-25 23:00:00,Men Elite,"Fields of Joy CX, Essendon Fields, Victoria",26 Aug 2018,52963,2018 Cyclo-Cross National Series (Round #9),C2,165666
+381,127127.0,2018-08-24 23:00:00,Men Elite,"Fields of Joy CX, Essendon Fields, Victoria",25 Aug 2018,52962,2018 Cyclo-Cross National Series (Round #8),C2,165664
+382,127121.0,2018-08-10 23:00:00,Men Elite,"Sam Miranda, King Valley Victoria",11 Aug 2018,52934,Australian National Championships,CN,165658
+383,127125.0,2018-08-04 23:00:00,Men Elite,Santiago de Chile,05 Aug 2018,52938,Chilean National Championships,CN,165662
+384,152677.0,2020-02-22 23:00:00,Men Elite,Oostmalle,23 Feb 2020,57835,Internationale Sluitingsprijs Oostmalle,C1,207946
+385,152674.0,2020-02-21 23:00:00,Men Elite,Leuven,22 Feb 2020,57834,GP Leuven,C1,207971
+386,152907.0,2020-02-15 23:00:00,Men Elite,Hulst,16 Feb 2020,57918,Vestingcross Hulst,C1,207926
+387,152671.0,2020-02-14 23:00:00,Men Elite,Middelkerke,15 Feb 2020,57833,Telenet Superprestige Middelkerke,C1,207818
+388,152665.0,2020-02-07 23:00:00,Men Elite,Lille,08 Feb 2020,57831,DVV Verzekeringen trofee Krawatencross,C1,207922
+389,152663.0,2020-02-04 23:00:00,Men Elite,Maldegem,05 Feb 2020,57830,Parkcross Maldegem,C2,208035
+390,141437.0,2020-01-31 23:00:00,Men Elite,Dübendorf,01 Feb 2020,57738,UCI Cyclo-cross World Championships,CM,190893
+391,141435.0,2020-01-25 23:00:00,Men Elite,Hoogerheide,26 Jan 2020,57747,"2019-2020 Telenet UCI Cyclo-cross World Cup, Hoogerheide Provincie Noord-Brabant",CDM,190772
+392,152660.0,2020-01-24 23:00:00,Men Elite,Zonnebeke,25 Jan 2020,57829,Kasteelcross Zonnebeke,C2,207795
+393,141433.0,2020-01-18 23:00:00,Men Elite,Nommay,19 Jan 2020,57748,"2019-2020 Telenet UCI Cyclo-cross World Cup, Nommay Pays de Montbeliard",CDM,190822
+394,152860.0,2020-01-18 23:00:00,Men Elite,"Zao-Town,Miyagi Prefecture",19 Jan 2020,57904,ZAO-sama Cup Tohoku CX Series,C2,207642
+395,152866.0,2020-01-18 23:00:00,Men Elite,Leudelange,19 Jan 2020,57906,Grand Prix Möbel Alvisse,C2,207869
+396,152658.0,2020-01-12 23:00:00,Men Elite,Otegem,13 Jan 2020,57828,Cyclocross Otegem,C2,207830
+397,141494.0,2020-01-11 23:00:00,Men Elite,Jicin,12 Jan 2020,57915,"Czech National Championships - ME, WE",CN,190738
+398,141528.0,2020-01-11 23:00:00,Men Elite,Slagelse,12 Jan 2020,57939,Danish National Championships,CN,190864
+399,141532.0,2020-01-11 23:00:00,Men Elite,Baden,12 Jan 2020,57940,Swiss National Championships,CN,190798
+400,151838.0,2020-01-11 23:00:00,Men Elite,"Castlefield, Enniscrone, Sligo",12 Jan 2020,58577,Irish National Championships,CN,206741
+401,154741.0,2020-01-11 23:00:00,Men Elite,Kecskemét,12 Jan 2020,59095,Hungarian national championships,CN,209926
+402,157137.0,2020-01-11 23:00:00,Men Elite,Donja Voca,12 Jan 2020,59770,Croatian national championships,CN,219892
+403,141521.0,2020-01-10 23:00:00,Men Elite,Schio - Vicenza,12 Jan 2020,57846,Italian National Championships,CN,190839
+404,141525.0,2020-01-10 23:00:00,Men Elite,TBC,12 Jan 2020,57855,Swedish National Championships,CN,190860
+405,141497.0,2020-01-10 23:00:00,Men Elite,Shrewsbury,12 Jan 2020,57936,British National Championships,CN,190900
+406,141513.0,2020-01-10 23:00:00,Men Elite,Rucphen,12 Jan 2020,57937,Dutch National Championships,CN,190789
+407,141517.0,2020-01-10 23:00:00,Men Elite,Flamanville,12 Jan 2020,57938,French National Championships,CN,190779
+408,141487.0,2020-01-10 23:00:00,Men Elite,Albstadt,12 Jan 2020,57942,German National Championships,CN,190665
+409,150106.0,2020-01-10 23:00:00,Men Elite,Antwerpen,12 Jan 2020,58426,Belgian National Championships,CN,204569
+410,151686.0,2020-01-10 23:00:00,Men Elite,"Weiz, Steiermark",11 Jan 2020,58568,Austrian National Championships,CN,206599
+411,151695.0,2020-01-10 23:00:00,Men Elite,Dippach,11 Jan 2020,58570,Luxembourg National Championships,CN,206588
+412,160395.0,2020-01-10 23:00:00,Men Elite,Vila Real,12 Jan 2020,58698,Portugese National Championships,CN,223191
+413,154982.0,2020-01-10 23:00:00,Men Elite,Szczekociny,11 Jan 2020,59155,Polish National Championships,CN,210198
+414,153147.0,2020-01-09 23:00:00,Men Elite,Pontevedra,10 Jan 2020,58699,Spanish National Championships,CN,208306
+415,152655.0,2020-01-04 23:00:00,Men Elite,Brussels,05 Jan 2020,57827,DVV Verzekeringen trofee Brussels Universities Cyclocross,C1,207701
+416,152652.0,2020-01-03 23:00:00,Men Elite,Gullegem,04 Jan 2020,57826,Cyclocross Gullegem,C2,207753
+417,152904.0,2020-01-03 23:00:00,Men Elite,Troyes,04 Jan 2020,57917,Troyes Cyclocross International,C2,207768
+418,152737.0,2020-01-01 23:00:00,Men Elite,Meilen,02 Jan 2020,57854,EKZ Cross Tour Meilen,C1,207959
+419,152649.0,2019-12-31 23:00:00,Men Elite,Baal,01 Jan 2020,57825,DVV Verzekeringen trofee GP Sven Nys,C1,207651
+420,152863.0,2019-12-31 23:00:00,Men Elite,Pétange,01 Jan 2020,57905,Grand Prix Garage Collé,C2,207893
+421,152646.0,2019-12-29 23:00:00,Men Elite,Bredene,30 Dec 2019,57884,Cyclocross Bredene,C2,207698
+422,152643.0,2019-12-28 23:00:00,Men Elite,Diegem,29 Dec 2019,57824,Telenet Superprestige Diegem,C1,207966
+423,152901.0,2019-12-28 23:00:00,Men Elite,Coulounieix - Chamiers,29 Dec 2019,57922,Cyclo-cross des Crouchaux,C2,207797
+424,152640.0,2019-12-26 23:00:00,Men Elite,Loenhout,27 Dec 2019,57823,DVV Verzekeringen trofee Azencross,C1,207653
+425,141431.0,2019-12-25 23:00:00,Men Elite,Heusden-Zolder,26 Dec 2019,57746,"2019-2020 Telenet UCI Cyclo-cross World Cup, Heusden-Zolder",CDM,190818
+426,152734.0,2019-12-25 23:00:00,Men Elite,Pfaffnau,26 Dec 2019,57853,Cross-Race GP Luzern/Pfaffnau,C2,207725
+427,141429.0,2019-12-21 23:00:00,Men Elite,Namur,22 Dec 2019,57745,"2019-2020 Telenet UCI Cyclo-cross World Cup, Namur",CDM,190749
+428,152637.0,2019-12-20 23:00:00,Men Elite,Sint-Niklaas,21 Dec 2019,57822,Waaslandcross,C2,207812
+429,152634.0,2019-12-14 23:00:00,Men Elite,Overijse,15 Dec 2019,57821,Vlaamse Druivencross,C1,207902
+430,152713.0,2019-12-14 23:00:00,Men Elite,York,15 Dec 2019,57845,National Trophy Series Round 6: York,C2,207636
+431,152857.0,2019-12-14 23:00:00,Men Elite,"Utsunomiya city, Tochigi prefecture",15 Dec 2019,57903,Utsunomiya Cyclo Cross Day2,C2,207747
+432,152887.0,2019-12-14 23:00:00,Men Elite,Valencia,15 Dec 2019,57912,Cyclo-Cross Internacional Ciudad de Valencia,C2,207634
+433,152951.0,2019-12-14 23:00:00,Men Elite,Vittorio Veneto TV,15 Dec 2019,57935,Gran Premio Città di Vittorio Veneto,C2,207822
+434,152898.0,2019-12-14 23:00:00,Men Elite,Bagnoles de l'Orne,15 Dec 2019,57978,3eme manche de Coupe de France Cyclo-cross,C2,207713
+435,151646.0,2019-12-14 23:00:00,Men Elite,"Tacoma, WA",15 Dec 2019,58564,USA National Championships,CN,206539
+436,152587.0,2019-12-13 23:00:00,Men Elite,Ronse - Kluisbergen,14 Dec 2019,57805,DVV Verzekeringen trofee Hotondcross,C1,207985
+437,152854.0,2019-12-13 23:00:00,Men Elite,"Utsunomiya city, Tochigi prefecture",14 Dec 2019,57902,Utsunomiya Cyclo Cross Day1,C2,207964
+438,152884.0,2019-12-13 23:00:00,Men Elite,Xativa,14 Dec 2019,57911,Ciclo-cross Ciudad de Xativa,C2,207680
+439,152913.0,2019-12-13 23:00:00,Men Elite,Unicov,14 Dec 2019,57920,Toi Toi Cup,C1,207839
+440,,2019-12-13 23:00:00,,,,57921,Czech National Championships - MJ,CN,207839
+441,151691.0,2019-12-13 23:00:00,Men Elite,"Micasasa, Sibiu",14 Dec 2019,58569,Romania National Championships,CN,206596
+442,152593.0,2019-12-07 23:00:00,Men Elite,Zonhoven,08 Dec 2019,57807,Telenet Superprestige Zonhoven,C1,207847
+443,152710.0,2019-12-07 23:00:00,Men Elite,Fae' Di Oderzo - Treviso,08 Dec 2019,57844,Ciclocross del Ponte,C2,207706
+444,152809.0,2019-12-07 23:00:00,Men Elite,Garland (Dallas) Texas,08 Dec 2019,57874,Resolution 'Cross Cup,C2,207746
+445,141491.0,2019-12-07 23:00:00,Men Elite,"Uchiko Town, Ehime Prefecture",08 Dec 2019,57900,Japanese National Championships,CN,190827
+446,152881.0,2019-12-07 23:00:00,Men Elite,Igorre,08 Dec 2019,57910,Ziklo kross Igorre,C2,207722
+447,141547.0,2019-12-07 23:00:00,Men Elite,Pferdezentrum Stadl-Paura,08 Dec 2019,57961,Int. Radquerfeldein GP Lambach/Stadl-Paura,C2,190782
+448,152806.0,2019-12-07 23:00:00,Men Elite,warwick,08 Dec 2019,58279,NBX GP of Cross 2,C2,207685
+449,152628.0,2019-12-06 23:00:00,Men Elite,Essen,07 Dec 2019,57819,IKO cyclocross - Essen,C1,207705
+450,152803.0,2019-12-06 23:00:00,Men Elite,Garland (Dallas) Texas,07 Dec 2019,57873,Resolution 'Cross Cup,C2,207954
+451,152910.0,2019-12-06 23:00:00,Men Elite,Jabkenice,07 Dec 2019,57919,Toi Toi Cup,C2,207654
+452,152878.0,2019-12-06 23:00:00,Men Elite,Ametzaga-Zuia,07 Dec 2019,58045,Trofeo San Andres,C2,207945
+453,152800.0,2019-12-06 23:00:00,Men Elite,warwick,07 Dec 2019,58278,NBX GP of Cross 1,C2,207832
+454,152625.0,2019-11-30 23:00:00,Men Elite,Mol,01 Dec 2019,57818,Lampiris Zilvermeercross,C1,207872
+455,152707.0,2019-11-30 23:00:00,Men Elite,Brugherio (MB),01 Dec 2019,57878,International Ciclocross selle SMP-11°Trof.Cop.ed.Brugherio82,C2,207798
+456,152918.0,2019-11-30 23:00:00,Men Elite,Lanarvily,01 Dec 2019,57924,Cyclo cross du Mingant Lanarvily,C2,208027
+457,152945.0,2019-11-30 23:00:00,Men Elite,"Broken Arrow,Oklahoma",01 Dec 2019,57933,Ruts 'n' Guts 2,C2,207786
+458,152948.0,2019-11-30 23:00:00,Men Elite,Madiswil,01 Dec 2019,57934,Flückiger Cross Madiswil,C2,207703
+459,142054.0,2019-11-30 23:00:00,Men Elite,Trencin,01 Dec 2019,58044,Slovak national championships,CN,190821
+460,153137.0,2019-11-30 23:00:00,Men Elite,Pontevedra,01 Dec 2019,58695,Gran Premio Ciudad de Pontevedra,C2,208295
+461,157990.0,2019-11-30 23:00:00,Men Elite,Espoo,01 Dec 2019,59979,Finnish National Championships,CN,220788
+462,152824.0,2019-11-29 23:00:00,Men Elite,Kolin,30 Nov 2019,57888,Toi Toi Cup,C2,207772
+463,152895.0,2019-11-29 23:00:00,Men Elite,"Broken Arrow, klahoma",30 Nov 2019,57914,Ruts 'n' Guts 1,C2,207770
+464,152365.0,2019-11-29 23:00:00,Men Elite,Milano,30 Nov 2019,58658,GRAN PREMIO GUERCIOTTI,C2,207363
+465,153140.0,2019-11-29 23:00:00,Men Elite,Abadiano,30 Nov 2019,58696,Abadiñoko udala saria,C2,208301
+466,154903.0,2019-11-29 23:00:00,Men Elite,Kortrijk,30 Nov 2019,59129,DVV Verzekeringen trofee Kortrijk,C2,210087
+467,141427.0,2019-11-23 23:00:00,Men Elite,Koksijde,24 Nov 2019,57744,"2019-2020 Telenet UCI Cyclo-cross World Cup, Koksijde",CDM,190744
+468,152704.0,2019-11-23 23:00:00,Men Elite,Pembrey Country Park,24 Nov 2019,57877,National Trophy Series Round 5: Pembrey,C2,207719
+469,152915.0,2019-11-23 23:00:00,Men Elite,Gościęcin,24 Nov 2019,57923,Bryksy Cross Gościęcin,C2,207712
+470,152942.0,2019-11-23 23:00:00,Men Elite,"Hendersonville, NC",24 Nov 2019,57932,North Carolina Grand Prix - Race 2,C2,207906
+471,152619.0,2019-11-22 23:00:00,Men Elite,Wachtebeke (Provinciaal Domein Puyenbroeck),23 Nov 2019,57816,Ambiancecross,C1,207824
+472,152851.0,2019-11-22 23:00:00,Men Elite,"Minamimaki Village, Nagano",23 Nov 2019,57899,Rapha Supercross Nobeyama,C1,207775
+473,152939.0,2019-11-22 23:00:00,Men Elite,"Hendersonville, NC",23 Nov 2019,57931,North Carolina Grand Prix - Race 1,C2,207632
+474,142051.0,2019-11-22 23:00:00,Men Elite,Kosice,23 Nov 2019,58042,Grand Prix Kosice,C2,190775
+475,152616.0,2019-11-16 23:00:00,Men Elite,Hamme,17 Nov 2019,57815,DVV Verzekeringen trofee Flandriencross,C1,208011
+476,152731.0,2019-11-16 23:00:00,Men Elite,Hittnau,17 Nov 2019,57851,EKZ CrossTour,C1,207711
+477,152794.0,2019-11-16 23:00:00,Men Elite,"Indy Cycloplex (Indianapolis, IND)",17 Nov 2019,57871,Major Taylor Cross Cup,C2,207682
+478,152797.0,2019-11-16 23:00:00,Men Elite,"Suffern , NY",17 Nov 2019,57872,Supercross Day 2,C2,207889
+479,152701.0,2019-11-16 23:00:00,Men Elite,Saccolongo PD,17 Nov 2019,57876,40th anniversary of the World memorial ciclocross Saccolongo,C2,207987
+480,152848.0,2019-11-16 23:00:00,Men Elite,Takashima City Shiga Prefecture,17 Nov 2019,57898,KANSAI Cyclo Cross Makino Round,C2,207662
+481,151424.0,2019-11-16 23:00:00,Men Elite,Spikkestad,17 Nov 2019,58537,Norwegian National Championships,CN,206260
+482,141410.0,2019-11-15 23:00:00,Men Elite,Tabor,16 Nov 2019,57743,"2019-2020 Telenet UCI Cyclo-cross World Cup, Tabor",CDM,190793
+483,152788.0,2019-11-15 23:00:00,Men Elite,"Suffern , NY",16 Nov 2019,57869,Supercross Day 1,C2,207843
+484,152791.0,2019-11-15 23:00:00,Men Elite,"Indy Cycloplex (Indianapolis, IND)",16 Nov 2019,57870,Major Taylor Cross Cup,C2,207715
+485,152613.0,2019-11-10 23:00:00,Men Elite,Niel,11 Nov 2019,57814,Jaarmarktcross,C1,207928
+486,152698.0,2019-11-09 23:00:00,Men Elite,"Ardingly, near Crawley",10 Nov 2019,57843,National Trophy Series Round 4: Crawley,C2,207916
+487,152875.0,2019-11-09 23:00:00,Men Elite,Karrantza,10 Nov 2019,57909,Cyclo-cross de Karrantza,C2,208032
+488,152936.0,2019-11-09 23:00:00,Men Elite,"Northampton, MA",10 Nov 2019,57930,The Northampton International,C2,207910
+489,152890.0,2019-11-08 23:00:00,Men Elite,"Midland, Ontario",10 Nov 2019,57913,Pan-American Championships,CC,207865
+490,152930.0,2019-11-08 23:00:00,Men Elite,"Midland, Ontario",09 Nov 2019,57928,Silver Goose Cyclocross Festival,C2,207689
+491,152933.0,2019-11-08 23:00:00,Men Elite,"Northampton, MA",09 Nov 2019,57929,The Northampton International,C2,207861
+492,141539.0,2019-11-08 23:00:00,Men Elite,Silvelle,10 Nov 2019,57957,UEC Cyclo-cross European Championships,CC,190791
+493,152785.0,2019-11-02 23:00:00,Men Elite,"Falmouth, Massachusetts, USA",03 Nov 2019,57868,Really Rad Festival of Cyclocross Day 2,C2,207855
+494,152728.0,2019-11-02 23:00:00,Men Elite,Micasasa,03 Nov 2019,57881,November Cross,C2,207940
+495,152845.0,2019-11-02 23:00:00,Men Elite,"Makuhari, Chiba",03 Nov 2019,57897,Yowamushi-Pedal Makuhari Cross p/b Champion System,C2,207668
+496,152872.0,2019-11-02 23:00:00,Men Elite,Vic,03 Nov 2019,57908,Gran Premi Internacional Ciutat de Vic,C2,207919
+497,152921.0,2019-11-02 23:00:00,Men Elite,Oostkamp - Ruddervoorde,03 Nov 2019,57925,Telenet Superprestige Ruddervoorde,C1,208036
+498,152927.0,2019-11-02 23:00:00,Men Elite,"Peterborough, Ontario",03 Nov 2019,57927,PTBOCX,C2,207757
+499,152827.0,2019-11-02 23:00:00,Men Elite,Andrezieux-Boutheon,03 Nov 2019,57977,2eme manche de Coupe de France Cyclo-cross,C2,207991
+500,141510.0,2019-11-01 23:00:00,Men Elite,"Peterborough, Ontario",02 Nov 2019,57839,Canadian National Championships,CN,190766
+501,152782.0,2019-11-01 23:00:00,Men Elite,"Falmouth, Massachusetts, USA",02 Nov 2019,57867,Really Rad Festival of Cyclocross Day 1,C2,207681
+502,152924.0,2019-11-01 23:00:00,Men Elite,Manlleu,02 Nov 2019,57926,Ciclocross Manlleu,C2,207958
+503,152607.0,2019-10-31 23:00:00,Men Elite,Melden - Oudenaarde,01 Nov 2019,57812,DVV Verzekeringen trofee Koppenbergcross,C1,207891
+504,152869.0,2019-10-31 23:00:00,Men Elite,Les Franqueses,01 Nov 2019,57907,Gran Premi Les Franqueses,C2,208022
+505,150604.0,2019-10-31 23:00:00,Men Elite,Jesolo,01 Nov 2019,58461,GP Citta Di Jesolo,C2,205131
+506,152686.0,2019-10-27 23:00:00,Men Elite,Slany,28 Oct 2019,57838,Toi Toi Cup,C1,207790
+507,152610.0,2019-10-26 23:00:00,Men Elite,Gavere,27 Oct 2019,57813,Telenet Superprestige Gavere,C1,207631
+508,152695.0,2019-10-26 23:00:00,Men Elite,Irvine,27 Oct 2019,57841,National Trophy Series Round 3: Irvine,C2,207707
+509,152779.0,2019-10-26 23:00:00,Men Elite,"Mason, Ohio USA",27 Oct 2019,57866,Cincinnati UCI Cyclocross - Kingswood Park,C2,207858
+510,152719.0,2019-10-26 23:00:00,Men Elite,Panevezys,27 Oct 2019,57880,Lithuanian National Championships,CN,207890
+511,152818.0,2019-10-26 23:00:00,Men Elite,Contern,27 Oct 2019,57886,Grand-Prix de la Commune de Contern,C2,207852
+512,152821.0,2019-10-26 23:00:00,Men Elite,Elorrio,27 Oct 2019,57887,Elorrioko Basqueland Ziklokrosa,C1,207989
+513,152833.0,2019-10-26 23:00:00,Men Elite,München,27 Oct 2019,57893,Munich Super Cross,C1,207827
+514,142048.0,2019-10-26 23:00:00,Men Elite,Topolcianky,27 Oct 2019,58043,Grand Prix Topolcianky,C1,190681
+515,152842.0,2019-10-26 23:00:00,Men Elite,"Sagae-shi,Yamagata Prefecture",27 Oct 2019,58076,Sagae Round Tohoku CX Series,C2,207941
+516,152776.0,2019-10-26 23:00:00,Men Elite,"Jamesburg, NJ",27 Oct 2019,58315,HPCX,C2,207729
+517,152631.0,2019-10-25 23:00:00,Men Elite,Beringen,26 Oct 2019,57820,Beringen,C2,207917
+518,152770.0,2019-10-25 23:00:00,Men Elite,"Mason, Ohio, USA",26 Oct 2019,57865,Cincinnati UCI Cyclocross - Kingswood Park,C1,207942
+519,152815.0,2019-10-25 23:00:00,Men Elite,Laudio-Llodio,26 Oct 2019,57885,Ziklokross Laudio,C1,207836
+520,142045.0,2019-10-25 23:00:00,Men Elite,Podbrezová,26 Oct 2019,58040,Grand Prix Podbrezová,C1,190729
+521,151703.0,2019-10-25 23:00:00,Men Elite,Izhevsk,26 Oct 2019,58572,Russian National Championships,CN,206605
+522,152716.0,2019-10-21 23:00:00,Men Elite,Woerden,22 Oct 2019,57847,Kiremko Nacht van Woerden,C2,207867
+523,141408.0,2019-10-19 23:00:00,Men Elite,Bern,20 Oct 2019,57742,"2019-2020 Telenet UCI Cyclo-cross World Cup, Bern",CDM,190886
+524,152601.0,2019-10-19 23:00:00,Men Elite,Ternitz,20 Oct 2019,57810,Tage des Querfeldeinsports (Day of Cyclocross),C2,207936
+525,152725.0,2019-10-19 23:00:00,Men Elite,Stockholm,20 Oct 2019,57850,Stockholm cyclocross,C2,207950
+526,152767.0,2019-10-19 23:00:00,Men Elite,"Washington, DC",20 Oct 2019,57864,DCCX,C2,207773
+527,153143.0,2019-10-19 23:00:00,Men Elite,Cles (TN),20 Oct 2019,58697,Il Melo Cup,C2,208302
+528,152598.0,2019-10-18 23:00:00,Men Elite,Boom,19 Oct 2019,57809,Telenet Superprestige De Schorre Boom,C2,208012
+529,152764.0,2019-10-18 23:00:00,Men Elite,"Washington, DC",19 Oct 2019,57861,DCCX,C2,208015
+530,152812.0,2019-10-18 23:00:00,Men Elite,Täby Park,19 Oct 2019,57889,CX Täby Park,C2,207968
+531,152596.0,2019-10-16 23:00:00,Men Elite,Ardooie,17 Oct 2019,57808,Kermiscross,C2,207802
+532,152758.0,2019-10-12 23:00:00,Men Elite,"Baltimore, MD",13 Oct 2019,57859,Charm City Cross,C2,207963
+533,152830.0,2019-10-12 23:00:00,Men Elite,Steinmaur,13 Oct 2019,57891,Internationales Radquer Steinmaur,C2,207947
+534,152836.0,2019-10-12 23:00:00,Men Elite,Gieten,13 Oct 2019,57895,Telenet Superprestige Gieten,C1,208005
+535,154945.0,2019-10-12 23:00:00,Men Elite,Trnava,13 Oct 2019,58041,Grand Prix Trnava,C2,210128
+536,142432.0,2019-10-12 23:00:00,Men Elite,La Meziere,13 Oct 2019,58092,1ere manche de Coupe de France Cyclo-cross,C2,190931
+537,152761.0,2019-10-12 23:00:00,Men Elite,"Boulder, CO",13 Oct 2019,58277,US Open of Cyclocross Day 2,C2,207976
+538,152590.0,2019-10-11 23:00:00,Men Elite,Kruibeke,12 Oct 2019,57806,Polderscross,C2,208006
+539,152683.0,2019-10-11 23:00:00,Men Elite,Holé Vrchy,12 Oct 2019,57837,Toi Toi Cup,C2,207656
+540,152689.0,2019-10-11 23:00:00,Men Elite,Suure-Jaani,12 Oct 2019,57840,Estonian National Championships,CN,208008
+541,152755.0,2019-10-11 23:00:00,Men Elite,"Baltimore, MD",12 Oct 2019,57858,Charm City Cross,C2,207948
+542,152752.0,2019-10-11 23:00:00,Men Elite,"Boulder, CO",12 Oct 2019,58276,US Open of Cyclocross Day 1,C2,207663
+543,152604.0,2019-10-05 23:00:00,Men Elite,Pelt,06 Oct 2019,57811,GP Pelt,C2,208002
+544,152722.0,2019-10-05 23:00:00,Men Elite,Aigle,06 Oct 2019,57849,EKZ CrossTour,C1,207887
+545,152692.0,2019-10-05 23:00:00,Men Elite,"Milnthorpe, Cumbria",06 Oct 2019,57875,National Trophy Series Round 2: Milnthorpe,C2,207735
+546,152749.0,2019-10-05 23:00:00,Men Elite,Fayetteville Arkansas,06 Oct 2019,57883,FayetteCross,C2,207930
+547,142042.0,2019-10-05 23:00:00,Men Elite,Rakova,06 Oct 2019,58039,Grand Prix Rakova,C2,190810
+548,152584.0,2019-10-04 23:00:00,Men Elite,Meulebeke,05 Oct 2019,57804,Berencross,C2,207859
+549,152680.0,2019-10-04 23:00:00,Men Elite,Hlinsko,05 Oct 2019,57836,Toi Toi Cup,C2,207929
+550,152740.0,2019-10-04 23:00:00,Men Elite,Fayetteville Arkansas,05 Oct 2019,57882,FayetteCross,C2,207844
+551,141488.0,2019-09-28 23:00:00,Men Elite,Campeonato Nacional CX,29 Sep 2019,57953,Chilean National Championships,CN,190857
+552,142039.0,2019-09-28 23:00:00,Men Elite,Poprad,29 Sep 2019,58036,Grand Prix Poprad,C1,190693
+553,149274.0,2019-09-28 23:00:00,Men Elite,Vittel,29 Sep 2019,58388,Canyon Cross Race,C2,202362
+554,152578.0,2019-09-27 23:00:00,Men Elite,Mlada Boleslav,28 Sep 2019,57951,Toi Toi Cup,C1,207774
+555,149210.0,2019-09-27 23:00:00,Men Elite,Vittel,28 Sep 2019,58387,Chazal Cup Vittel,C2,202048
+556,141406.0,2019-09-21 23:00:00,Men Elite,Waterloo,22 Sep 2019,57740,"2019-2020 Telenet UCI Cyclo-cross World Cup, Waterloo",CDM,190745
+557,152572.0,2019-09-21 23:00:00,Men Elite,Boulzicourt,22 Sep 2019,57949,Cyclo-cross de Boulzicourt Ardennes,C2,207943
+558,152575.0,2019-09-21 23:00:00,Men Elite,Derby,22 Sep 2019,57950,National Trophy Series Round 1: Derby,C2,207765
+559,152954.0,2019-09-21 23:00:00,Men Elite,Illnau,22 Sep 2019,57962,Radcross Illnau,C2,207820
+560,152569.0,2019-09-19 23:00:00,Men Elite,Waterloo Wisconsin,20 Sep 2019,57948,Trek Cup,C2,207695
+561,152566.0,2019-09-14 23:00:00,Men Elite,"Iowa City, Iowa",15 Sep 2019,57946,Jingle Cross,C1,207687
+562,141404.0,2019-09-13 23:00:00,Men Elite,Iowa City,14 Sep 2019,57741,"2019-2020 Telenet UCI Cyclo-cross World Cup, Iowa City",CDM,190853
+563,152564.0,2019-09-12 23:00:00,Men Elite,"Iowa City, Iowa",13 Sep 2019,57945,Jingle Cross,C2,207751
+564,152561.0,2019-09-07 23:00:00,Men Elite,Eeklo,08 Sep 2019,57944,cross Eeklo,C2,207972
+565,152558.0,2019-09-07 23:00:00,Men Elite,"Rochester, NY",08 Sep 2019,58038,Rochester Cyclocross,C2,207904
+566,152555.0,2019-09-06 23:00:00,Men Elite,"Rochester, NY",07 Sep 2019,58037,Rochester Cyclocross,C1,207933
+567,145113.0,2019-09-06 23:00:00,Men Elite,Fengfeng Station,07 Sep 2019,58291,Qiansen Trophy Fengfeng Station,C1,193939
+568,152552.0,2019-08-31 23:00:00,Men Elite,"Roanoke, VA, USA",01 Sep 2019,57943,Virginia's Blue Ridge GO Cross,C2,207639
+569,145111.0,2019-08-31 23:00:00,Men Elite,Aohan County,01 Sep 2019,58290,Qiansen trophy Aohan Station,C1,193936
+570,152549.0,2019-08-30 23:00:00,Men Elite,"Roanoke, VA, USA",31 Aug 2019,57941,Virginia's Blue Ridge GO Cross,C2,207813
+571,141504.0,2019-08-17 23:00:00,Men Elite,"Melbourne, Victoria",18 Aug 2019,57956,Melbourne Grand Prix of Cyclo-Cross,C2,190819
+572,141501.0,2019-08-16 23:00:00,Men Elite,"Melbourne, Victoria",17 Aug 2019,57955,Melbourne Grand Prix of Cyclo-Cross,C2,190879
+573,145367.0,2019-08-10 23:00:00,Men Elite,Christchurch,11 Aug 2019,58318,New Zealand National Championships,CN,194182
+574,141507.0,2019-08-09 23:00:00,Men Elite,"Sam Miranda, King Valley Victoria",10 Aug 2019,57954,Australian National Championships,CN,190897
+575,162279.0,2021-02-20 23:00:00,Men Elite,Oostmalle,21 Feb 2021,60603,Internationale Sluitingsprijs Ostmalle,C1,225859
+576,169037.0,2021-02-20 23:00:00,Men Elite,Santo Tirso,21 Feb 2021,62785,Portugese National Championships,CN,234550
+577,,2021-02-20 23:00:00,,,,64735,Championnats de France de Cyclo-cross - catégories Juniors,CN,234550
+578,162435.0,2021-02-19 23:00:00,Men Elite,Sint-Niklaas,20 Feb 2021,60602,Waaslandcross,C2,226285
+579,162264.0,2021-02-13 23:00:00,Men Elite,Brussels,14 Feb 2021,60595,X²0 badkamers Trofee - Brussels Universities Cyclocross,C1,225977
+580,161921.0,2021-02-12 23:00:00,Men Elite,Eeklo,13 Feb 2021,60478,cross Eeklo,C2,226029
+581,162274.0,2021-02-06 23:00:00,Men Elite,Lille,07 Feb 2021,60599,X²0 badkamers Trofee - Krawatencross,C1,225918
+582,162306.0,2021-02-05 23:00:00,Men Elite,Middelkerke,06 Feb 2021,60598,Telenet Superprestige - Middelkerke,C1,226157
+583,164677.0,2021-01-29 23:00:00,Men Elite,Ostende,31 Jan 2021,60615,UCI Cyclo-cross World Championships,CM,228628
+584,161770.0,2021-01-23 23:00:00,Men Elite,Overijse,24 Jan 2021,60468,"2020-2021 UCI Cyclo-cross World Cup, Overijse",CDM,225722
+585,162277.0,2021-01-22 23:00:00,Men Elite,Hamme,23 Jan 2021,60601,X²0 badkamers Trofee - Flandriencross,C1,226050
+586,175906.0,2021-01-22 23:00:00,Men Elite,Włoszakowice,23 Jan 2021,64488,Polish National Championships,CN,248609
+587,162255.0,2021-01-15 23:00:00,Men Elite,Mol,16 Jan 2021,60592,Lampiris Zilvermeercross,C1,225855
+588,161826.0,2021-01-09 23:00:00,Men Elite,Hittnau,10 Jan 2021,60590,Crossquer,CN,225704
+589,177071.0,2021-01-09 23:00:00,Men Elite,Aarhus,10 Jan 2021,60614,Danish National Championships,CN,249765
+590,162240.0,2021-01-08 23:00:00,Men Elite,Jabkenice,09 Jan 2021,60586,Championnat National de la Rep. Tcheque ME,CN,225754
+591,162242.0,2021-01-08 23:00:00,Men Elite,Pontchâteau - Région Pays de la Loire,09 Jan 2021,60587,Championnats de France de Cyclo-cross,CN,226091
+592,161853.0,2021-01-08 23:00:00,Men Elite,Meulebeke,09 Jan 2021,60607,Belgian National Championships,CN,225673
+593,168372.0,2021-01-08 23:00:00,Men Elite,Lecce,09 Jan 2021,62710,Italian National Championships,CN,233846
+594,175854.0,2021-01-08 23:00:00,Men Elite,Pernitz,09 Jan 2021,64474,Austrian National Championships,CN,248509
+595,176363.0,2021-01-08 23:00:00,Men Elite,Miskolc,09 Jan 2021,64532,Hungarian national championships,CN,249057
+596,176358.0,2021-01-07 23:00:00,Men Elite,Torrelavega,08 Jan 2021,64531,Spanish National Championships,CN,249053
+597,161795.0,2021-01-02 23:00:00,Men Elite,Hulst,03 Jan 2021,60466,"2020-2021 UCI Cyclo-cross World Cup, Hulst",CDM,225692
+598,162295.0,2021-01-01 23:00:00,Men Elite,Gullegem,02 Jan 2021,60584,Cyclocross Gullegem,C2,226152
+599,162237.0,2021-01-01 23:00:00,Men Elite,Hittnau,02 Jan 2021,60585,EKZ CrossTour Hittnau,C1,225767
+600,161850.0,2021-01-01 23:00:00,Men Elite,Troyes,02 Jan 2021,60613,Troyes Cyclocross International,C1,225672
+601,161819.0,2020-12-31 23:00:00,Men Elite,Baal,01 Jan 2021,60582,X²0 badkamers Trofee - GP Sven Nys,C1,225643
+602,162228.0,2020-12-29 23:00:00,Men Elite,Bredene,30 Dec 2020,60581,Cyclocross Bredene,C2,226058
+603,161781.0,2020-12-26 23:00:00,Men Elite,Dendermonde,27 Dec 2020,60469,"2020-2021 UCI Cyclo-cross World Cup, Dendermonde",CDM,225687
+604,161844.0,2020-12-25 23:00:00,Men Elite,Heusden-Zolder,26 Dec 2020,60605,Telenet Superprestige - Heusden-Zolder,C1,225664
+605,162224.0,2020-12-22 23:00:00,Men Elite,Herentals,23 Dec 2020,60580,X²0 badkamers Trofee - Azencross,C2,225757
+606,162309.0,2020-12-21 23:00:00,Men Elite,Essen,22 Dec 2020,60600,Robotland Cyclocross Essen,C2,226162
+607,161785.0,2020-12-19 23:00:00,Men Elite,Namur,20 Dec 2020,60460,"2020-2021 UCI Cyclo-cross World Cup, Namur",CDM,225621
+608,162208.0,2020-12-12 23:00:00,Men Elite,Valencia,13 Dec 2020,60574,Cyclocross Internacional ciudad Valencia,C2,225908
+609,162292.0,2020-12-12 23:00:00,Men Elite,Gavere,13 Dec 2020,60578,Telenet Superprestige - Gavere,C1,226153
+610,,2020-12-11 23:00:00,,,,60570,Championnat National de la Rep. Tcheque ME,CN,226153
+611,162199.0,2020-12-11 23:00:00,Men Elite,Xátiva (Valencia),12 Dec 2020,60571,Ciclo-cross Ciudad de Xàtiva,C2,225952
+612,162202.0,2020-12-11 23:00:00,Men Elite,Kolín,12 Dec 2020,60572,Toi Toi Cup,C2,226036
+613,167578.0,2020-12-11 23:00:00,Men Elite,Antwerpen,12 Dec 2020,62481,X²0 badkamers Trofee - Scheldecross,C1,232964
+614,162009.0,2020-12-05 23:00:00,Men Elite,Grand Prix Topolcianky,06 Dec 2020,60509,Topolcianky,C2,225985
+615,162179.0,2020-12-05 23:00:00,Men Elite,Boom,06 Dec 2020,60563,Telenet Superprestige - De Schorre Boom,C2,225996
+616,162163.0,2020-12-04 23:00:00,Men Elite,Topolcianky,05 Dec 2020,60558,Championnat National de Slovaquie ME,CN,225787
+617,161772.0,2020-11-28 23:00:00,Men Elite,Tabor,29 Nov 2020,60458,"2020-2021 UCI Cyclo-cross World Cup, Tabor",CDM,225679
+618,162062.0,2020-11-28 23:00:00,Men Elite,Grand Prix Podbrezova,29 Nov 2020,60526,Podbrezova,C2,225969
+619,161996.0,2020-11-27 23:00:00,Men Elite,Trnava,28 Nov 2020,60504,Grand Prix Trnava,C2,226009
+620,162157.0,2020-11-27 23:00:00,Men Elite,Kortrijk,28 Nov 2020,60556,X²0 badkamers Trofee - Urban Cross,C2,225975
+621,161816.0,2020-11-27 23:00:00,Men Elite,"Nagamine-Sports Park,Iiyama City, Nagano Pref.",28 Nov 2020,60564,Japanese National Championships,CN,225649
+622,162064.0,2020-11-21 23:00:00,Men Elite,Jičín,22 Nov 2020,60527,Toi Toi Cup,C2,226005
+623,162432.0,2020-11-21 23:00:00,Men Elite,Merksplas,22 Nov 2020,60550,Telenet Superprestige - Cyclocross Merksplas,C2,226282
+624,162145.0,2020-11-21 23:00:00,Men Elite,Gościęcin,22 Nov 2020,60552,Bryksy Cross Gościęcin,C2,225938
+625,162154.0,2020-11-21 23:00:00,Men Elite,Takashima City Shiga Prefecture,22 Nov 2020,60555,Kansai Cyclo Cross Makino Round,C2,225993
+626,162137.0,2020-11-16 23:00:00,Men Elite,Rýmařov,17 Nov 2020,60549,Toi Toi Cup,C2,225983
+627,162312.0,2020-11-13 23:00:00,Men Elite,Leuven,14 Nov 2020,60483,GP Leuven,C1,226164
+628,162110.0,2020-11-10 23:00:00,Men Elite,Niel,11 Nov 2020,60541,Telenet Superprestige - Jaarmarktcross,C1,225784
+629,162102.0,2020-11-07 23:00:00,Men Elite,’S-Hertogenbosch,08 Nov 2020,60539,2020 UEC Cyclo-cross European Championships,CC,225869
+630,162067.0,2020-10-30 23:00:00,Men Elite,Oudenaarde,31 Oct 2020,60528,X²0 badkamers Trofee - Koppenbergcross,C1,226040
+631,171668.0,2020-10-30 23:00:00,Men Elite,Vantaa,31 Oct 2020,63866,Finnish National Championships,CN,237382
+632,170387.0,2020-10-24 23:00:00,Men Elite,Panevezys,25 Oct 2020,63730,Lithuanian Cyclo-cross National Championships,CN,236103
+633,162303.0,2020-10-23 23:00:00,Men Elite,Oostkamp - Ruddervoorde,24 Oct 2020,60518,Telenet Superprestige - Ruddervoorde,C1,226159
+634,162046.0,2020-10-23 23:00:00,Men Elite,Elva,24 Oct 2020,60521,Estonian National Championships,CN,226110
+635,162391.0,2020-10-23 23:00:00,Men Elite,Izhevsk (Republic of Udmurtia),24 Oct 2020,60647,Russian Cyclo-cross National Championships,CN,226237
+636,168271.0,2020-10-17 23:00:00,Men Elite,Bern,18 Oct 2020,62691,EKZ CrossTour Bern,C1,233738
+637,162429.0,2020-10-16 23:00:00,Men Elite,Beringen,17 Oct 2020,60507,Beringen,C2,226281
+638,161990.0,2020-10-10 23:00:00,Men Elite,Sueca,11 Oct 2020,60502,Trofeu de Ciclocross Sueca,C2,225956
+639,161993.0,2020-10-10 23:00:00,Men Elite,Gieten,11 Oct 2020,60503,Telenet Superprestige - Gieten,C1,225968
+640,161999.0,2020-10-10 23:00:00,Men Elite,Steinmaur,11 Oct 2020,60505,Internationales Radquer Steinmaur,C2,226044
+641,162029.0,2020-10-10 23:00:00,Men Elite,Stockholm,11 Oct 2020,60515,Stockholm cyclocross,C2,225995
+642,162006.0,2020-10-09 23:00:00,Men Elite,Täby Park,10 Oct 2020,60508,CX Täby Park,C2,225974
+643,161987.0,2020-10-02 23:00:00,Men Elite,Kruibeke,03 Oct 2020,60501,Polderscross,C2,225992
+644,161962.0,2020-09-26 23:00:00,Men Elite,Holé Vrchy,27 Sep 2020,60493,Toi Toi Cup,C2,225761
+645,161956.0,2020-09-25 23:00:00,Men Elite,Mladá Boleslav,26 Sep 2020,60491,Toi Toi Cup,C2,226122
+646,168909.0,2020-09-25 23:00:00,Men Elite,Lokeren,26 Sep 2020,62769,Rapencross,C2,234409
+647,161917.0,2020-09-12 23:00:00,Men Elite,Baden,13 Sep 2020,60477,EKZ CrossTour Baden,C1,225882
+648,180654.0,2021-10-02 23:00:00,Men Elite,Gieten,03 Oct 2021,65023,Telenet Superprestige Gieten,C1,253781
+649,180768.0,2021-10-02 23:00:00,Men Elite,"Baltimore, MD",03 Oct 2021,65055,USCX Cyclocross - Charm City Cross,C2,253693
+650,180772.0,2021-10-02 23:00:00,Men Elite,Asker,03 Oct 2021,65056,Føyka KROSS,C2,253919
+651,180775.0,2021-10-02 23:00:00,Men Elite,Pierric - Région Pays de la Loire,03 Oct 2021,65057,2eme Manche Coupe de France Cyclo-cross,C2,253938
+652,180779.0,2021-10-02 23:00:00,Men Elite,Jesolo (VE),03 Oct 2021,65058,Gran Premio Internazionale CX Città di Jesolo - Cyclo-Cross European Cup,C2,253646
+653,180650.0,2021-10-01 23:00:00,Men Elite,"Baltimore, MD",02 Oct 2021,65022,USCX Cyclocross - Charm City Cross,C1,254033
+654,180757.0,2021-10-01 23:00:00,Men Elite,Pierric - Région Pays de la Loire,02 Oct 2021,65052,1ere Manche Coupe de France Cyclo-cross,C2,253803
+655,180760.0,2021-10-01 23:00:00,Men Elite,Meulebeke,02 Oct 2021,65053,Berencross,C2,253834
+656,180765.0,2021-10-01 23:00:00,Men Elite,Asker,02 Oct 2021,65054,Føyka KROSS,C2,253722
+657,179563.0,2021-10-01 23:00:00,Men Elite,Hlinsko,02 Oct 2021,65129,Toi Toi Cup,C2,253395
+658,179567.0,2021-09-27 23:00:00,Men Elite,Mladá Boleslav,28 Sep 2021,65127,Toi Toi Cup,C2,253457
+659,180743.0,2021-09-25 23:00:00,Men Elite,"Rochester, NY",26 Sep 2021,65048,USCX Cyclocross - Rochester Cyclocross,C2,253882
+660,180751.0,2021-09-25 23:00:00,Men Elite,Illnau,26 Sep 2021,65050,Radcross Illnau,C2,253766
+661,180754.0,2021-09-25 23:00:00,Men Elite,Boulzicourt,26 Sep 2021,65051,Cyclo-cross international de Boulzicourt Ardennes,C2,253769
+662,180646.0,2021-09-24 23:00:00,Men Elite,"Rochester, NY",25 Sep 2021,65021,USCX Cyclocross - Rochester Cyclocross,C1,253897
+663,180970.0,2021-09-24 23:00:00,Men Elite,Bredene,25 Sep 2021,65113,Cyclocross Bredene,C2,253978
+664,180736.0,2021-09-18 23:00:00,Men Elite,"Roanoke, VA, USA",19 Sep 2021,65046,GO Cross presented by Deschutes Brewery day 2,C2,253664
+665,180747.0,2021-09-18 23:00:00,Men Elite,Derby,19 Sep 2021,65049,National Trophy Series Round 1: Derby,C2,254014
+666,180881.0,2021-09-18 23:00:00,Men Elite,Les Franqueses,19 Sep 2021,65088,Gran Premi Les Franqueses,C2,253921
+667,180730.0,2021-09-17 23:00:00,Men Elite,Île de Loisirs de Jablines-Annet,18 Sep 2021,65044,Le Grand CX,C2,254041
+668,180808.0,2021-09-17 23:00:00,Men Elite,Beringen,18 Sep 2021,65067,Beringen,C2,253730
+669,183273.0,2021-09-17 23:00:00,Men Elite,"Roanoke, VA, USA",18 Sep 2021,65518,GO Cross presented by Deschutes Brewery day 1,C2,257580
+670,180733.0,2021-09-10 23:00:00,Men Elite,Lokeren,11 Sep 2021,65045,Rapencross,C2,253685
+671,179637.0,2021-09-10 23:00:00,Men Elite,Lützelbach,11 Sep 2021,65152,4 Bikes Festival Cyclocross Race,C2,253439
+672,180593.0,2021-08-14 23:00:00,Men Elite,"Lower Hutt, Wellington",15 Aug 2021,65009,New Zealand National Championships,CN,253649
